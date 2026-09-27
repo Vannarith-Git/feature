@@ -1,9 +1,14 @@
 name: Movie Alert Monitor
 
 on:
+  push:
+    branches: [master]
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 concurrency:
   group: movie-alert-monitor
@@ -12,9 +17,61 @@ concurrency:
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    timeout-minutes: 4
+    timeout-minutes: 8
     steps:
-      - name: Run movie check
+      - name: Checkout monitor code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Load previous metadata state
+        run: |
+          git fetch origin holly-cache:holly-cache
+          git show holly-cache:indonesia_horror_cache.json > /tmp/previous_indonesia.json 2>/dev/null || echo '{"candidate_results":{}}' > /tmp/previous_indonesia.json
+
+      - name: Refresh public metadata caches
+        run: |
+          python scripts/update_holly_cache.py /tmp/holly_cache.json
+          python scripts/update_indonesia_cache.py /tmp/indonesia_horror_cache.json /tmp/previous_indonesia.json
+
+      - name: Publish cache changes only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git checkout holly-cache
+
+          python - <<'PY'
+          import json, os
+          pairs = [
+              ('holly_cache.json', '/tmp/holly_cache.json', ['items']),
+              ('indonesia_horror_cache.json', '/tmp/indonesia_horror_cache.json', ['items', 'candidate_results', 'provider_errors']),
+          ]
+          for old_path, new_path, keys in pairs:
+              with open(new_path, encoding='utf-8') as f:
+                  new = json.load(f)
+              old = None
+              if os.path.exists(old_path):
+                  try:
+                      with open(old_path, encoding='utf-8') as f:
+                          old = json.load(f)
+                  except Exception:
+                      pass
+              if old and all(old.get(k) == new.get(k) for k in keys):
+                  new['generated_at'] = old.get('generated_at', new.get('generated_at'))
+              with open(old_path, 'w', encoding='utf-8') as f:
+                  json.dump(new, f, ensure_ascii=False, indent=2)
+                  f.write('\n')
+          PY
+
+          if git diff --quiet -- holly_cache.json indonesia_horror_cache.json; then
+            echo 'Metadata caches unchanged.'
+          else
+            git add holly_cache.json indonesia_horror_cache.json
+            git commit -m 'Update movie metadata caches'
+            git push origin holly-cache
+          fi
+
+      - name: Wake free Render bot and run movie check
         run: |
           curl --fail --show-error --silent \
             --max-time 180 \
