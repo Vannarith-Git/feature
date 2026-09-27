@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-09-27T15:06:15.423343+00:00",
+  "generated_at": "2026-09-27T18:59:02.116883+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -29,21 +29,6 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Ghosthing",
-      "url": "https://www.justwatch.com/id/movie/ghosthing",
-      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Fantasy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
       "title": "Sengkolo: Petaka Satu Suro",
       "url": "https://www.justwatch.com/id/movie/sengkolo-petaka-satu-suro-2026",
       "poster_url": "https://images.justwatch.com/poster/340349668/s332/sengkolo-petaka-satu-suro-2026.jpg",
@@ -55,21 +40,6 @@
         "Netflix"
       ],
       "provider": "Netflix"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Songko",
-      "url": "https://www.justwatch.com/id/movie/songko",
-      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Horror, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -332,6 +302,11 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T15:06:15.423343+00:00"
+    },
+    "https://www.justwatch.com/id/movie/granny": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T18:59:02.116883+00:00"
     }
   }
 }
