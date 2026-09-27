@@ -17,11 +17,6 @@ MOVIE_SLUG_RE = re.compile(r'-(19\d{2}|20\d{2})$', re.I)
 
 
 def is_detail(url):
-    """Accept only Holly root-level movie URLs that end in a release year.
-
-    Examples accepted: /dark-nuns-2025/, /heart-eyes-2025/.
-    Navigation pages such as /anime/ or /top-movies/ are excluded.
-    """
     p = urlparse(url)
     if p.netloc.lower() not in ('hollymoviehd.cc', 'www.hollymoviehd.cc'):
         return False
@@ -65,29 +60,24 @@ def parse(markdown):
         label, raw_url = m.group(1), m.group(2).rstrip('.,;')
         if not is_detail(raw_url):
             continue
-
         p = urlparse(raw_url)
         slug = p.path.strip('/')
         url = 'https://hollymoviehd.cc/' + slug + '/'
         if url in seen:
             continue
-
         title = clean_title(label, url)
         if len(title) < 2:
             continue
-
         slug_year = MOVIE_SLUG_RE.search(slug)
         context = markdown[max(0, m.start() - 250):min(len(markdown), m.end() + 250)]
         qm = QUALITY_RE.search(context)
-        year = slug_year.group(1) if slug_year else None
-
         out.append({
             'source': 'HollyMovieHD',
             'source_type': 'movie',
             'title': title,
             'url': url,
             'poster_url': nearby_poster(markdown, m.start()),
-            'year': year,
+            'year': slug_year.group(1) if slug_year else None,
             'quality': qm.group(1) if qm else None,
         })
         seen.add(url)
@@ -101,6 +91,16 @@ def main():
     text = fetch()
     items = parse(text)
     if not items:
+        print('DEBUG: Holly URLs visible in reader output:')
+        found = []
+        for m in re.finditer(r'https://hollymoviehd\.cc/[^\s)\]">]+', text, re.I):
+            url = m.group(0).rstrip('.,;')
+            if url not in found:
+                found.append(url)
+            if len(found) >= 80:
+                break
+        for url in found:
+            print(url)
         raise SystemExit('No real HollyMovieHD movie URLs parsed from public reader')
     payload = {
         'source': 'HollyMovieHD',
