@@ -11,5 +11,6 @@ logging.getLogger("httpcore").setLevel(logging.WARNING)
 try:
     import holly_fallback  # noqa: F401
     import holly_reader  # noqa: F401
+    import holly_cache_fallback  # noqa: F401
 except Exception:
     pass
