@@ -3,25 +3,65 @@ name: Movie Alert Monitor
 on:
   push:
     branches: [master]
+  schedule:
+    - cron: '*/5 * * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: movie-alert-monitor
+  cancel-in-progress: false
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Inspect HollyMovieHD Telegram preview
+      - name: Checkout monitor code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Build HollyMovieHD public metadata cache
         run: |
-          UA='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36'
-          curl -L -A "$UA" -sS --max-time 30 'https://t.me/s/hollymoviehd' -o /tmp/hollytg.html
-          echo "bytes=$(wc -c < /tmp/hollytg.html)"
-          echo '--- title ---'
-          grep -oE '<title>[^<]+' /tmp/hollytg.html | head -3 || true
-          echo '--- post text snippets ---'
-          grep -oE 'tgme_widget_message_text[^>]*>[^<]+' /tmp/hollytg.html | sed -E 's/.*>//' | head -20 || true
-          echo '--- message links ---'
-          grep -oE 'https://t\.me/hollymoviehd/[0-9]+' /tmp/hollytg.html | sort -u | tail -20 || true
-          echo '--- holly links ---'
-          grep -oE 'https?://hollymoviehd\.cc[^"< ]+' /tmp/hollytg.html | head -20 || true
-          echo '--- photos ---'
-          grep -oE 'background-image:url\([^)]+' /tmp/hollytg.html | head -10 || true
+          python scripts/update_holly_cache.py /tmp/holly_cache.json
+
+      - name: Publish cache only when movie list changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git fetch origin holly-cache:holly-cache
+          git checkout holly-cache
+
+          changed=$(python - <<'PY'
+          import json, os
+          with open('/tmp/holly_cache.json', encoding='utf-8') as f:
+              new = json.load(f)
+          old = None
+          if os.path.exists('holly_cache.json'):
+              try:
+                  with open('holly_cache.json', encoding='utf-8') as f:
+                      old = json.load(f)
+              except Exception:
+                  pass
+          print('0' if old and old.get('items') == new.get('items') else '1')
+          PY
+          )
+
+          if [ "$changed" = "1" ]; then
+            cp /tmp/holly_cache.json holly_cache.json
+            git add holly_cache.json
+            git commit -m 'Update HollyMovieHD metadata cache'
+            git push origin holly-cache
+          else
+            echo 'Holly movie list unchanged; keeping existing cache commit.'
+          fi
+
+      - name: Wake free Render bot and run notification check
+        run: |
+          curl --fail --show-error --silent \
+            --max-time 150 \
+            -X POST \
+            https://movie-alert-bot-ui.onrender.com/cron-run
