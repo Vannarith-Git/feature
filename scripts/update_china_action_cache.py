@@ -4,6 +4,7 @@ import os
 import re
 import sys
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 
 FEEDS = [
@@ -12,9 +13,10 @@ FEEDS = [
     ("Catchplay", "https://www.justwatch.com/id/provider/catchplay/new/movies?genres=act"),
     ("Viu", "https://www.justwatch.com/id/provider/viu/new/movies?genres=act"),
 ]
-MAX_PER_FEED = 12
+MAX_PER_FEED = 10
 MAX_RESULTS = 60
 MAX_HISTORY = 300
+WORKERS = 8
 LINK_RE = re.compile(
     r"\[!\[Image\s+\d+:\s*(?P<title>.*?)\]\((?P<poster>https://images\.justwatch\.com/[^)]+)\)\]"
     r"\((?P<url>https://www\.justwatch\.com/id/movie/[^)\s]+)\)",
@@ -28,7 +30,7 @@ def fetch_text(url):
         "https://r.jina.ai/" + url,
         headers={"User-Agent": "Mozilla/5.0 MovieAlertChinaActionMonitor/1.0", "Accept": "text/plain"},
     )
-    with urllib.request.urlopen(req, timeout=60) as res:
+    with urllib.request.urlopen(req, timeout=25) as res:
         return res.read().decode("utf-8", "replace")
 
 
@@ -108,14 +110,22 @@ def load_previous(path):
         return {"candidate_results": {}}
 
 
+def classify(url, candidate, now):
+    try:
+        detail = fetch_text(url)
+        parsed = parse_detail(detail, candidate)
+        return url, {"match": bool(parsed), "item": parsed, "checked_at": now}
+    except Exception as exc:
+        return url, {"match": False, "item": None, "checked_at": now, "error": type(exc).__name__}
+
+
 def main():
     output = sys.argv[1] if len(sys.argv) > 1 else "china_action_cache.json"
     previous_path = sys.argv[2] if len(sys.argv) > 2 else ""
     previous = load_previous(previous_path)
     history = dict(previous.get("candidate_results") or {})
 
-    all_candidates = {}
-    feed_errors = []
+    all_candidates, feed_errors = {}, []
     for provider, url in FEEDS:
         try:
             for row in candidates(provider, url):
@@ -126,17 +136,17 @@ def main():
             feed_errors.append(f"{provider}: {type(exc).__name__}")
 
     now = datetime.now(timezone.utc).isoformat()
+    missing = [(u, c) for u, c in all_candidates.items() if u not in history]
+    if missing:
+        with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+            futures = [pool.submit(classify, u, c, now) for u, c in missing]
+            for future in as_completed(futures):
+                url, result = future.result()
+                history[url] = result
+
     items = []
     for url, candidate in all_candidates.items():
-        cached = history.get(url)
-        if cached is None:
-            try:
-                detail = fetch_text(url)
-                parsed = parse_detail(detail, candidate)
-                cached = {"match": bool(parsed), "item": parsed, "checked_at": now}
-            except Exception as exc:
-                cached = {"match": False, "item": None, "checked_at": now, "error": type(exc).__name__}
-            history[url] = cached
+        cached = history.get(url) or {}
         if cached.get("match") and cached.get("item"):
             item = dict(cached["item"])
             item["providers"] = candidate.get("providers", [])
