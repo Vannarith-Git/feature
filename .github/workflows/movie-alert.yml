@@ -1,23 +1,22 @@
 name: Movie Alert Monitor
 
 on:
-  push:
-    branches: [master]
+  schedule:
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
+concurrency:
+  group: movie-alert-monitor
+  cancel-in-progress: false
+
 jobs:
-  probe:
+  monitor:
     runs-on: ubuntu-latest
     timeout-minutes: 4
     steps:
-      - name: Inspect Holly detail URL patterns
+      - name: Run movie check
         run: |
-          curl -L --fail --show-error --silent --max-time 60 \
-            'https://r.jina.ai/https://hollymoviehd.cc/movies/' \
-            -o /tmp/holly.md
-          echo '--- lines 120-260 ---'
-          sed -n '120,260p' /tmp/holly.md
-          echo '--- probable root detail URLs ---'
-          grep -oE 'https://hollymoviehd\.cc/[A-Za-z0-9][A-Za-z0-9._~-]*/?' /tmp/holly.md | sort -u | tail -80 || true
-          echo '--- lines containing 2026 ---'
-          grep -n '2026' /tmp/holly.md | head -50 || true
+          curl --fail --show-error --silent \
+            --max-time 180 \
+            -X POST \
+            https://movie-alert-bot-ui.onrender.com/cron-run
