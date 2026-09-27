@@ -5,7 +5,7 @@ logging.getLogger("httpx").setLevel(logging.WARNING)
 logging.getLogger("httpcore").setLevel(logging.WARNING)
 
 # Runtime patches. Source adapters load first; the persistent incremental
-# monitor loads last so every source uses the same dedupe/baseline rules.
+# monitor loads before the Telegram command responder.
 try:
     import free_mode  # noqa: F401
 except Exception:
@@ -33,5 +33,10 @@ except Exception:
 
 try:
     import incremental_patch  # noqa: F401
+except Exception:
+    pass
+
+try:
+    import command_menu_patch  # noqa: F401
 except Exception:
     pass
