@@ -1,0 +1,79 @@
+{
+  "source": "HollyMovieHD",
+  "source_url": "https://hollymoviehd.cc/movies/",
+  "generated_at": "2026-09-27T03:44:11.504741+00:00",
+  "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Anime",
+      "url": "https://hollymoviehd.cc/anime/",
+      "poster_url": null,
+      "year": null,
+      "quality": null
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Top Movies",
+      "url": "https://hollymoviehd.cc/top-movies/",
+      "poster_url": null,
+      "year": null,
+      "quality": null
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "100 Most Popular",
+      "url": "https://hollymoviehd.cc/most-popular-movies/",
+      "poster_url": null,
+      "year": "2025",
+      "quality": null
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "IMDb Top 250",
+      "url": "https://hollymoviehd.cc/imdb-top-250/",
+      "poster_url": null,
+      "year": "2025",
+      "quality": null
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Top Box Office",
+      "url": "https://hollymoviehd.cc/top-box-office/",
+      "poster_url": null,
+      "year": "2025",
+      "quality": null
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "LOGIN",
+      "url": "https://hollymoviehd.cc/account/",
+      "poster_url": null,
+      "year": "1992",
+      "quality": null
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Most Favorite",
+      "url": "https://hollymoviehd.cc/most-favorites/",
+      "poster_url": null,
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Most Rating",
+      "url": "https://hollymoviehd.cc/most-rating/",
+      "poster_url": null,
+      "year": "2026",
+      "quality": "HD"
+    }
+  ]
+}
