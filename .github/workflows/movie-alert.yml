@@ -16,24 +16,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Probe HollyMovieHD public endpoints
+      - name: Probe HollyMovieHD public reader fallback
         run: |
-          UA='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36'
-          for path in '/movies/' '/wp-json/' '/?rest_route=/' '/feed/' '/wp-sitemap.xml' '/sitemap.xml'; do
-            code=$(curl -L -A "$UA" -sS -o /tmp/holly.out -w '%{http_code}' --max-time 30 "https://hollymoviehd.cc${path}" || true)
-            bytes=$(wc -c < /tmp/holly.out 2>/dev/null || echo 0)
-            echo "HollyMovieHD ${path} HTTP ${code} bytes=${bytes}"
-          done
-
-      - name: Inspect official Telegram preview
-        run: |
-          curl -L -sS --max-time 30 https://t.me/s/hollymoviehd -o /tmp/tg.html || true
-          echo "Telegram preview bytes: $(wc -c < /tmp/tg.html 2>/dev/null || echo 0)"
-          echo "Message count: $(grep -o 'tgme_widget_message_wrap' /tmp/tg.html | wc -l)"
-          echo 'Relevant links:'
-          grep -oE 'href="[^"]+"' /tmp/tg.html | sed 's/^href="//;s/"$//' | grep -Ei 'hollymoviehd|t\.me/hollymoviehd' | head -30 || true
-          echo 'Recent text markers:'
-          grep -oE '<div class="tgme_widget_message_text[^>]*>.*</div>' /tmp/tg.html | sed -E 's/<[^>]+>/ /g' | sed 's/&nbsp;/ /g;s/&amp;/\&/g' | head -10 || true
+          code=$(curl -L -sS -o /tmp/holly-reader.txt -w '%{http_code}' \
+            --max-time 60 \
+            'https://r.jina.ai/https://hollymoviehd.cc/movies/' || true)
+          echo "Reader HTTP ${code}"
+          echo "Reader bytes: $(wc -c < /tmp/holly-reader.txt 2>/dev/null || echo 0)"
+          echo "Holly links: $(grep -o 'https://hollymoviehd.cc/[^ )]*' /tmp/holly-reader.txt 2>/dev/null | sort -u | wc -l)"
+          head -25 /tmp/holly-reader.txt 2>/dev/null || true
 
       - name: Wake service and run movie check
         run: |
