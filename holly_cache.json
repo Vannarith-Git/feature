@@ -1,77 +1,306 @@
 {
   "source": "HollyMovieHD",
+  "metadata_source": "NovaMovie",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-09-27T03:44:11.504741+00:00",
+  "generated_at": "2026-09-27T03:58:22.241354+00:00",
   "items": [
     {
       "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
       "source_type": "movie",
-      "title": "Anime",
-      "url": "https://hollymoviehd.cc/anime/",
-      "poster_url": null,
-      "year": null,
-      "quality": null
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Top Movies",
-      "url": "https://hollymoviehd.cc/top-movies/",
-      "poster_url": null,
-      "year": null,
-      "quality": null
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "100 Most Popular",
-      "url": "https://hollymoviehd.cc/most-popular-movies/",
-      "poster_url": null,
-      "year": "2025",
-      "quality": null
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "IMDb Top 250",
-      "url": "https://hollymoviehd.cc/imdb-top-250/",
-      "poster_url": null,
-      "year": "2025",
-      "quality": null
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Top Box Office",
-      "url": "https://hollymoviehd.cc/top-box-office/",
-      "poster_url": null,
-      "year": "2025",
-      "quality": null
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "LOGIN",
-      "url": "https://hollymoviehd.cc/account/",
-      "poster_url": null,
-      "year": "1992",
-      "quality": null
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Most Favorite",
-      "url": "https://hollymoviehd.cc/most-favorites/",
-      "poster_url": null,
+      "title": "Neil Peart: No One’s Disciple",
+      "url": "https://hollymoviehd.cc/neil-peart-no-ones-disciple-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/7FoNihuGcbhKsjLcCPalHZXq8Tf.jpg",
       "year": "2026",
       "quality": "HD"
     },
     {
       "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
       "source_type": "movie",
-      "title": "Most Rating",
-      "url": "https://hollymoviehd.cc/most-rating/",
-      "poster_url": null,
+      "title": "The Deputy",
+      "url": "https://hollymoviehd.cc/the-deputy-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/uxFBQuSvKGuwULg2ME7kbBZtu6b.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "UNABOMBER",
+      "url": "https://hollymoviehd.cc/unabomber-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/yXbG3BjBlu79tIknvqOF5Pnkw1V.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "Masahe",
+      "url": "https://hollymoviehd.cc/masahe-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/d2SyOe6NfB4cC4kD1kcWZ8q6mjl.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "Desperada",
+      "url": "https://hollymoviehd.cc/desperada-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/rKK3P1moKVlJXgQnUrpGHTbgPmD.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "The Wolf and the Lamb",
+      "url": "https://hollymoviehd.cc/the-wolf-and-the-lamb-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/y1ooSWuq4FEaexbu0iAFAyezfcO.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "Idiots",
+      "url": "https://hollymoviehd.cc/idiots-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "The Love Hypothesis",
+      "url": "https://hollymoviehd.cc/the-love-hypothesis-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "Spa Weekend",
+      "url": "https://hollymoviehd.cc/spa-weekend-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/uhx4YjT9YbSxrKVE7GWJdjI412J.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "Drawn Together",
+      "url": "https://hollymoviehd.cc/drawn-together-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "Legend of the White Dragon",
+      "url": "https://hollymoviehd.cc/legend-of-the-white-dragon-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/5JJRTM1mMuqnK4BJojMljm5Xpgj.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "Ice Cream Man",
+      "url": "https://hollymoviehd.cc/ice-cream-man-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "Super Troopers 3",
+      "url": "https://hollymoviehd.cc/super-troopers-3-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "You’re Dead to Me",
+      "url": "https://hollymoviehd.cc/youre-dead-to-me-2025/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8bHWetIMhtoFbPtEHblbdiHO5WG.jpg",
+      "year": "2025",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "You+Me – Against the World",
+      "url": "https://hollymoviehd.cc/youme-against-the-world-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "Helena",
+      "url": "https://hollymoviehd.cc/helena-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mcPq30k75P3kXQDF66NutDyEh64.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "Hibla 2",
+      "url": "https://hollymoviehd.cc/hibla-2-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/drDsk2ES8YvWFwgWaY9foKaE5xv.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "POV: Pasilip On VMX",
+      "url": "https://hollymoviehd.cc/pov-pasilip-on-vmx-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/5pNQRBem1u4gNef5phqkFVeZyDh.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "Assassination Classroom the Movie: Our Time",
+      "url": "https://hollymoviehd.cc/assassination-classroom-the-movie-our-time-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/sCcNuUI1RA9bMunxAdt7KRypFbP.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "Kangaroo",
+      "url": "https://hollymoviehd.cc/kangaroo-2025/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/cg7gDoDyxEEaQyo7kZbP7fi0jjp.jpg",
+      "year": "2025",
+      "quality": "BluRay"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "The Fix",
+      "url": "https://hollymoviehd.cc/the-fix-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "Teenage Sex and Death at Camp Miasma",
+      "url": "https://hollymoviehd.cc/teenage-sex-and-death-at-camp-miasma-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "The Dangers in My Heart: The Movie",
+      "url": "https://hollymoviehd.cc/the-dangers-in-my-heart-the-movie-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8aP916aOB8gvRPrL8aY9enflu3e.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "Call Me Mother",
+      "url": "https://hollymoviehd.cc/call-me-mother-2025/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/kMc1VvhyRdK9w43jaurzfxmnH4x.jpg",
+      "year": "2025",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+      "url": "https://hollymoviehd.cc/that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/oblkRIWuKTF46CsnLhBiE7Otn3z.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "One Night Only",
+      "url": "https://hollymoviehd.cc/one-night-only-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "Sheep in the Box",
+      "url": "https://hollymoviehd.cc/sheep-in-the-box-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/sxAwnj01pLfDBTA4WobJtJw7y9q.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "The End of Oak Street",
+      "url": "https://hollymoviehd.cc/the-end-of-oak-street-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "I Don’t Like Younger Men 4",
+      "url": "https://hollymoviehd.cc/i-dont-like-younger-men-4-2019/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/hA18oqd7vHLYV6iTIGVpjC8uFFy.jpg",
+      "year": "2019",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "metadata_source": "novamovie.net",
+      "source_type": "movie",
+      "title": "Maid’s Obsession",
+      "url": "https://hollymoviehd.cc/maids-obsession-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/pjzxgwT0YO9tMPlorbmou3KlezO.jpg",
       "year": "2026",
       "quality": "HD"
     }
