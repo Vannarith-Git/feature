@@ -1,0 +1,25 @@
+name: QA Today Only
+
+on:
+  push:
+    branches: [qa-today-only]
+  workflow_dispatch:
+
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run strict today-only unit + live KhDiaMonD QA
+        env:
+          PYTHONPATH: .
+          TIMEZONE: Asia/Phnom_Penh
+        run: python qa_today_only.py
+      - name: Compile runtime patches
+        run: python -m py_compile app.py today_only_patch.py sitecustomize.py
