@@ -5,7 +5,7 @@ logging.getLogger("httpx").setLevel(logging.WARNING)
 logging.getLogger("httpcore").setLevel(logging.WARNING)
 
 # Load runtime patches in order: graceful source handling, Holly free cache,
-# then Indonesian Horror as an additional source.
+# Indonesian Horror, then Anime + Chinese Action sources.
 try:
     import free_mode  # noqa: F401
 except Exception:
@@ -18,5 +18,10 @@ except Exception:
 
 try:
     import indonesia_patch  # noqa: F401
+except Exception:
+    pass
+
+try:
+    import extra_sources_patch  # noqa: F401
 except Exception:
     pass
