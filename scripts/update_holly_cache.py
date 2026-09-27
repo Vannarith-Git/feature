@@ -9,22 +9,24 @@ from urllib.parse import urlparse
 TARGET = 'https://hollymoviehd.cc/movies/'
 READER = 'https://r.jina.ai/' + TARGET
 MAX_ITEMS = 30
-SPECIAL = {
-    '', 'home', 'movies', 'series', 'recommended', 'most-viewed', 'request',
-    'login', 'register', 'contact', 'dmca', 'privacy-policy', 'terms', 'about',
-}
 LINK_RE = re.compile(r'\[([^\]]*)\]\((https://hollymoviehd\.cc/[^\s)]+)(?:\s+"[^"]*")?\)', re.I)
 IMAGE_RE = re.compile(r'!\[[^\]]*\]\((https?://[^\s)]+)(?:\s+"[^"]*")?\)', re.I)
 YEAR_RE = re.compile(r'\b(19\d{2}|20\d{2})\b')
 QUALITY_RE = re.compile(r'\b(4K|UHD|BluRay|WEB[- .]?DL|WEBRip|HDTS|HDTC|HDRip|HD|CAM|TS|SD)\b', re.I)
+MOVIE_SLUG_RE = re.compile(r'-(19\d{2}|20\d{2})$', re.I)
 
 
 def is_detail(url):
+    """Accept only Holly root-level movie URLs that end in a release year.
+
+    Examples accepted: /dark-nuns-2025/, /heart-eyes-2025/.
+    Navigation pages such as /anime/ or /top-movies/ are excluded.
+    """
     p = urlparse(url)
     if p.netloc.lower() not in ('hollymoviehd.cc', 'www.hollymoviehd.cc'):
         return False
     parts = [x for x in p.path.split('/') if x]
-    return len(parts) == 1 and parts[0].lower() not in SPECIAL
+    return len(parts) == 1 and bool(MOVIE_SLUG_RE.search(parts[0]))
 
 
 def clean_title(label, url):
@@ -39,7 +41,7 @@ def clean_title(label, url):
 
 
 def nearby_poster(text, start):
-    window = text[max(0, start - 700):start]
+    window = text[max(0, start - 900):start]
     for image in reversed(IMAGE_RE.findall(window)):
         low = image.lower()
         if 'logo' not in low and ('wp-content' in low or re.search(r'\.(?:jpe?g|png|webp)(?:\?|$)', low)):
@@ -63,23 +65,29 @@ def parse(markdown):
         label, raw_url = m.group(1), m.group(2).rstrip('.,;')
         if not is_detail(raw_url):
             continue
+
         p = urlparse(raw_url)
-        url = 'https://hollymoviehd.cc/' + p.path.strip('/') + '/'
+        slug = p.path.strip('/')
+        url = 'https://hollymoviehd.cc/' + slug + '/'
         if url in seen:
             continue
+
         title = clean_title(label, url)
         if len(title) < 2:
             continue
-        context = markdown[max(0, m.start() - 220):min(len(markdown), m.end() + 220)]
-        ym = YEAR_RE.search(label + ' ' + context)
+
+        slug_year = MOVIE_SLUG_RE.search(slug)
+        context = markdown[max(0, m.start() - 250):min(len(markdown), m.end() + 250)]
         qm = QUALITY_RE.search(context)
+        year = slug_year.group(1) if slug_year else None
+
         out.append({
             'source': 'HollyMovieHD',
             'source_type': 'movie',
             'title': title,
             'url': url,
             'poster_url': nearby_poster(markdown, m.start()),
-            'year': ym.group(1) if ym else None,
+            'year': year,
             'quality': qm.group(1) if qm else None,
         })
         seen.add(url)
@@ -93,7 +101,7 @@ def main():
     text = fetch()
     items = parse(text)
     if not items:
-        raise SystemExit('No HollyMovieHD items parsed from public reader')
+        raise SystemExit('No real HollyMovieHD movie URLs parsed from public reader')
     payload = {
         'source': 'HollyMovieHD',
         'source_url': TARGET,
@@ -103,8 +111,8 @@ def main():
     with open(output, 'w', encoding='utf-8') as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
         f.write('\n')
-    print(f'Parsed {len(items)} HollyMovieHD items')
-    for item in items[:5]:
+    print(f'Parsed {len(items)} HollyMovieHD movie items')
+    for item in items[:10]:
         print(f"- {item['title']} ({item.get('year') or 'N/A'}) {item['url']}")
 
 
