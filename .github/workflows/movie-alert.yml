@@ -16,14 +16,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Probe HollyMovieHD access
+      - name: Probe HollyMovieHD public endpoints
         run: |
-          code=$(curl -L -A 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36' \
-            -sS -o /tmp/holly.html -w '%{http_code}' \
-            --max-time 30 \
-            https://hollymoviehd.cc/movies/ || true)
-          echo "HollyMovieHD HTTP $code"
-          echo "Downloaded bytes: $(wc -c < /tmp/holly.html 2>/dev/null || echo 0)"
+          UA='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36'
+          for path in '/movies/' '/wp-json/' '/?rest_route=/' '/feed/' '/wp-sitemap.xml' '/sitemap.xml'; do
+            code=$(curl -L -A "$UA" -sS -o /tmp/holly.out -w '%{http_code}' --max-time 30 "https://hollymoviehd.cc${path}" || true)
+            bytes=$(wc -c < /tmp/holly.out 2>/dev/null || echo 0)
+            ctype=$(curl -L -A "$UA" -sSI --max-time 15 "https://hollymoviehd.cc${path}" 2>/dev/null | awk -F': ' 'tolower($1)=="content-type"{print $2}' | tail -1 | tr -d '\r' || true)
+            echo "HollyMovieHD ${path} HTTP ${code} bytes=${bytes} type=${ctype}"
+          done
 
       - name: Wake service and run movie check
         run: |
