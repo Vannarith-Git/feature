@@ -10,16 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Probe Bing public RSS search for Holly metadata
+      - name: Probe DuckDuckGo public search index for Holly metadata
         run: |
-          q='site%3Ahollymoviehd.cc+2026+movie'
-          code=$(curl -L -sS -o /tmp/bing.xml -w '%{http_code}' --max-time 30 "https://www.bing.com/search?q=${q}&format=rss" || true)
-          echo "Bing RSS HTTP ${code} bytes=$(wc -c < /tmp/bing.xml 2>/dev/null || echo 0)"
-          grep -oE '<item>.*</item>' /tmp/bing.xml | head -1 | sed 's/></>\n</g' | grep -E '<title>|<link>|<pubDate>' | head -20 || true
-
-      - name: Wake service and run movie check
-        run: |
-          curl --fail --show-error --silent \
-            --max-time 150 \
-            -X POST \
-            https://movie-alert-bot-ui.onrender.com/cron-run
+          UA='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36'
+          q='site%3Ahollymoviehd.cc+2026'
+          code=$(curl -L -A "$UA" -sS -o /tmp/ddg.html -w '%{http_code}' --max-time 30 "https://html.duckduckgo.com/html/?q=${q}" || true)
+          echo "DuckDuckGo HTTP ${code} bytes=$(wc -c < /tmp/ddg.html 2>/dev/null || echo 0)"
+          grep -oE 'result__a[^>]*href="[^"]+"[^>]*>[^<]+' /tmp/ddg.html | sed -E 's/.*href="([^"]+)"[^>]*>(.*)/URL=\1 TITLE=\2/' | head -20 || true
