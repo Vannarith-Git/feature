@@ -5,12 +5,3 @@ import logging
 # request logging is intentionally disabled.
 logging.getLogger("httpx").setLevel(logging.WARNING)
 logging.getLogger("httpcore").setLevel(logging.WARNING)
-
-# Apply HollyMovieHD public metadata fallbacks. During build-time Python
-# invocations dependencies may not be importable yet, so failures are ignored.
-try:
-    import holly_fallback  # noqa: F401
-    import holly_reader  # noqa: F401
-    import holly_cache_fallback  # noqa: F401
-except Exception:
-    pass
