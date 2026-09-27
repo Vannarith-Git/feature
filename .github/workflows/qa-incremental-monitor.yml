@@ -1,0 +1,25 @@
+name: QA Incremental Monitor
+
+on:
+  push:
+    branches: [qa-incremental-monitor]
+  workflow_dispatch:
+
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run incremental unit + live RSS QA
+        env:
+          PYTHONPATH: .
+          TIMEZONE: Asia/Phnom_Penh
+        run: python qa_incremental.py
+      - name: Compile runtime patches
+        run: python -m py_compile app.py khdiamond_rss_patch.py incremental_patch.py sitecustomize.py
