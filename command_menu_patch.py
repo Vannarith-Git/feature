@@ -5,13 +5,17 @@ import time
 
 import httpx
 import redis.asyncio as redis_async
+from cryptography.fernet import Fernet, InvalidToken
 
 import app as core
 
 log = logging.getLogger("movie-bot")
 REDIS_URL = os.getenv("REDIS_URL", "").strip()
+CONFIG_ENCRYPTION_KEY = os.getenv("CONFIG_ENCRYPTION_KEY", "").strip()
 OFFSET_KEY = "moviebot:telegram_update_offset:v1"
+CONFIG_HASH = "moviebot:config"
 rdb = redis_async.from_url(REDIS_URL, decode_responses=True) if REDIS_URL else None
+fernet = Fernet(CONFIG_ENCRYPTION_KEY.encode()) if CONFIG_ENCRYPTION_KEY else None
 
 
 def parse_command(text):
@@ -34,6 +38,32 @@ def menu_text():
         "/sources — Show monitored sources\n"
         "/help — Show this menu"
     )
+
+
+def _decrypt(value):
+    if not value or fernet is None:
+        return ""
+    try:
+        return fernet.decrypt(value.encode()).decode()
+    except (InvalidToken, ValueError):
+        return ""
+
+
+async def _load_config_if_needed():
+    if core.TELEGRAM_BOT_TOKEN.strip() and str(core.TELEGRAM_CHAT_ID).strip():
+        return
+    if rdb is None:
+        return
+    try:
+        cfg = await rdb.hgetall(CONFIG_HASH)
+        token = _decrypt(cfg.get("telegram_bot_token"))
+        chat_id = _decrypt(cfg.get("telegram_chat_id"))
+        if token and chat_id:
+            core.TELEGRAM_BOT_TOKEN = token
+            core.TELEGRAM_CHAT_ID = chat_id
+            log.info("Telegram command responder loaded saved configuration")
+    except Exception as exc:
+        log.warning("Could not load Telegram command configuration: %s", type(exc).__name__)
 
 
 async def setup_bot_menu_fixed(token):
@@ -79,6 +109,7 @@ async def telegram_command_loop_fixed():
 
     while True:
         try:
+            await _load_config_if_needed()
             token = core.TELEGRAM_BOT_TOKEN.strip()
             configured_chat = str(core.TELEGRAM_CHAT_ID).strip()
             if not token or not configured_chat:
@@ -91,6 +122,7 @@ async def telegram_command_loop_fixed():
                     me = await client.get(f"https://api.telegram.org/bot{token}/getMe")
                     if me.is_success and me.json().get("ok"):
                         bot_username = str(me.json()["result"].get("username") or "").lower()
+                        log.info("Telegram command responder active for @%s", bot_username)
                 await setup_bot_menu_fixed(token)
                 offset = await _load_offset()
 
@@ -123,7 +155,7 @@ async def telegram_command_loop_fixed():
 
             updates = data.get("result", [])
             if offset is None and updates:
-                # On the very first run, process a recent command instead of
+                # On first activation, process a recent command instead of
                 # blindly discarding it. Old backlog is skipped safely.
                 newest = updates[-1]
                 msg = newest.get("message") or {}
@@ -148,8 +180,6 @@ async def telegram_command_loop_fixed():
                 if not cmd:
                     continue
                 if mention and bot_username and mention != bot_username:
-                    # Telegram usually does not deliver commands addressed to
-                    # another bot, but keep this check explicit.
                     continue
 
                 log.info("Telegram command received: %s", cmd)
