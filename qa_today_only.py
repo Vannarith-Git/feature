@@ -78,7 +78,11 @@ def listing_links(html, base, expected):
     seen = set()
     for a in soup.find_all('a', href=True):
         href = urljoin(base, a['href'])
-        path = urlparse(href).path
+        parsed = urlparse(href)
+        host = parsed.netloc.lower().split(':', 1)[0]
+        path = parsed.path
+        if host not in ('khdiamond.net', 'www.khdiamond.net'):
+            continue
         if expected not in path or path.rstrip('/') in ('/movies', '/seasons') or '/page/' in path:
             continue
         if href in seen:
@@ -128,7 +132,7 @@ async def main():
     for row in rows:
         print('%-6s | %-45s | %-10s | %s' % row)
 
-    # Hard QA rule: we need reliable source publication metadata before production.
+    # Hard QA rule: reliable source publication metadata must be available.
     assert parsed >= max(6, len(rows) // 2), f'Only {parsed}/{len(rows)} pages exposed a parseable publish date'
     # A dry-run must never classify an unknown/old page as SEND.
     assert all(status == ('SEND' if pub == str(today) else 'BLOCK') for _, _, pub, status in rows)
