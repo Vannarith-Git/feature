@@ -5,9 +5,6 @@ on:
     - cron: '7 * * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 concurrency:
   group: movie-alert-monitor
   cancel-in-progress: false
@@ -15,39 +12,11 @@ concurrency:
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-          cache: pip
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Check movie sources and notify Telegram
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TIMEZONE: Asia/Phnom_Penh
-          MAX_ITEMS_PER_SOURCE: '30'
-          HTTP_TIMEOUT_SECONDS: '25'
-          USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-        run: python monitor.py
-
-      - name: Persist dedupe state
-        if: always()
+      - name: Wake service and run movie check
         run: |
-          if git diff --quiet -- state.json; then
-            echo "No state changes"
-            exit 0
-          fi
-          git config user.name "movie-alert-bot"
-          git config user.email "movie-alert-bot@users.noreply.github.com"
-          git add state.json
-          git commit -m "Update movie alert state"
-          git push
+          curl --fail --show-error --silent \
+            --max-time 150 \
+            -X POST \
+            https://movie-alert-bot-ui.onrender.com/cron-run
