@@ -8,8 +8,15 @@ logging.getLogger("httpcore").setLevel(logging.WARNING)
 
 # Keep known upstream cloud-block responses from being reported as bot errors.
 # During dependency installation the application modules may not be available,
-# so startup safely continues if this optional patch cannot yet import.
+# so startup safely continues if optional patches cannot yet import.
 try:
     import free_mode  # noqa: F401
+except Exception:
+    pass
+
+# HollyMovieHD direct cloud access is often rejected by Cloudflare. Use the
+# verified public text-reader fallback for public listing metadata only.
+try:
+    import jina_patch  # noqa: F401
 except Exception:
     pass
