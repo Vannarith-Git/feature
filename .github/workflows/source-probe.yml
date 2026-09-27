@@ -1,0 +1,25 @@
+name: Source Probe
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - name: Inspect Crunchyroll and iQIYI public metadata
+        run: |
+          curl -L --fail --show-error --silent --max-time 60 \
+            'https://r.jina.ai/https://www.crunchyroll.com/id/videos/new/' -o /tmp/cr.md || true
+          echo '--- CRUNCHYROLL ---'
+          echo "bytes=$(wc -c < /tmp/cr.md 2>/dev/null || echo 0)"
+          grep -nE 'Anime Baru Ditambahkan|Minggu Lalu|Lebih Awal|crunchyroll.com/.*/series/|crunchyroll.com/.*/watch/|^### |^## ' /tmp/cr.md | head -100 || true
+
+          curl -L --fail --show-error --silent --max-time 60 \
+            'https://r.jina.ai/https://www.iq.com/wiki/id_id/ranking?area=5485711420338533%3B%3B%3B%3B&channel=1&sort=4&type=7288980245968133' -o /tmp/iq.md || true
+          echo '--- IQIYI ---'
+          echo "bytes=$(wc -c < /tmp/iq.md 2>/dev/null || echo 0)"
+          grep -nE '^### |iq.com/wiki/id_id/album|iq.com/play|Image' /tmp/iq.md | head -120 || true
