@@ -4,8 +4,8 @@ import logging
 logging.getLogger("httpx").setLevel(logging.WARNING)
 logging.getLogger("httpcore").setLevel(logging.WARNING)
 
-# Load runtime patches in order: graceful source handling, Holly free cache,
-# Indonesian Horror, then Anime + Chinese Action sources.
+# Runtime patches. The final today-only gate is loaded last so every source is
+# subject to the same strict publication-date rule.
 try:
     import free_mode  # noqa: F401
 except Exception:
@@ -23,5 +23,15 @@ except Exception:
 
 try:
     import extra_sources_patch  # noqa: F401
+except Exception:
+    pass
+
+try:
+    import khdiamond_rss_patch  # noqa: F401
+except Exception:
+    pass
+
+try:
+    import today_only_patch  # noqa: F401
 except Exception:
     pass
