@@ -1,0 +1,32 @@
+name: Holly Browser Probe
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - name: Check Chrome availability
+        run: |
+          which google-chrome || which chromium || which chromium-browser || true
+          google-chrome --version || chromium --version || chromium-browser --version || true
+
+      - name: Load public HollyMovieHD listing in headless Chrome
+        run: |
+          BROWSER=$(command -v google-chrome || command -v chromium || command -v chromium-browser)
+          timeout 60s "$BROWSER" \
+            --headless=new \
+            --no-sandbox \
+            --disable-dev-shm-usage \
+            --disable-gpu \
+            --virtual-time-budget=30000 \
+            --dump-dom \
+            'https://hollymoviehd.cc/movies/' > /tmp/holly.html 2>/tmp/chrome.err || true
+          echo "DOM bytes: $(wc -c < /tmp/holly.html 2>/dev/null || echo 0)"
+          echo "Cloudflare marker count: $(grep -Eio 'Just a moment|cf-chl|challenge-platform' /tmp/holly.html 2>/dev/null | wc -l)"
+          echo "Movie-like links: $(grep -Eo 'https?://hollymoviehd\.cc/[^\" ]+' /tmp/holly.html 2>/dev/null | sort -u | wc -l)"
+          grep -Eo 'href="[^"]+"' /tmp/holly.html 2>/dev/null | head -80 || true
