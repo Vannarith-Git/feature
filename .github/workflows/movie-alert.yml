@@ -70,7 +70,8 @@ jobs:
                   f.write('\n')
           PY
 
-          if git diff --quiet -- holly_cache.json indonesia_horror_cache.json anime_cache.json china_action_cache.json; then
+          changes="$(git status --porcelain -- holly_cache.json indonesia_horror_cache.json anime_cache.json china_action_cache.json)"
+          if [ -z "$changes" ]; then
             echo 'Metadata caches unchanged.'
           else
             git add holly_cache.json indonesia_horror_cache.json anime_cache.json china_action_cache.json
