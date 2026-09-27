@@ -10,6 +10,6 @@ logging.getLogger("httpcore").setLevel(logging.WARNING)
 # invocations dependencies may not be importable yet, so failures are ignored.
 try:
     import holly_fallback  # noqa: F401
-    import holly_debug  # noqa: F401
+    import holly_reader  # noqa: F401
 except Exception:
     pass
