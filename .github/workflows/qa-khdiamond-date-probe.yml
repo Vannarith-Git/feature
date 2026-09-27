@@ -1,0 +1,39 @@
+name: QA KhDiaMonD Date Probe
+
+on:
+  push:
+    branches: [qa-today-only]
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - name: Probe public WordPress and sitemap metadata
+        run: |
+          set +e
+          echo '=== wp-json root ==='
+          curl -L --silent --show-error --max-time 30 -D - https://khdiamond.net/wp-json/ -o /tmp/wpjson
+          head -c 1200 /tmp/wpjson; echo
+
+          echo '=== wp v2 types ==='
+          curl -L --silent --show-error --max-time 30 https://khdiamond.net/wp-json/wp/v2/types | head -c 5000; echo
+
+          echo '=== wp v2 search ==='
+          curl -L --silent --show-error --max-time 30 'https://khdiamond.net/wp-json/wp/v2/search?per_page=10&search=%E1%9E%81%E1%9F%92%E1%9E%9B%E1%9E%B6%E1%9F%86%E1%9E%84' | head -c 5000; echo
+
+          echo '=== wp sitemap index ==='
+          curl -L --silent --show-error --max-time 30 https://khdiamond.net/wp-sitemap.xml | head -c 5000; echo
+
+          echo '=== yoast sitemap index ==='
+          curl -L --silent --show-error --max-time 30 https://khdiamond.net/sitemap_index.xml | head -c 5000; echo
+
+          echo '=== movies sitemap guesses ==='
+          for u in \
+            'https://khdiamond.net/wp-sitemap-posts-movies-1.xml' \
+            'https://khdiamond.net/movie-sitemap.xml' \
+            'https://khdiamond.net/movies-sitemap.xml'; do
+              echo "--- $u"
+              curl -L --silent --show-error --max-time 30 "$u" | head -c 5000; echo
+          done
