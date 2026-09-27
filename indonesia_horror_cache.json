@@ -1,0 +1,272 @@
+{
+  "source": "Indonesian Horror",
+  "source_url": "https://www.justwatch.com/id/movies",
+  "generated_at": "2026-09-27T04:24:05.857881+00:00",
+  "providers": [
+    "Netflix",
+    "Prime Video",
+    "Catchplay",
+    "KlikFilm",
+    "Viu"
+  ],
+  "provider_errors": [],
+  "items": [
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Ain",
+      "url": "https://www.justwatch.com/id/movie/ain-2026",
+      "poster_url": "https://images.justwatch.com/poster/346935164/s332/ain-2026.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Horror, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Sengkolo: Petaka Satu Suro",
+      "url": "https://www.justwatch.com/id/movie/sengkolo-petaka-satu-suro-2026",
+      "poster_url": "https://images.justwatch.com/poster/340349668/s332/sengkolo-petaka-satu-suro-2026.jpg",
+      "year": "2026",
+      "quality": "HD",
+      "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Netflix"
+      ],
+      "provider": "Netflix"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Suddenly Satan",
+      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
+      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Warung Pocong",
+      "url": "https://www.justwatch.com/id/movie/warung-pocong",
+      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
+    }
+  ],
+  "candidate_results": {
+    "https://www.justwatch.com/id/movie/the-possession-of-hannah-grace": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/american-psycho": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/28-years-later": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/sengkolo-petaka-satu-suro-2026": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Sengkolo: Petaka Satu Suro",
+        "url": "https://www.justwatch.com/id/movie/sengkolo-petaka-satu-suro-2026",
+        "poster_url": "https://images.justwatch.com/poster/340349668/s332/sengkolo-petaka-satu-suro-2026.jpg",
+        "year": "2026",
+        "quality": "HD",
+        "category": "Horror",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/idle-hands": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/a-quiet-place-day-one": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/cuckoo": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/scream-2022": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/smile-2022": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/scream-6": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/dressed-to-kill": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/invaders-from-mars": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/poltergeist-ii-the-other-side": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/carrie-2002": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/teen-wolf-the-movie": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/halloween-with-the-new-addams-family": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/fear-the-night": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/evil-dead-burn": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/my-daughter-is-a-zombie": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/idiot-girls-and-school-ghost-school-anniversary": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/welcome-home-baby": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/orphan-3": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/wolf-creek-3": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/ain-2026": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Ain",
+        "url": "https://www.justwatch.com/id/movie/ain-2026",
+        "poster_url": "https://images.justwatch.com/poster/346935164/s332/ain-2026.jpg",
+        "year": "2026",
+        "quality": null,
+        "category": "Horror, Mystery & Thriller",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Suddenly Satan",
+        "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
+        "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
+        "year": "2026",
+        "quality": null,
+        "category": "Comedy, Horror",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/ghost-board": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/cassette-2": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/warung-pocong": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Warung Pocong",
+        "url": "https://www.justwatch.com/id/movie/warung-pocong",
+        "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
+        "year": "2026",
+        "quality": null,
+        "category": "Comedy, Horror",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/kuasa-gelap-perjanjian-darah": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/bolong-309-hari-sebelum-tragedi-berdarah": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-four-gates-of-death": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-27T04:24:05.857881+00:00"
+    }
+  }
+}
