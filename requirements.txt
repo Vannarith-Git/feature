@@ -3,3 +3,5 @@ uvicorn[standard]==0.34.0
 httpx==0.28.1
 beautifulsoup4==4.12.3
 psycopg[binary]==3.2.10
+redis==6.4.0
+cryptography==46.0.2
