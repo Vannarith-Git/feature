@@ -10,18 +10,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Probe HollyMovieHD public fallbacks
+      - name: Inspect HollyMovieHD Telegram preview
         run: |
           UA='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36'
-          for url in \
-            'https://hollymoviehd.cc/wp-json/' \
-            'https://hollymoviehd.cc/?rest_route=/' \
-            'https://hollymoviehd.cc/feed/' \
-            'https://hollymoviehd.cc/wp-sitemap.xml' \
-            'https://t.me/s/hollymoviehd'; do
-            code=$(curl -L -A "$UA" -sS -o /tmp/probe.out -w '%{http_code}' --max-time 30 "$url" || true)
-            bytes=$(wc -c < /tmp/probe.out 2>/dev/null || echo 0)
-            echo "$url => HTTP $code bytes=$bytes"
-            head -c 180 /tmp/probe.out | tr '\n' ' ' || true
-            echo
-          done
+          curl -L -A "$UA" -sS --max-time 30 'https://t.me/s/hollymoviehd' -o /tmp/hollytg.html
+          echo "bytes=$(wc -c < /tmp/hollytg.html)"
+          echo '--- title ---'
+          grep -oE '<title>[^<]+' /tmp/hollytg.html | head -3 || true
+          echo '--- post text snippets ---'
+          grep -oE 'tgme_widget_message_text[^>]*>[^<]+' /tmp/hollytg.html | sed -E 's/.*>//' | head -20 || true
+          echo '--- message links ---'
+          grep -oE 'https://t\.me/hollymoviehd/[0-9]+' /tmp/hollytg.html | sort -u | tail -20 || true
+          echo '--- holly links ---'
+          grep -oE 'https?://hollymoviehd\.cc[^"< ]+' /tmp/hollytg.html | head -20 || true
+          echo '--- photos ---'
+          grep -oE 'background-image:url\([^)]+' /tmp/hollytg.html | head -10 || true
