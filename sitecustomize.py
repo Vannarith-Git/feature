@@ -11,10 +11,3 @@ try:
     import free_mode  # noqa: F401
 except Exception:
     pass
-
-# Read HollyMovieHD public listing metadata from the free GitHub cache refreshed
-# by GitHub Actions. No paid proxy or database is required.
-try:
-    import cache_patch  # noqa: F401
-except Exception:
-    pass
