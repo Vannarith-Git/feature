@@ -36,6 +36,7 @@ jobs:
           TIMEZONE: Asia/Phnom_Penh
           MAX_ITEMS_PER_SOURCE: '30'
           HTTP_TIMEOUT_SECONDS: '25'
+          USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
         run: python monitor.py
 
       - name: Persist dedupe state
