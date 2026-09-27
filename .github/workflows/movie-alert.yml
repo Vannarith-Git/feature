@@ -1,14 +1,9 @@
 name: Movie Alert Monitor
 
 on:
-  push:
-    branches: [master]
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 concurrency:
   group: movie-alert-monitor
@@ -17,49 +12,9 @@ concurrency:
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 4
     steps:
-      - name: Checkout monitor code
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Refresh HollyMovieHD public metadata cache
-        run: |
-          python scripts/update_holly_cache.py /tmp/holly_cache.json
-
-      - name: Publish cache only when movie list changes
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git fetch origin holly-cache:holly-cache
-          git checkout holly-cache
-
-          changed=$(python - <<'PY'
-          import json, os
-          with open('/tmp/holly_cache.json', encoding='utf-8') as f:
-              new = json.load(f)
-          old = None
-          if os.path.exists('holly_cache.json'):
-              try:
-                  with open('holly_cache.json', encoding='utf-8') as f:
-                      old = json.load(f)
-              except Exception:
-                  pass
-          print('0' if old and old.get('items') == new.get('items') else '1')
-          PY
-          )
-
-          if [ "$changed" = "1" ]; then
-            cp /tmp/holly_cache.json holly_cache.json
-            git add holly_cache.json
-            git commit -m 'Update HollyMovieHD metadata cache'
-            git push origin holly-cache
-          else
-            echo 'Holly movie list unchanged.'
-          fi
-
-      - name: Wake free Render bot and run movie check
+      - name: Run movie check
         run: |
           curl --fail --show-error --silent \
             --max-time 180 \
