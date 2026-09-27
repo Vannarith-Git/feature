@@ -14,6 +14,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - name: Probe HollyMovieHD access
+        run: |
+          code=$(curl -L -A 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36' \
+            -sS -o /tmp/holly.html -w '%{http_code}' \
+            --max-time 30 \
+            https://hollymoviehd.cc/movies/ || true)
+          echo "HollyMovieHD HTTP $code"
+          echo "Downloaded bytes: $(wc -c < /tmp/holly.html 2>/dev/null || echo 0)"
+
       - name: Wake service and run movie check
         run: |
           curl --fail --show-error --silent \
