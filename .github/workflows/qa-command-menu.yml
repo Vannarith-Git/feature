@@ -1,0 +1,23 @@
+name: QA Telegram Command Menu
+
+on:
+  push:
+    branches: [qa-command-menu-fix]
+  workflow_dispatch:
+
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Command parser tests
+        env:
+          PYTHONPATH: .
+        run: python qa_command_menu.py
+      - name: Compile runtime files
+        run: python -m py_compile app.py command_menu_patch.py sitecustomize.py ui_patch.py
