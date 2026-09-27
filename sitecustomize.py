@@ -1,13 +1,22 @@
 import logging
 
-# Prevent HTTP client request URLs from being written to application logs.
-# Telegram Bot API URLs contain the bot token in the path, so INFO-level
-# request logging is intentionally disabled.
+# Never write Telegram Bot API request URLs (which contain the bot token) to logs.
 logging.getLogger("httpx").setLevel(logging.WARNING)
 logging.getLogger("httpcore").setLevel(logging.WARNING)
 
-# Keep known upstream cloud-block responses from being reported as bot errors.
+# Load runtime patches in order: graceful source handling, Holly free cache,
+# then Indonesian Horror as an additional source.
 try:
     import free_mode  # noqa: F401
+except Exception:
+    pass
+
+try:
+    import cache_patch  # noqa: F401
+except Exception:
+    pass
+
+try:
+    import indonesia_patch  # noqa: F401
 except Exception:
     pass
