@@ -27,16 +27,17 @@ jobs:
       - name: Load previous metadata state
         run: |
           git fetch origin holly-cache:holly-cache
-          git show holly-cache:indonesia_horror_cache.json > /tmp/previous_indonesia.json 2>/dev/null || echo '{"candidate_results":{}}' > /tmp/previous_indonesia.json
-          git show holly-cache:anime_cache.json > /tmp/previous_anime.json 2>/dev/null || echo '{"candidate_results":{}}' > /tmp/previous_anime.json
-          git show holly-cache:china_action_cache.json > /tmp/previous_china.json 2>/dev/null || echo '{"candidate_results":{}}' > /tmp/previous_china.json
+          git show holly-cache:holly_cache.json > /tmp/previous_holly.json 2>/dev/null || echo '{"items":[]}' > /tmp/previous_holly.json
+          git show holly-cache:indonesia_horror_cache.json > /tmp/previous_indonesia.json 2>/dev/null || echo '{"items":[],"candidate_results":{}}' > /tmp/previous_indonesia.json
+          git show holly-cache:anime_cache.json > /tmp/previous_anime.json 2>/dev/null || echo '{"items":[],"candidate_results":{}}' > /tmp/previous_anime.json
+          git show holly-cache:china_action_cache.json > /tmp/previous_china.json 2>/dev/null || echo '{"items":[],"candidate_results":{}}' > /tmp/previous_china.json
 
       - name: Refresh public metadata caches
         run: |
-          python scripts/update_holly_cache.py /tmp/holly_cache.json
-          python scripts/update_indonesia_cache.py /tmp/indonesia_horror_cache.json /tmp/previous_indonesia.json
-          python scripts/update_anime_cache.py /tmp/anime_cache.json /tmp/previous_anime.json
-          python scripts/update_china_action_cache.py /tmp/china_action_cache.json /tmp/previous_china.json
+          python scripts/update_holly_cache.py /tmp/holly_cache.json || cp /tmp/previous_holly.json /tmp/holly_cache.json
+          python scripts/update_indonesia_cache.py /tmp/indonesia_horror_cache.json /tmp/previous_indonesia.json || cp /tmp/previous_indonesia.json /tmp/indonesia_horror_cache.json
+          python scripts/update_anime_cache.py /tmp/anime_cache.json /tmp/previous_anime.json || cp /tmp/previous_anime.json /tmp/anime_cache.json
+          python scripts/update_china_action_cache.py /tmp/china_action_cache.json /tmp/previous_china.json || cp /tmp/previous_china.json /tmp/china_action_cache.json
 
       - name: Publish cache changes only
         run: |
