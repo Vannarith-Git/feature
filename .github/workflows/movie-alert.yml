@@ -1,22 +1,22 @@
 name: Movie Alert Monitor
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'
+  push:
+    branches: [master]
   workflow_dispatch:
 
-concurrency:
-  group: movie-alert-monitor
-  cancel-in-progress: false
-
 jobs:
-  monitor:
+  probe:
     runs-on: ubuntu-latest
     timeout-minutes: 4
     steps:
-      - name: Run movie check
+      - name: Inspect Jina public reader output
         run: |
-          curl --fail --show-error --silent \
-            --max-time 180 \
-            -X POST \
-            https://movie-alert-bot-ui.onrender.com/cron-run
+          curl -L --fail --show-error --silent --max-time 60 \
+            'https://r.jina.ai/https://hollymoviehd.cc/movies/' \
+            -o /tmp/holly.md || true
+          echo "bytes=$(wc -c < /tmp/holly.md 2>/dev/null || echo 0)"
+          echo '--- first 120 lines ---'
+          sed -n '1,120p' /tmp/holly.md || true
+          echo '--- Holly URLs ---'
+          grep -oE 'https?://hollymoviehd\.cc/[^ )]+' /tmp/holly.md | head -40 || true
