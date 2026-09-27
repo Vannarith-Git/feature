@@ -10,10 +10,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Probe DuckDuckGo public search index for Holly metadata
+      - name: Probe HollyMovieHD public fallbacks
         run: |
           UA='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36'
-          q='site%3Ahollymoviehd.cc+2026'
-          code=$(curl -L -A "$UA" -sS -o /tmp/ddg.html -w '%{http_code}' --max-time 30 "https://html.duckduckgo.com/html/?q=${q}" || true)
-          echo "DuckDuckGo HTTP ${code} bytes=$(wc -c < /tmp/ddg.html 2>/dev/null || echo 0)"
-          grep -oE 'result__a[^>]*href="[^"]+"[^>]*>[^<]+' /tmp/ddg.html | sed -E 's/.*href="([^"]+)"[^>]*>(.*)/URL=\1 TITLE=\2/' | head -20 || true
+          for url in \
+            'https://hollymoviehd.cc/wp-json/' \
+            'https://hollymoviehd.cc/?rest_route=/' \
+            'https://hollymoviehd.cc/feed/' \
+            'https://hollymoviehd.cc/wp-sitemap.xml' \
+            'https://t.me/s/hollymoviehd'; do
+            code=$(curl -L -A "$UA" -sS -o /tmp/probe.out -w '%{http_code}' --max-time 30 "$url" || true)
+            bytes=$(wc -c < /tmp/probe.out 2>/dev/null || echo 0)
+            echo "$url => HTTP $code bytes=$bytes"
+            head -c 180 /tmp/probe.out | tr '\n' ' ' || true
+            echo
+          done
