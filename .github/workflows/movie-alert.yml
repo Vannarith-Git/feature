@@ -3,45 +3,19 @@ name: Movie Alert Monitor
 on:
   push:
     branches: [master]
-  schedule:
-    - cron: '*/5 * * * *'
   workflow_dispatch:
-
-permissions:
-  contents: write
-
-concurrency:
-  group: movie-alert-monitor
-  cancel-in-progress: false
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Checkout monitor code
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Refresh HollyMovieHD public metadata cache
+      - name: Probe Bing public RSS search for Holly metadata
         run: |
-          python scripts/update_holly_cache.py /tmp/holly_cache.json
-
-      - name: Publish cache only when changed
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git fetch origin holly-cache:holly-cache
-          git checkout holly-cache
-          cp /tmp/holly_cache.json holly_cache.json
-          git add holly_cache.json
-          if git diff --cached --quiet; then
-            echo 'Holly cache unchanged.'
-          else
-            git commit -m 'Update HollyMovieHD metadata cache'
-            git push origin holly-cache
-          fi
+          q='site%3Ahollymoviehd.cc+2026+movie'
+          code=$(curl -L -sS -o /tmp/bing.xml -w '%{http_code}' --max-time 30 "https://www.bing.com/search?q=${q}&format=rss" || true)
+          echo "Bing RSS HTTP ${code} bytes=$(wc -c < /tmp/bing.xml 2>/dev/null || echo 0)"
+          grep -oE '<item>.*</item>' /tmp/bing.xml | head -1 | sed 's/></>\n</g' | grep -E '<title>|<link>|<pubDate>' | head -20 || true
 
       - name: Wake service and run movie check
         run: |
