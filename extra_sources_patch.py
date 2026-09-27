@@ -14,10 +14,10 @@ SOURCES = [
     },
     {
         "key": "china_action",
-        "label": "Chinese Action 🥋",
+        "label": "Chinese Martial Arts 🥋",
         "cache_url": "https://raw.githubusercontent.com/Vannarith-Git/feature/holly-cache/china_action_cache.json",
         "state_key": "china_action_source_initialized",
-        "default_category": "Chinese Action / Martial Arts",
+        "default_category": "Chinese Martial Arts / Wuxia / Kung Fu",
     },
 ]
 
@@ -35,12 +35,12 @@ async def _load_items(service, spec):
     for row in rows[:60]:
         title = str(row.get("title") or "").strip()
         url = str(row.get("url") or "").strip()
-        if len(title) < 2 or not url.startswith("https://www.justwatch.com/id/"):
+        if len(title) < 2 or not url.startswith(("https://www.iq.com/play/", "https://www.justwatch.com/id/")):
             continue
         category = str(row.get("category") or spec["default_category"]).strip()
         provider = str(row.get("provider") or "").strip()
         country = str(row.get("country") or "").strip()
-        if provider:
+        if provider and provider not in category:
             category += f" · {provider}"
         if country and country not in category:
             category += f" · {country}"
@@ -80,8 +80,6 @@ async def collect_with_extra_sources(self):
                 self.db.set_state(spec["state_key"], "1")
                 log.info("Seeded %s baseline with %s titles", spec["label"], len(extra_items))
         except Exception as exc:
-            # Cache might not exist for a few minutes during first deployment.
-            # Keep the rest of the bot working and try again next run.
             errors.append(f"{spec['label']}: {type(exc).__name__}: {exc}")
             log.warning("%s metadata unavailable: %s", spec["label"], type(exc).__name__)
     return items, errors
@@ -96,9 +94,9 @@ async def enrich_cached_extra_source(self, item):
 async def bot_send_text_with_extra_sources(text, chat_id=None):
     if "🌐 <b>Monitoring Sources</b>" in text:
         if "Anime 🎌" not in text:
-            text += "\n✅ 🎌 Anime — Crunchyroll + Netflix via JustWatch Indonesia"
-        if "Chinese Action" not in text:
-            text += "\n✅ 🥋 Chinese Action / Martial Arts — China/Hong Kong action movies via JustWatch Indonesia"
+            text += "\n✅ 🎌 Anime — latest Anime from official iQIYI ranking"
+        if "Chinese Martial Arts" not in text:
+            text += "\n✅ 🥋 Chinese Martial Arts / Wuxia / Kung Fu — official iQIYI latest ranking"
     return await _original_bot_send_text(text, chat_id)
 
 
