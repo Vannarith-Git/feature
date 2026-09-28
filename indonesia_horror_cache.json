@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-09-27T18:59:02.116883+00:00",
+  "generated_at": "2026-09-28T05:55:32.569324+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -40,21 +40,6 @@
         "Netflix"
       ],
       "provider": "Netflix"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Suddenly Satan",
-      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
-      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
     }
   ],
   "candidate_results": {
@@ -307,6 +292,21 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T18:59:02.116883+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-mummy-2017": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-28T05:55:32.569324+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-mummy-tomb-of-the-dragon-emperor": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-28T05:55:32.569324+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-sanguine": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-28T05:55:32.569324+00:00"
     }
   }
 }
