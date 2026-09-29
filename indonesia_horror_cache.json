@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-09-29T18:20:48.658258+00:00",
+  "generated_at": "2026-09-29T22:29:35.915367+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -29,17 +29,17 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Sengkolo: Petaka Satu Suro",
-      "url": "https://www.justwatch.com/id/movie/sengkolo-petaka-satu-suro-2026",
-      "poster_url": "https://images.justwatch.com/poster/340349668/s332/sengkolo-petaka-satu-suro-2026.jpg",
+      "title": "Ghosthing",
+      "url": "https://www.justwatch.com/id/movie/ghosthing",
+      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
       "year": "2026",
-      "quality": "HD",
-      "category": "Horror",
+      "quality": null,
+      "category": "Comedy, Fantasy, Horror",
       "country": "Indonesia",
       "providers": [
-        "Netflix"
+        "Viu"
       ],
-      "provider": "Netflix"
+      "provider": "Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -362,6 +362,16 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-29T18:20:48.658258+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-hunt": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-29T22:29:35.915367+00:00"
+    },
+    "https://www.justwatch.com/id/movie/mononoke-the-movie-chapter-iii-the-curse-of-the-serpent": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-29T22:29:35.915367+00:00"
     }
   }
 }
