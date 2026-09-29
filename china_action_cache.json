@@ -1,12 +1,27 @@
 {
   "source": "Chinese Martial Arts",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?area=5485711420338533%3B%3B%3B%3B&channel=1&sort=4&type=7288980245968133",
-  "generated_at": "2026-09-27T04:49:51.384694+00:00",
+  "generated_at": "2026-09-29T12:46:44.032103+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Chinese Martial Arts",
+      "source_type": "movie",
+      "title": "封神天下杨戬传",
+      "url": "https://www.iq.com/play/kwkgjzct3w?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic5.iqiyipic.com/image/20260908/24/98/v_220571217_m_601_zh-CN_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Chinese Martial Arts / Wuxia / Kung Fu · iQIYI",
+      "country": "China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Chinese Martial Arts",
       "source_type": "movie",
@@ -291,24 +306,27 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Chinese Martial Arts",
-      "source_type": "movie",
-      "title": "Kembali ke mana-mana",
-      "url": "https://www.iq.com/play/zbcdtx0560?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic7.iqiyipic.com/image/20260704/22/ca/v_202954247_m_601_zh-CN_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Chinese Martial Arts / Wuxia / Kung Fu · iQIYI",
-      "country": "China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/kwkgjzct3w?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Chinese Martial Arts",
+        "source_type": "movie",
+        "title": "封神天下杨戬传",
+        "url": "https://www.iq.com/play/kwkgjzct3w?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic5.iqiyipic.com/image/20260908/24/98/v_220571217_m_601_zh-CN_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Chinese Martial Arts / Wuxia / Kung Fu · iQIYI",
+        "country": "China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/1fyeemr4yo8?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -641,24 +659,6 @@
         "title": "YinYang Painted Skin",
         "url": "https://www.iq.com/play/p8wfh5epnw?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic6.iqiyipic.com/image/20260703/2a/66/v_201747603_m_601_zh-CN_m1_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Chinese Martial Arts / Wuxia / Kung Fu · iQIYI",
-        "country": "China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/zbcdtx0560?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Chinese Martial Arts",
-        "source_type": "movie",
-        "title": "Kembali ke mana-mana",
-        "url": "https://www.iq.com/play/zbcdtx0560?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic7.iqiyipic.com/image/20260704/22/ca/v_202954247_m_601_zh-CN_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Chinese Martial Arts / Wuxia / Kung Fu · iQIYI",
