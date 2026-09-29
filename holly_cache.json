@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-09-27T04:23:53.639096+00:00",
+  "generated_at": "2026-09-29T06:03:40.043812+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Coyote vs. Acme",
+      "url": "https://hollymoviehd.cc/coyote-vs-acme-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -263,15 +272,6 @@
       "url": "https://hollymoviehd.cc/i-dont-like-younger-men-4-2019/",
       "poster_url": "https://image.tmdb.org/t/p/w342/hA18oqd7vHLYV6iTIGVpjC8uFFy.jpg",
       "year": "2019",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Maid’s Obsession",
-      "url": "https://hollymoviehd.cc/maids-obsession-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/pjzxgwT0YO9tMPlorbmou3KlezO.jpg",
-      "year": "2026",
       "quality": "HD"
     }
   ]
