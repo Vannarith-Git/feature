@@ -2,8 +2,26 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-09-29T06:03:40.043812+00:00",
+  "generated_at": "2026-09-29T18:20:08.573332+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "The Nice Ones",
+      "url": "https://hollymoviehd.cc/the-nice-ones-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/oUHs4mwfNfe8oatqKwOFT9YvuZ1.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "The Uprising",
+      "url": "https://hollymoviehd.cc/the-uprising-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -254,24 +272,6 @@
       "url": "https://hollymoviehd.cc/sheep-in-the-box-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/sxAwnj01pLfDBTA4WobJtJw7y9q.jpg",
       "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "The End of Oak Street",
-      "url": "https://hollymoviehd.cc/the-end-of-oak-street-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "I Don’t Like Younger Men 4",
-      "url": "https://hollymoviehd.cc/i-dont-like-younger-men-4-2019/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/hA18oqd7vHLYV6iTIGVpjC8uFFy.jpg",
-      "year": "2019",
       "quality": "HD"
     }
   ]
