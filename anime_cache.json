@@ -1,12 +1,42 @@
 {
   "source": "Anime",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?channel=4&sort=4&type=1425950065128833%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B",
-  "generated_at": "2026-09-30T14:03:53.552579+00:00",
+  "generated_at": "2026-09-30T19:15:35.972214+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "我的世界：海岛冒险",
+      "url": "https://www.iq.com/play/ljwliqr089?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic6.iqiyipic.com/image/20260917/1c/41/a_101504227_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "方块世界：时钟人大冒险",
+      "url": "https://www.iq.com/play/1paxj2inojl?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic9.iqiyipic.com/image/20260927/51/92/a_101567443_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Anime",
       "source_type": "series",
@@ -276,39 +306,45 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "星际伙伴飞船大冒险",
-      "url": "https://www.iq.com/play/1qdsq4vgpo5?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic9.iqiyipic.com/image/20260825/a1/34/a_101400236_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "我的世界：火柴人冒险旅途",
-      "url": "https://www.iq.com/play/bqsdk4cufp?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic0.iqiyipic.com/image/20260814/31/ef/a_101355412_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/ljwliqr089?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "我的世界：海岛冒险",
+        "url": "https://www.iq.com/play/ljwliqr089?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic6.iqiyipic.com/image/20260917/1c/41/a_101504227_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
+    "https://www.iq.com/play/1paxj2inojl?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "方块世界：时钟人大冒险",
+        "url": "https://www.iq.com/play/1paxj2inojl?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic9.iqiyipic.com/image/20260927/51/92/a_101567443_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/1dblf5hl9qd?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -623,42 +659,6 @@
         "title": "太空闹剧难题时刻",
         "url": "https://www.iq.com/play/2csrxf8yuwt?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic8.iqiyipic.com/image/20260825/5a/cc/a_101397661_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/1qdsq4vgpo5?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "星际伙伴飞船大冒险",
-        "url": "https://www.iq.com/play/1qdsq4vgpo5?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic9.iqiyipic.com/image/20260825/a1/34/a_101400236_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/bqsdk4cufp?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "我的世界：火柴人冒险旅途",
-        "url": "https://www.iq.com/play/bqsdk4cufp?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic0.iqiyipic.com/image/20260814/31/ef/a_101355412_m_601_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Anime · iQIYI",

@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-09-30T14:03:50.432345+00:00",
+  "generated_at": "2026-09-30T19:15:01.022896+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -35,36 +35,6 @@
       "year": "2026",
       "quality": null,
       "category": "Comedy, Fantasy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Suddenly Satan",
-      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
-      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Warung Pocong",
-      "url": "https://www.justwatch.com/id/movie/warung-pocong",
-      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
         "Viu"
@@ -372,6 +342,36 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-30T07:21:49.159006+00:00"
+    },
+    "https://www.justwatch.com/id/movie/us": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-30T19:15:01.022896+00:00"
+    },
+    "https://www.justwatch.com/id/movie/killer-klowns-from-outer-space": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-30T19:15:01.022896+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-poughkeepsie-tapes": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-30T19:15:01.022896+00:00"
+    },
+    "https://www.justwatch.com/id/movie/childs-play-1988": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-30T19:15:01.022896+00:00"
+    },
+    "https://www.justwatch.com/id/movie/lifeforce": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-30T19:15:01.022896+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-amityville-horror-1979": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-30T19:15:01.022896+00:00"
     }
   }
 }
