@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-09-30T19:15:01.022896+00:00",
+  "generated_at": "2026-09-30T23:05:56.516690+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -372,6 +372,11 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-30T19:15:01.022896+00:00"
+    },
+    "https://www.justwatch.com/id/movie/livestream-from-hell": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-09-30T23:05:56.516690+00:00"
     }
   }
 }
