@@ -2,8 +2,44 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-01T08:57:51.471228+00:00",
+  "generated_at": "2026-10-01T21:09:15.701337+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Sakamoto Days",
+      "url": "https://hollymoviehd.cc/sakamoto-days-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8Q3G7ZWfHiNI3fdx0qZnnQ07GW0.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Runner",
+      "url": "https://hollymoviehd.cc/runner-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Lesbian Space Princess",
+      "url": "https://hollymoviehd.cc/lesbian-space-princess-2025/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/bmf6spk0WZ10lz4eAK95P1zRB4F.jpg",
+      "year": "2025",
+      "quality": "BluRay"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Tatak Jenn Rosa",
+      "url": "https://hollymoviehd.cc/tatak-jenn-rosa-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/cSEn2tOMjZJOsUcaXBiS3xoOhL8.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -235,42 +271,6 @@
       "title": "Teenage Sex and Death at Camp Miasma",
       "url": "https://hollymoviehd.cc/teenage-sex-and-death-at-camp-miasma-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "The Dangers in My Heart: The Movie",
-      "url": "https://hollymoviehd.cc/the-dangers-in-my-heart-the-movie-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/8aP916aOB8gvRPrL8aY9enflu3e.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Call Me Mother",
-      "url": "https://hollymoviehd.cc/call-me-mother-2025/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/kMc1VvhyRdK9w43jaurzfxmnH4x.jpg",
-      "year": "2025",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
-      "url": "https://hollymoviehd.cc/that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/oblkRIWuKTF46CsnLhBiE7Otn3z.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "One Night Only",
-      "url": "https://hollymoviehd.cc/one-night-only-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
       "year": "2026",
       "quality": "HD"
     }

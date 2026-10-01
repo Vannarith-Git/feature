@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-01T16:19:36.476357+00:00",
+  "generated_at": "2026-10-01T21:09:54.590043+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -29,21 +29,6 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Ghosthing",
-      "url": "https://www.justwatch.com/id/movie/ghosthing",
-      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Fantasy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
       "title": "Songko",
       "url": "https://www.justwatch.com/id/movie/songko",
       "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
@@ -59,17 +44,17 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Suddenly Satan",
-      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
-      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
+      "title": "The Chanting 3",
+      "url": "https://www.justwatch.com/id/movie/kuntilanak-3",
+      "poster_url": "https://images.justwatch.com/poster/340868516/s332/kuntilanak-3.jpg",
+      "year": "2008",
+      "quality": "HD",
+      "category": "Fantasy, Horror",
       "country": "Indonesia",
       "providers": [
-        "Viu"
+        "Netflix"
       ],
-      "provider": "Viu"
+      "provider": "Netflix"
     }
   ],
   "candidate_results": {
@@ -432,6 +417,41 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-01T08:58:20.083317+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-silence-of-the-lambs": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-01T21:09:54.590043+00:00"
+    },
+    "https://www.justwatch.com/id/movie/hostel": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-01T21:09:54.590043+00:00"
+    },
+    "https://www.justwatch.com/id/movie/kuntilanak-3": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "The Chanting 3",
+        "url": "https://www.justwatch.com/id/movie/kuntilanak-3",
+        "poster_url": "https://images.justwatch.com/poster/340868516/s332/kuntilanak-3.jpg",
+        "year": "2008",
+        "quality": "HD",
+        "category": "Fantasy, Horror",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-10-01T21:09:54.590043+00:00"
+    },
+    "https://www.justwatch.com/id/movie/haunted-universities-4": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-01T21:09:54.590043+00:00"
+    },
+    "https://www.justwatch.com/id/movie/boy-of-your-dreams-2": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-01T21:09:54.590043+00:00"
     }
   }
 }
