@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-09-30T23:05:56.516690+00:00",
+  "generated_at": "2026-10-01T08:58:20.083317+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -10,38 +10,7 @@
     "Viu"
   ],
   "provider_errors": [],
-  "items": [
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Ain",
-      "url": "https://www.justwatch.com/id/movie/ain-2026",
-      "poster_url": "https://images.justwatch.com/poster/346935164/s332/ain-2026.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Horror, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Ghosthing",
-      "url": "https://www.justwatch.com/id/movie/ghosthing",
-      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Fantasy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
-    }
-  ],
+  "items": [],
   "candidate_results": {
     "https://www.justwatch.com/id/movie/the-possession-of-hannah-grace": {
       "match": false,
@@ -377,6 +346,31 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-30T23:05:56.516690+00:00"
+    },
+    "https://www.justwatch.com/id/movie/beneath-the-storm": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-01T08:58:20.083317+00:00"
+    },
+    "https://www.justwatch.com/id/movie/iron-lung": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-01T08:58:20.083317+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-last-house-2026": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-01T08:58:20.083317+00:00"
+    },
+    "https://www.justwatch.com/id/movie/ed-gein-the-house-of-horrors": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-01T08:58:20.083317+00:00"
+    },
+    "https://www.justwatch.com/id/movie/kraken-2025": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-01T08:58:20.083317+00:00"
     }
   }
 }

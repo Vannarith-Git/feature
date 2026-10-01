@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-09-29T18:20:08.573332+00:00",
+  "generated_at": "2026-10-01T08:57:51.471228+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "PAW Patrol: The Dino Movie",
+      "url": "https://hollymoviehd.cc/paw-patrol-the-dino-movie-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/uXT1Uwze8N1TcgqUIsYCqaEPKea.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -262,15 +271,6 @@
       "title": "One Night Only",
       "url": "https://hollymoviehd.cc/one-night-only-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Sheep in the Box",
-      "url": "https://hollymoviehd.cc/sheep-in-the-box-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/sxAwnj01pLfDBTA4WobJtJw7y9q.jpg",
       "year": "2026",
       "quality": "HD"
     }
