@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-02T06:28:16.355374+00:00",
+  "generated_at": "2026-10-02T18:24:08.381828+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Infirmary",
+      "url": "https://hollymoviehd.cc/infirmary-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -262,15 +271,6 @@
       "title": "POV: Pasilip On VMX",
       "url": "https://hollymoviehd.cc/pov-pasilip-on-vmx-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/5pNQRBem1u4gNef5phqkFVeZyDh.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Assassination Classroom the Movie: Our Time",
-      "url": "https://hollymoviehd.cc/assassination-classroom-the-movie-our-time-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/sCcNuUI1RA9bMunxAdt7KRypFbP.jpg",
       "year": "2026",
       "quality": "HD"
     }
