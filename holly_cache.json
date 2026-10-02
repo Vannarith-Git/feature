@@ -2,8 +2,35 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-01T21:09:15.701337+00:00",
+  "generated_at": "2026-10-02T06:28:16.355374+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Midnight Stalker",
+      "url": "https://hollymoviehd.cc/midnight-stalker-2002/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/Aeb77pqtexjmfrTGYGsGKEhz6Yo.jpg",
+      "year": "2002",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Isla",
+      "url": "https://hollymoviehd.cc/isla-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/clGpGnasLM0ghJb56maKD5CawGl.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "The Ogre’s Bride",
+      "url": "https://hollymoviehd.cc/the-ogres-bride-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/k4N3nza8tiivBd5DxbBL1vwZaIk.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -244,33 +271,6 @@
       "title": "Assassination Classroom the Movie: Our Time",
       "url": "https://hollymoviehd.cc/assassination-classroom-the-movie-our-time-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/sCcNuUI1RA9bMunxAdt7KRypFbP.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Kangaroo",
-      "url": "https://hollymoviehd.cc/kangaroo-2025/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/cg7gDoDyxEEaQyo7kZbP7fi0jjp.jpg",
-      "year": "2025",
-      "quality": "BluRay"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "The Fix",
-      "url": "https://hollymoviehd.cc/the-fix-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Teenage Sex and Death at Camp Miasma",
-      "url": "https://hollymoviehd.cc/teenage-sex-and-death-at-camp-miasma-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg",
       "year": "2026",
       "quality": "HD"
     }
