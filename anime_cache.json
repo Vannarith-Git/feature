@@ -1,12 +1,27 @@
 {
   "source": "Anime",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?channel=4&sort=4&type=1425950065128833%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B",
-  "generated_at": "2026-10-01T16:19:37.633427+00:00",
+  "generated_at": "2026-10-03T06:54:26.276093+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "像素大陆：方块生物日记",
+      "url": "https://www.iq.com/play/2c7mjvsxisp?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic2.iqiyipic.com/image/20260927/7d/a1/a_101565392_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Anime",
       "source_type": "series",
@@ -291,24 +306,27 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "集结出发，勇闯未知关卡",
-      "url": "https://www.iq.com/play/1zpiiqids0h?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic5.iqiyipic.com/image/20260827/9b/9f/a_101407642_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/2c7mjvsxisp?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "像素大陆：方块生物日记",
+        "url": "https://www.iq.com/play/2c7mjvsxisp?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic2.iqiyipic.com/image/20260927/7d/a1/a_101565392_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/z6f84suqlt?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -641,24 +659,6 @@
         "title": "方块美食小厨房",
         "url": "https://www.iq.com/play/22765gm4mvx?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic5.iqiyipic.com/image/20260827/ce/98/a_101410857_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/1zpiiqids0h?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "集结出发，勇闯未知关卡",
-        "url": "https://www.iq.com/play/1zpiiqids0h?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic5.iqiyipic.com/image/20260827/9b/9f/a_101407642_m_601_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Anime · iQIYI",
