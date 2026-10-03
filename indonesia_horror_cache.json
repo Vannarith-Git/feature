@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-03T06:54:25.212958+00:00",
+  "generated_at": "2026-10-03T12:20:59.647400+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -29,12 +29,12 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Suddenly Satan",
-      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
-      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
+      "title": "Songko",
+      "url": "https://www.justwatch.com/id/movie/songko",
+      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
       "year": "2026",
       "quality": null,
-      "category": "Comedy, Horror",
+      "category": "Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
         "Viu"
@@ -55,6 +55,21 @@
         "Netflix"
       ],
       "provider": "Netflix"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Warung Pocong",
+      "url": "https://www.justwatch.com/id/movie/warung-pocong",
+      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
     }
   ],
   "candidate_results": {

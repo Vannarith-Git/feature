@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-02T18:24:08.381828+00:00",
+  "generated_at": "2026-10-03T12:20:27.140886+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Union County",
+      "url": "https://hollymoviehd.cc/union-county-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/u1QIAmdHspNtlTFSV3BuTms7Ncw.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -262,15 +271,6 @@
       "title": "Hibla 2",
       "url": "https://hollymoviehd.cc/hibla-2-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/drDsk2ES8YvWFwgWaY9foKaE5xv.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "POV: Pasilip On VMX",
-      "url": "https://hollymoviehd.cc/pov-pasilip-on-vmx-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/5pNQRBem1u4gNef5phqkFVeZyDh.jpg",
       "year": "2026",
       "quality": "HD"
     }
