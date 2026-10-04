@@ -2,8 +2,35 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-03T12:20:27.140886+00:00",
+  "generated_at": "2026-10-04T01:47:39.666943+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "VMX Tapes: Volume 2",
+      "url": "https://hollymoviehd.cc/vmx-tapes-volume-2-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/f0WSjMX8WVlBrnFJHJt0Br1Y7D6.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Daaaaaalí!",
+      "url": "https://hollymoviehd.cc/daaaaaali-2024/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/cKMiUOT5rSWt7AJOhStuBpVeIUQ.jpg",
+      "year": "2024",
+      "quality": "BluRay"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "DreamQuil",
+      "url": "https://hollymoviehd.cc/dreamquil-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/dVuxzF8odLaajzUk5SC4vRub7aL.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -245,33 +272,6 @@
       "url": "https://hollymoviehd.cc/youre-dead-to-me-2025/",
       "poster_url": "https://image.tmdb.org/t/p/w342/8bHWetIMhtoFbPtEHblbdiHO5WG.jpg",
       "year": "2025",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "You+Me – Against the World",
-      "url": "https://hollymoviehd.cc/youme-against-the-world-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Helena",
-      "url": "https://hollymoviehd.cc/helena-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/mcPq30k75P3kXQDF66NutDyEh64.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Hibla 2",
-      "url": "https://hollymoviehd.cc/hibla-2-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/drDsk2ES8YvWFwgWaY9foKaE5xv.jpg",
-      "year": "2026",
       "quality": "HD"
     }
   ]

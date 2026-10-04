@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-03T19:24:29.703412+00:00",
+  "generated_at": "2026-10-04T01:48:10.201995+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -452,6 +452,11 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-01T21:09:54.590043+00:00"
+    },
+    "https://www.justwatch.com/id/movie/five-friends-2-mount-klawih": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-04T01:48:10.201995+00:00"
     }
   }
 }
