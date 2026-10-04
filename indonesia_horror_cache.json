@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-04T01:48:10.201995+00:00",
+  "generated_at": "2026-10-04T07:28:46.634124+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -14,9 +14,24 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Ain",
-      "url": "https://www.justwatch.com/id/movie/ain-2026",
-      "poster_url": "https://images.justwatch.com/poster/346935164/s332/ain-2026.jpg",
+      "title": "Ghosthing",
+      "url": "https://www.justwatch.com/id/movie/ghosthing",
+      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Fantasy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Songko",
+      "url": "https://www.justwatch.com/id/movie/songko",
+      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
       "year": "2026",
       "quality": null,
       "category": "Horror, Mystery & Thriller",
@@ -40,21 +55,6 @@
         "Netflix"
       ],
       "provider": "Netflix"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Warung Pocong",
-      "url": "https://www.justwatch.com/id/movie/warung-pocong",
-      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
     }
   ],
   "candidate_results": {
