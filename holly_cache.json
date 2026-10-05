@@ -2,8 +2,26 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-04T01:47:39.666943+00:00",
+  "generated_at": "2026-10-05T18:48:54.907126+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Insidious: Out of the Further",
+      "url": "https://hollymoviehd.cc/insidious-out-of-the-further-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Spider-Man: Brand New Day",
+      "url": "https://hollymoviehd.cc/spider-man-brand-new-day-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -79,15 +97,6 @@
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
-      "title": "Sakamoto Days",
-      "url": "https://hollymoviehd.cc/sakamoto-days-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/8Q3G7ZWfHiNI3fdx0qZnnQ07GW0.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
       "title": "Runner",
       "url": "https://hollymoviehd.cc/runner-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
@@ -109,6 +118,15 @@
       "title": "Tatak Jenn Rosa",
       "url": "https://hollymoviehd.cc/tatak-jenn-rosa-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/cSEn2tOMjZJOsUcaXBiS3xoOhL8.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Sakamoto Days",
+      "url": "https://hollymoviehd.cc/sakamoto-days-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8Q3G7ZWfHiNI3fdx0qZnnQ07GW0.jpg",
       "year": "2026",
       "quality": "HD"
     },
@@ -254,24 +272,6 @@
       "url": "https://hollymoviehd.cc/ice-cream-man-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
       "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Super Troopers 3",
-      "url": "https://hollymoviehd.cc/super-troopers-3-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "You’re Dead to Me",
-      "url": "https://hollymoviehd.cc/youre-dead-to-me-2025/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/8bHWetIMhtoFbPtEHblbdiHO5WG.jpg",
-      "year": "2025",
       "quality": "HD"
     }
   ]
