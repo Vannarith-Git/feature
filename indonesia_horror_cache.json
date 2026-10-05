@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-04T23:34:55.547669+00:00",
+  "generated_at": "2026-10-05T09:31:15.702083+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -35,6 +35,21 @@
       "year": "2026",
       "quality": null,
       "category": "Horror, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Suddenly Satan",
+      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
+      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
         "Viu"
@@ -472,6 +487,21 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-04T01:48:10.201995+00:00"
+    },
+    "https://www.justwatch.com/id/movie/sinners": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-05T09:31:15.702083+00:00"
+    },
+    "https://www.justwatch.com/id/movie/exhuma": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-05T09:31:15.702083+00:00"
+    },
+    "https://www.justwatch.com/id/movie/spiral-from-the-book-of-saw": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-05T09:31:15.702083+00:00"
     }
   }
 }
