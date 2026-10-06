@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-06T13:45:24.439228+00:00",
+  "generated_at": "2026-10-06T23:04:51.570845+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -11,6 +11,21 @@
   ],
   "provider_errors": [],
   "items": [
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Ain",
+      "url": "https://www.justwatch.com/id/movie/ain-2026",
+      "poster_url": "https://images.justwatch.com/poster/346935164/s332/ain-2026.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Horror, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
+    },
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
