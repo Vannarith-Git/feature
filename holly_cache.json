@@ -2,8 +2,35 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-05T18:48:54.907126+00:00",
+  "generated_at": "2026-10-06T06:48:22.321071+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Late Fame",
+      "url": "https://hollymoviehd.cc/late-fame-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Onslaught",
+      "url": "https://hollymoviehd.cc/onslaught-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Fall 2: Deadpoint",
+      "url": "https://hollymoviehd.cc/fall-2-deadpoint-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -244,33 +271,6 @@
       "title": "Spa Weekend",
       "url": "https://hollymoviehd.cc/spa-weekend-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/uhx4YjT9YbSxrKVE7GWJdjI412J.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Drawn Together",
-      "url": "https://hollymoviehd.cc/drawn-together-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Legend of the White Dragon",
-      "url": "https://hollymoviehd.cc/legend-of-the-white-dragon-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/5JJRTM1mMuqnK4BJojMljm5Xpgj.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Ice Cream Man",
-      "url": "https://hollymoviehd.cc/ice-cream-man-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
       "year": "2026",
       "quality": "HD"
     }

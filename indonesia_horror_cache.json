@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-05T18:49:31.148224+00:00",
+  "generated_at": "2026-10-06T06:48:54.934323+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -487,6 +487,26 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-05T09:31:15.702083+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-forever-purge": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-06T06:48:54.934323+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-purge": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-06T06:48:54.934323+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-purge-anarchy": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-06T06:48:54.934323+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-first-purge": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-06T06:48:54.934323+00:00"
     }
   }
 }
