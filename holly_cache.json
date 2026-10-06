@@ -2,8 +2,26 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-06T06:48:22.321071+00:00",
+  "generated_at": "2026-10-06T19:07:59.884430+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Love In The Diary Box",
+      "url": "https://hollymoviehd.cc/love-in-the-diary-box-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/jvw1zcIVl4NKeNaWrOX1snaS8Xt.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Unang Pasok",
+      "url": "https://hollymoviehd.cc/unang-pasok-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/daHU4hyjnp0vKO4Hs2n2Jiv8FXS.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -34,18 +52,18 @@
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
-      "title": "Insidious: Out of the Further",
-      "url": "https://hollymoviehd.cc/insidious-out-of-the-further-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+      "title": "Spider-Man: Brand New Day",
+      "url": "https://hollymoviehd.cc/spider-man-brand-new-day-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
       "year": "2026",
       "quality": "HD"
     },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
-      "title": "Spider-Man: Brand New Day",
-      "url": "https://hollymoviehd.cc/spider-man-brand-new-day-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "title": "Insidious: Out of the Further",
+      "url": "https://hollymoviehd.cc/insidious-out-of-the-further-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
       "year": "2026",
       "quality": "HD"
     },
@@ -253,24 +271,6 @@
       "title": "Idiots",
       "url": "https://hollymoviehd.cc/idiots-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "The Love Hypothesis",
-      "url": "https://hollymoviehd.cc/the-love-hypothesis-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Spa Weekend",
-      "url": "https://hollymoviehd.cc/spa-weekend-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/uhx4YjT9YbSxrKVE7GWJdjI412J.jpg",
       "year": "2026",
       "quality": "HD"
     }
