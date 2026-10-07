@@ -1,12 +1,42 @@
 {
   "source": "Anime",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?channel=4&sort=4&type=1425950065128833%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B",
-  "generated_at": "2026-10-03T06:54:26.276093+00:00",
+  "generated_at": "2026-10-07T16:24:05.322700+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "节奏盒子：谎言翻车记",
+      "url": "https://www.iq.com/play/1clvl6hba05?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic4.iqiyipic.com/image/20260924/21/c0/a_101550914_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "方块宝宝睡着了，快来叫醒它",
+      "url": "https://www.iq.com/play/177xu153nzd?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic6.iqiyipic.com/image/20260921/94/78/a_101527969_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Anime",
       "source_type": "series",
@@ -276,39 +306,45 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "原始部落：发明别瞎搞",
-      "url": "https://www.iq.com/play/23xbcxzhveh?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic0.iqiyipic.com/image/20260904/7e/74/a_101437875_m_601_m1_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "方块美食小厨房",
-      "url": "https://www.iq.com/play/22765gm4mvx?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic5.iqiyipic.com/image/20260827/ce/98/a_101410857_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/1clvl6hba05?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "节奏盒子：谎言翻车记",
+        "url": "https://www.iq.com/play/1clvl6hba05?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic4.iqiyipic.com/image/20260924/21/c0/a_101550914_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
+    "https://www.iq.com/play/177xu153nzd?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "方块宝宝睡着了，快来叫醒它",
+        "url": "https://www.iq.com/play/177xu153nzd?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic6.iqiyipic.com/image/20260921/94/78/a_101527969_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/2c7mjvsxisp?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -623,42 +659,6 @@
         "title": "彩色火柴人峡谷奇遇",
         "url": "https://www.iq.com/play/1otj4bapxx1?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic8.iqiyipic.com/image/20260827/c9/b8/a_101410823_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/23xbcxzhveh?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "原始部落：发明别瞎搞",
-        "url": "https://www.iq.com/play/23xbcxzhveh?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic0.iqiyipic.com/image/20260904/7e/74/a_101437875_m_601_m1_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/22765gm4mvx?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "方块美食小厨房",
-        "url": "https://www.iq.com/play/22765gm4mvx?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic5.iqiyipic.com/image/20260827/ce/98/a_101410857_m_601_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Anime · iQIYI",
