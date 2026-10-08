@@ -1,12 +1,27 @@
 {
   "source": "Anime",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?channel=4&sort=4&type=1425950065128833%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B",
-  "generated_at": "2026-10-08T07:33:34.605732+00:00",
+  "generated_at": "2026-10-08T14:56:16.921599+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "小白伙伴爆笑记",
+      "url": "https://www.iq.com/play/259gao68brd?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic4.iqiyipic.com/image/20260913/68/3c/a_101483687_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Anime",
       "source_type": "series",
@@ -291,24 +306,27 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "实验室萌趣搭档",
-      "url": "https://www.iq.com/play/2axaw7mo9tl?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic3.iqiyipic.com/image/20260904/bf/0f/a_101424641_m_601_m1_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/259gao68brd?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "小白伙伴爆笑记",
+        "url": "https://www.iq.com/play/259gao68brd?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic4.iqiyipic.com/image/20260913/68/3c/a_101483687_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/20g8xhvu145?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -641,24 +659,6 @@
         "title": "方块林间奇遇录",
         "url": "https://www.iq.com/play/1k7podhgvr5?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic3.iqiyipic.com/image/20260910/bc/2a/a_101472460_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/2axaw7mo9tl?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "实验室萌趣搭档",
-        "url": "https://www.iq.com/play/2axaw7mo9tl?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic3.iqiyipic.com/image/20260904/bf/0f/a_101424641_m_601_m1_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Anime · iQIYI",
