@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-08T01:16:21.716172+00:00",
+  "generated_at": "2026-10-08T20:39:25.834486+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -29,21 +29,6 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Songko",
-      "url": "https://www.justwatch.com/id/movie/songko",
-      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Horror, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
       "title": "Suddenly Satan",
       "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
       "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
@@ -55,21 +40,6 @@
         "Viu"
       ],
       "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "The Chanting 3",
-      "url": "https://www.justwatch.com/id/movie/kuntilanak-3",
-      "poster_url": "https://images.justwatch.com/poster/340868516/s332/kuntilanak-3.jpg",
-      "year": "2008",
-      "quality": "HD",
-      "category": "Fantasy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Netflix"
-      ],
-      "provider": "Netflix"
     },
     {
       "source": "Indonesian Horror",
@@ -532,6 +502,21 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-08T01:16:21.716172+00:00"
+    },
+    "https://www.justwatch.com/id/movie/lights-out": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-08T20:39:25.834486+00:00"
+    },
+    "https://www.justwatch.com/id/movie/sleep-no-more-2026": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-08T20:39:25.834486+00:00"
+    },
+    "https://www.justwatch.com/id/movie/lake-placid-vs-anaconda": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-08T20:39:25.834486+00:00"
     }
   }
 }
