@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-06T19:07:59.884430+00:00",
+  "generated_at": "2026-10-08T01:15:49.805589+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Lake George",
+      "url": "https://hollymoviehd.cc/lake-george-2024/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/7nqwvs1DORz65GtV7MeNBfqBxQW.jpg",
+      "year": "2024",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -262,15 +271,6 @@
       "title": "The Wolf and the Lamb",
       "url": "https://hollymoviehd.cc/the-wolf-and-the-lamb-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/y1ooSWuq4FEaexbu0iAFAyezfcO.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Idiots",
-      "url": "https://hollymoviehd.cc/idiots-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
       "year": "2026",
       "quality": "HD"
     }

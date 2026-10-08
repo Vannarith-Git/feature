@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-07T16:24:02.376857+00:00",
+  "generated_at": "2026-10-08T01:16:21.716172+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -527,6 +527,11 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-07T09:02:09.119765+00:00"
+    },
+    "https://www.justwatch.com/id/movie/insidious-out-of-the-further": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-08T01:16:21.716172+00:00"
     }
   }
 }
