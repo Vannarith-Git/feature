@@ -1,12 +1,27 @@
 {
   "source": "Anime",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?channel=4&sort=4&type=1425950065128833%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B",
-  "generated_at": "2026-10-07T16:24:05.322700+00:00",
+  "generated_at": "2026-10-08T07:33:34.605732+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "像素方块伙伴闯关",
+      "url": "https://www.iq.com/play/20g8xhvu145?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic1.iqiyipic.com/image/20260922/b4/02/a_101534782_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Anime",
       "source_type": "series",
@@ -291,24 +306,27 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "彩色火柴人峡谷奇遇",
-      "url": "https://www.iq.com/play/1otj4bapxx1?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic8.iqiyipic.com/image/20260827/c9/b8/a_101410823_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/20g8xhvu145?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "像素方块伙伴闯关",
+        "url": "https://www.iq.com/play/20g8xhvu145?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic1.iqiyipic.com/image/20260922/b4/02/a_101534782_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/1clvl6hba05?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -641,24 +659,6 @@
         "title": "实验室萌趣搭档",
         "url": "https://www.iq.com/play/2axaw7mo9tl?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic3.iqiyipic.com/image/20260904/bf/0f/a_101424641_m_601_m1_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/1otj4bapxx1?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "彩色火柴人峡谷奇遇",
-        "url": "https://www.iq.com/play/1otj4bapxx1?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic8.iqiyipic.com/image/20260827/c9/b8/a_101410823_m_601_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Anime · iQIYI",
