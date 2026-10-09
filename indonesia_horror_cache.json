@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-08T20:39:25.834486+00:00",
+  "generated_at": "2026-10-09T00:41:36.972945+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -17,6 +17,21 @@
       "title": "Ain",
       "url": "https://www.justwatch.com/id/movie/ain-2026",
       "poster_url": "https://images.justwatch.com/poster/346935164/s332/ain-2026.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Horror, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Songko",
+      "url": "https://www.justwatch.com/id/movie/songko",
+      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
       "year": "2026",
       "quality": null,
       "category": "Horror, Mystery & Thriller",
@@ -517,6 +532,36 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-08T20:39:25.834486+00:00"
+    },
+    "https://www.justwatch.com/id/movie/jennifers-body": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-09T00:41:36.972945+00:00"
+    },
+    "https://www.justwatch.com/id/movie/matchbox": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-09T00:41:36.972945+00:00"
+    },
+    "https://www.justwatch.com/id/movie/brothers-under-fire": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-09T00:41:36.972945+00:00"
+    },
+    "https://www.justwatch.com/id/movie/robota-sweden": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-09T00:41:36.972945+00:00"
+    },
+    "https://www.justwatch.com/id/movie/awarapan-2": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-09T00:41:36.972945+00:00"
+    },
+    "https://www.justwatch.com/id/movie/symbiopsychotaxiplasm-take-one": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-09T00:41:36.972945+00:00"
     }
   }
 }
