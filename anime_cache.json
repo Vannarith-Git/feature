@@ -1,12 +1,42 @@
 {
   "source": "Anime",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?channel=4&sort=4&type=1425950065128833%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B",
-  "generated_at": "2026-10-08T14:56:16.921599+00:00",
+  "generated_at": "2026-10-09T13:58:45.468726+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "花园保卫队：狠狠赶走坏僵尸",
+      "url": "https://www.iq.com/play/i4ta39vfx1?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic8.iqiyipic.com/image/20261007/b8/e1/a_101620486_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "海绵宝宝奇趣生活记",
+      "url": "https://www.iq.com/play/n8oogl9ro5?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic6.iqiyipic.com/image/20260912/f3/8b/a_101478816_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Anime",
       "source_type": "series",
@@ -276,39 +306,45 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "钢铁坦克冒险录",
-      "url": "https://www.iq.com/play/22765gm4p5l?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic1.iqiyipic.com/image/20260909/19/b7/a_101469002_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "方块林间奇遇录",
-      "url": "https://www.iq.com/play/1k7podhgvr5?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic3.iqiyipic.com/image/20260910/bc/2a/a_101472460_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/i4ta39vfx1?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "花园保卫队：狠狠赶走坏僵尸",
+        "url": "https://www.iq.com/play/i4ta39vfx1?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic8.iqiyipic.com/image/20261007/b8/e1/a_101620486_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
+    "https://www.iq.com/play/n8oogl9ro5?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "海绵宝宝奇趣生活记",
+        "url": "https://www.iq.com/play/n8oogl9ro5?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic6.iqiyipic.com/image/20260912/f3/8b/a_101478816_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/259gao68brd?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -623,42 +659,6 @@
         "title": "植物军团：大战机甲僵尸",
         "url": "https://www.iq.com/play/qxbbu79l19?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic4.iqiyipic.com/image/20260903/d5/ee/a_101446235_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/22765gm4p5l?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "钢铁坦克冒险录",
-        "url": "https://www.iq.com/play/22765gm4p5l?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic1.iqiyipic.com/image/20260909/19/b7/a_101469002_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/1k7podhgvr5?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "方块林间奇遇录",
-        "url": "https://www.iq.com/play/1k7podhgvr5?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic3.iqiyipic.com/image/20260910/bc/2a/a_101472460_m_601_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Anime · iQIYI",
