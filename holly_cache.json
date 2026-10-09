@@ -2,8 +2,35 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-09T13:58:07.094751+00:00",
+  "generated_at": "2026-10-09T23:26:42.384600+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "V/H/S/Mixtape",
+      "url": "https://hollymoviehd.cc/v-h-s-mixtape-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Oasis: Don’t Look Back in Anger",
+      "url": "https://hollymoviehd.cc/oasis-dont-look-back-in-anger-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Animals",
+      "url": "https://hollymoviehd.cc/animals-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -244,33 +271,6 @@
       "title": "Neil Peart: No One’s Disciple",
       "url": "https://hollymoviehd.cc/neil-peart-no-ones-disciple-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/7FoNihuGcbhKsjLcCPalHZXq8Tf.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "The Deputy",
-      "url": "https://hollymoviehd.cc/the-deputy-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/uxFBQuSvKGuwULg2ME7kbBZtu6b.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "UNABOMBER",
-      "url": "https://hollymoviehd.cc/unabomber-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/yXbG3BjBlu79tIknvqOF5Pnkw1V.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Masahe",
-      "url": "https://hollymoviehd.cc/masahe-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/d2SyOe6NfB4cC4kD1kcWZ8q6mjl.jpg",
       "year": "2026",
       "quality": "HD"
     }

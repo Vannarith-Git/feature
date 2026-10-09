@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-09T19:28:43.580072+00:00",
+  "generated_at": "2026-10-09T23:27:05.693566+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -14,12 +14,12 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Ghosthing",
-      "url": "https://www.justwatch.com/id/movie/ghosthing",
-      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
+      "title": "Ain",
+      "url": "https://www.justwatch.com/id/movie/ain-2026",
+      "poster_url": "https://images.justwatch.com/poster/346935164/s332/ain-2026.jpg",
       "year": "2026",
       "quality": null,
-      "category": "Comedy, Fantasy, Horror",
+      "category": "Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
         "Viu"
@@ -532,6 +532,26 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-09T00:41:36.972945+00:00"
+    },
+    "https://www.justwatch.com/id/movie/scream": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-09T23:27:05.693566+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-curse-of-la-llorona": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-09T23:27:05.693566+00:00"
+    },
+    "https://www.justwatch.com/id/movie/scream-3": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-09T23:27:05.693566+00:00"
+    },
+    "https://www.justwatch.com/id/movie/ghosts-of-mars": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-09T23:27:05.693566+00:00"
     }
   }
 }
