@@ -1,12 +1,42 @@
 {
   "source": "Anime",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?channel=4&sort=4&type=1425950065128833%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B",
-  "generated_at": "2026-10-09T13:58:45.468726+00:00",
+  "generated_at": "2026-10-10T15:20:38.408589+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "植物大战僵尸：星际启航",
+      "url": "https://www.iq.com/play/1vi7odvxw9p?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic5.iqiyipic.com/image/20261008/5c/e4/a_101626519_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "植物大战僵尸：欢乐赛场谁称王",
+      "url": "https://www.iq.com/play/l10pqz5r79?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic9.iqiyipic.com/image/20261008/a0/35/a_101627024_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Anime",
       "source_type": "series",
@@ -276,39 +306,45 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "方块学院趣课堂",
-      "url": "https://www.iq.com/play/2e8uk5om051?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic4.iqiyipic.com/image/20260903/6b/19/a_101445003_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "植物军团：大战机甲僵尸",
-      "url": "https://www.iq.com/play/qxbbu79l19?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic4.iqiyipic.com/image/20260903/d5/ee/a_101446235_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/1vi7odvxw9p?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "植物大战僵尸：星际启航",
+        "url": "https://www.iq.com/play/1vi7odvxw9p?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic5.iqiyipic.com/image/20261008/5c/e4/a_101626519_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
+    "https://www.iq.com/play/l10pqz5r79?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "植物大战僵尸：欢乐赛场谁称王",
+        "url": "https://www.iq.com/play/l10pqz5r79?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic9.iqiyipic.com/image/20261008/a0/35/a_101627024_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/i4ta39vfx1?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -623,42 +659,6 @@
         "title": "索尼克生日大冒险",
         "url": "https://www.iq.com/play/1h35e8vdugx?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic7.iqiyipic.com/image/20260904/02/b7/a_101448803_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/2e8uk5om051?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "方块学院趣课堂",
-        "url": "https://www.iq.com/play/2e8uk5om051?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic4.iqiyipic.com/image/20260903/6b/19/a_101445003_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/qxbbu79l19?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "植物军团：大战机甲僵尸",
-        "url": "https://www.iq.com/play/qxbbu79l19?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic4.iqiyipic.com/image/20260903/d5/ee/a_101446235_m_601_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Anime · iQIYI",
