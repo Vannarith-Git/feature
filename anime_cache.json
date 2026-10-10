@@ -1,12 +1,27 @@
 {
   "source": "Anime",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?channel=4&sort=4&type=1425950065128833%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B",
-  "generated_at": "2026-10-10T15:20:38.408589+00:00",
+  "generated_at": "2026-10-10T19:25:45.756654+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "我的世界：百变方块城市奇遇.",
+      "url": "https://www.iq.com/play/rmtxgbyugd?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic3.iqiyipic.com/image/20260922/f6/a3/a_101534605_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Anime",
       "source_type": "series",
@@ -291,24 +306,27 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "索尼克生日大冒险",
-      "url": "https://www.iq.com/play/1h35e8vdugx?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic7.iqiyipic.com/image/20260904/02/b7/a_101448803_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/rmtxgbyugd?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "我的世界：百变方块城市奇遇.",
+        "url": "https://www.iq.com/play/rmtxgbyugd?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic3.iqiyipic.com/image/20260922/f6/a3/a_101534605_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/1vi7odvxw9p?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -641,24 +659,6 @@
         "title": "植物大战僵尸：趣味博弈",
         "url": "https://www.iq.com/play/1wlv6jbf08x?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic0.iqiyipic.com/image/20260911/11/91/a_101477145_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/1h35e8vdugx?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "索尼克生日大冒险",
-        "url": "https://www.iq.com/play/1h35e8vdugx?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic7.iqiyipic.com/image/20260904/02/b7/a_101448803_m_601_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Anime · iQIYI",
