@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-11T01:35:24.827285+00:00",
+  "generated_at": "2026-10-11T07:49:02.842959+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -14,27 +14,12 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Songko",
-      "url": "https://www.justwatch.com/id/movie/songko",
-      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
+      "title": "Ghosthing",
+      "url": "https://www.justwatch.com/id/movie/ghosthing",
+      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
       "year": "2026",
       "quality": null,
-      "category": "Horror, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Suddenly Satan",
-      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
-      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
+      "category": "Comedy, Fantasy, Horror",
       "country": "Indonesia",
       "providers": [
         "Viu"
@@ -567,6 +552,11 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-10T09:04:51.325683+00:00"
+    },
+    "https://www.justwatch.com/id/movie/be-our-guests-2": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-11T07:49:02.842959+00:00"
     }
   }
 }
