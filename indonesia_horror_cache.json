@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-11T19:09:10.794107+00:00",
+  "generated_at": "2026-10-13T08:22:06.437364+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -22,9 +22,10 @@
       "category": "Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
+        "KlikFilm",
         "Viu"
       ],
-      "provider": "Viu"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -37,9 +38,10 @@
       "category": "Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
+        "KlikFilm",
         "Viu"
       ],
-      "provider": "Viu"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -52,9 +54,10 @@
       "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
+        "KlikFilm",
         "Viu"
       ],
-      "provider": "Viu"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -67,9 +70,10 @@
       "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
+        "KlikFilm",
         "Viu"
       ],
-      "provider": "Viu"
+      "provider": "KlikFilm, Viu"
     }
   ],
   "candidate_results": {
