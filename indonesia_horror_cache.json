@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-14T22:37:20.458746+00:00",
+  "generated_at": "2026-10-15T05:39:54.037672+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -590,6 +590,16 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-11T07:49:02.842959+00:00"
+    },
+    "https://www.justwatch.com/id/movie/i-am-legend": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-15T05:39:54.037672+00:00"
+    },
+    "https://www.justwatch.com/id/movie/into-the-storm": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-15T05:39:54.037672+00:00"
     }
   }
 }
