@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-15T19:13:58.395238+00:00",
+  "generated_at": "2026-10-15T22:27:32.409282+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -11,22 +11,6 @@
   ],
   "provider_errors": [],
   "items": [
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Songko",
-      "url": "https://www.justwatch.com/id/movie/songko",
-      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Horror, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "KlikFilm",
-        "Viu"
-      ],
-      "provider": "KlikFilm, Viu"
-    },
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
@@ -599,6 +583,46 @@
         "country": "Indonesia"
       },
       "checked_at": "2026-10-15T10:21:35.856358+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-fifth-generation": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-15T22:27:32.409282+00:00"
+    },
+    "https://www.justwatch.com/id/movie/glampire": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-15T22:27:32.409282+00:00"
+    },
+    "https://www.justwatch.com/id/movie/ben-10-destroy-all-aliens": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-15T22:27:32.409282+00:00"
+    },
+    "https://www.justwatch.com/id/movie/revealed-surviving-malka-leifer": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-15T22:27:32.409282+00:00"
+    },
+    "https://www.justwatch.com/id/movie/masterplan": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-15T22:27:32.409282+00:00"
+    },
+    "https://www.justwatch.com/id/movie/11-11": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-15T22:27:32.409282+00:00"
+    },
+    "https://www.justwatch.com/id/movie/american-sniper": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-15T22:27:32.409282+00:00"
+    },
+    "https://www.justwatch.com/id/movie/argo": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-15T22:27:32.409282+00:00"
     }
   }
 }

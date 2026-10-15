@@ -2,8 +2,35 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-15T00:53:32.154711+00:00",
+  "generated_at": "2026-10-15T22:27:05.755402+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Pantaxa Laiya: Uncut",
+      "url": "https://hollymoviehd.cc/pantaxa-laiya-uncut-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8jA8ZwuqPc73iS6FXSDfzm23HSW.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "The Fin",
+      "url": "https://hollymoviehd.cc/the-fin-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/azofjhgHBLvUkDAcrnBOWoosur2.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Evil Eye",
+      "url": "https://hollymoviehd.cc/evil-eye-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/u4zui9IkRaIuCZwSogAMQSpjWax.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -245,33 +272,6 @@
       "url": "https://hollymoviehd.cc/dreamquil-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/dVuxzF8odLaajzUk5SC4vRub7aL.jpg",
       "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Union County",
-      "url": "https://hollymoviehd.cc/union-county-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/u1QIAmdHspNtlTFSV3BuTms7Ncw.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Infirmary",
-      "url": "https://hollymoviehd.cc/infirmary-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Midnight Stalker",
-      "url": "https://hollymoviehd.cc/midnight-stalker-2002/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/Aeb77pqtexjmfrTGYGsGKEhz6Yo.jpg",
-      "year": "2002",
       "quality": "HD"
     }
   ]
