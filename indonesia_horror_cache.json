@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-15T05:39:54.037672+00:00",
+  "generated_at": "2026-10-15T10:21:35.856358+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -46,12 +46,12 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Warung Pocong",
-      "url": "https://www.justwatch.com/id/movie/warung-pocong",
-      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
+      "title": "Sumpah Darah",
+      "url": "https://www.justwatch.com/id/movie/sumpah-darah",
+      "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
       "year": "2026",
       "quality": null,
-      "category": "Comedy, Horror",
+      "category": "Horror",
       "country": "Indonesia",
       "providers": [
         "KlikFilm",
@@ -600,6 +600,21 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-15T05:39:54.037672+00:00"
+    },
+    "https://www.justwatch.com/id/movie/sumpah-darah": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Sumpah Darah",
+        "url": "https://www.justwatch.com/id/movie/sumpah-darah",
+        "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
+        "year": "2026",
+        "quality": null,
+        "category": "Horror",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-10-15T10:21:35.856358+00:00"
     }
   }
 }
