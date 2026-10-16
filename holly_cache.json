@@ -2,8 +2,35 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-16T14:25:40.173185+00:00",
+  "generated_at": "2026-10-16T21:25:25.322183+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Norm: The Tale of Norm Macdonald",
+      "url": "https://hollymoviehd.cc/norm-the-tale-of-norm-macdonald-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "KATSEYE: Wild Hearts",
+      "url": "https://hollymoviehd.cc/katseye-wild-hearts-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/2iMiErHxi3prW3J2ZjFiChfhptt.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Sacrifice",
+      "url": "https://hollymoviehd.cc/sacrifice-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -244,33 +271,6 @@
       "title": "Onslaught",
       "url": "https://hollymoviehd.cc/onslaught-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Fall 2: Deadpoint",
-      "url": "https://hollymoviehd.cc/fall-2-deadpoint-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Spider-Man: Brand New Day",
-      "url": "https://hollymoviehd.cc/spider-man-brand-new-day-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Insidious: Out of the Further",
-      "url": "https://hollymoviehd.cc/insidious-out-of-the-further-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
       "year": "2026",
       "quality": "HD"
     }
