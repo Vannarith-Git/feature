@@ -1,12 +1,27 @@
 {
   "source": "Chinese Martial Arts",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?area=5485711420338533%3B%3B%3B%3B&channel=1&sort=4&type=7288980245968133",
-  "generated_at": "2026-09-29T12:46:44.032103+00:00",
+  "generated_at": "2026-10-16T05:08:02.988577+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Chinese Martial Arts",
+      "source_type": "movie",
+      "title": "A Better Jianghu",
+      "url": "https://www.iq.com/play/1qi696xihh0?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic8.iqiyipic.com/image/20261014/45/34/v_226090014_m_601_zh-CN_m1_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Chinese Martial Arts / Wuxia / Kung Fu · iQIYI",
+      "country": "China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Chinese Martial Arts",
       "source_type": "movie",
@@ -291,24 +306,27 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Chinese Martial Arts",
-      "source_type": "movie",
-      "title": "YinYang Painted Skin",
-      "url": "https://www.iq.com/play/p8wfh5epnw?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic6.iqiyipic.com/image/20260703/2a/66/v_201747603_m_601_zh-CN_m1_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Chinese Martial Arts / Wuxia / Kung Fu · iQIYI",
-      "country": "China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/1qi696xihh0?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Chinese Martial Arts",
+        "source_type": "movie",
+        "title": "A Better Jianghu",
+        "url": "https://www.iq.com/play/1qi696xihh0?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic8.iqiyipic.com/image/20261014/45/34/v_226090014_m_601_zh-CN_m1_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Chinese Martial Arts / Wuxia / Kung Fu · iQIYI",
+        "country": "China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/kwkgjzct3w?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -641,24 +659,6 @@
         "title": "Impasse Rescue",
         "url": "https://www.iq.com/play/s5gwy13grg?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic4.iqiyipic.com/image/20260628/04/7e/v_202868239_m_601_zh-CN_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Chinese Martial Arts / Wuxia / Kung Fu · iQIYI",
-        "country": "China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/p8wfh5epnw?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Chinese Martial Arts",
-        "source_type": "movie",
-        "title": "YinYang Painted Skin",
-        "url": "https://www.iq.com/play/p8wfh5epnw?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic6.iqiyipic.com/image/20260703/2a/66/v_201747603_m_601_zh-CN_m1_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Chinese Martial Arts / Wuxia / Kung Fu · iQIYI",
