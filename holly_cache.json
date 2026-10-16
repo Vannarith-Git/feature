@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-16T05:07:26.898641+00:00",
+  "generated_at": "2026-10-16T14:25:40.173185+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Clean Hands",
+      "url": "https://hollymoviehd.cc/clean-hands-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/9jQLFnwzOij720AYYqJXQvjyyTp.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -262,15 +271,6 @@
       "title": "Insidious: Out of the Further",
       "url": "https://hollymoviehd.cc/insidious-out-of-the-further-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "VMX Tapes: Volume 2",
-      "url": "https://hollymoviehd.cc/vmx-tapes-volume-2-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/f0WSjMX8WVlBrnFJHJt0Br1Y7D6.jpg",
       "year": "2026",
       "quality": "HD"
     }
