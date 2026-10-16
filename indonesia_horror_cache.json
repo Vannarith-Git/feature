@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-15T22:27:32.409282+00:00",
+  "generated_at": "2026-10-16T00:40:43.540066+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -11,6 +11,21 @@
   ],
   "provider_errors": [],
   "items": [
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Mumun",
+      "url": "https://www.justwatch.com/id/movie/mumun",
+      "poster_url": "https://images.justwatch.com/poster/291261623/s332/mumun.jpg",
+      "year": "2022",
+      "quality": null,
+      "category": "Comedy, Drama, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Netflix"
+      ],
+      "provider": "Netflix"
+    },
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
@@ -623,6 +638,61 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-15T22:27:32.409282+00:00"
+    },
+    "https://www.justwatch.com/id/movie/it": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-16T00:40:43.540066+00:00"
+    },
+    "https://www.justwatch.com/id/movie/a-quiet-place": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-16T00:40:43.540066+00:00"
+    },
+    "https://www.justwatch.com/id/movie/a-quiet-place-part-ii": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-16T00:40:43.540066+00:00"
+    },
+    "https://www.justwatch.com/id/movie/it-chapter-two": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-16T00:40:43.540066+00:00"
+    },
+    "https://www.justwatch.com/id/movie/malignant": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-16T00:40:43.540066+00:00"
+    },
+    "https://www.justwatch.com/id/movie/orphan": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-16T00:40:43.540066+00:00"
+    },
+    "https://www.justwatch.com/id/movie/house-of-wax": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-16T00:40:43.540066+00:00"
+    },
+    "https://www.justwatch.com/id/movie/ghost-ship": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-16T00:40:43.540066+00:00"
+    },
+    "https://www.justwatch.com/id/movie/mumun": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Mumun",
+        "url": "https://www.justwatch.com/id/movie/mumun",
+        "poster_url": "https://images.justwatch.com/poster/291261623/s332/mumun.jpg",
+        "year": "2022",
+        "quality": null,
+        "category": "Comedy, Drama, Horror",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-10-16T00:40:43.540066+00:00"
     }
   }
 }
