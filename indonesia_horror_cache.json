@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-16T14:26:11.454130+00:00",
+  "generated_at": "2026-10-16T18:18:02.540007+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -25,6 +25,22 @@
         "Netflix"
       ],
       "provider": "Netflix"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Songko",
+      "url": "https://www.justwatch.com/id/movie/songko",
+      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Horror, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm",
+        "Viu"
+      ],
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -56,6 +72,22 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Warung Pocong",
+      "url": "https://www.justwatch.com/id/movie/warung-pocong",
+      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm",
+        "Viu"
+      ],
+      "provider": "KlikFilm, Viu"
     }
   ],
   "candidate_results": {
