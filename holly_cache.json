@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-16T21:25:25.322183+00:00",
+  "generated_at": "2026-10-17T11:32:33.499383+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Deathgasm 2: Goremageddon",
+      "url": "https://hollymoviehd.cc/deathgasm-2-goremageddon-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/e4iLDxqe8fcIG42YORNlh3t1ZJb.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -262,15 +271,6 @@
       "title": "Late Fame",
       "url": "https://hollymoviehd.cc/late-fame-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Onslaught",
-      "url": "https://hollymoviehd.cc/onslaught-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
       "year": "2026",
       "quality": "HD"
     }
