@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-17T17:28:39.350331+00:00",
+  "generated_at": "2026-10-17T23:32:02.458966+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -14,12 +14,12 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "'Ain",
-      "url": "https://www.justwatch.com/id/movie/ain",
-      "poster_url": "https://images.justwatch.com/poster/344758142/s332/ain.jpg",
-      "year": "2026",
+      "title": "Lembayung",
+      "url": "https://www.justwatch.com/id/movie/lembayung",
+      "poster_url": "https://images.justwatch.com/poster/319662290/s332/lembayung.jpg",
+      "year": "2024",
       "quality": null,
-      "category": "Horror, Mystery & Thriller",
+      "category": "Crime, Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
         "Netflix"
@@ -764,6 +764,31 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-17T06:58:07.916064+00:00"
+    },
+    "https://www.justwatch.com/id/movie/ouija-origin-of-evil": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-17T23:32:02.458966+00:00"
+    },
+    "https://www.justwatch.com/id/movie/ouija": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-17T23:32:02.458966+00:00"
+    },
+    "https://www.justwatch.com/id/movie/lembayung": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Lembayung",
+        "url": "https://www.justwatch.com/id/movie/lembayung",
+        "poster_url": "https://images.justwatch.com/poster/319662290/s332/lembayung.jpg",
+        "year": "2024",
+        "quality": null,
+        "category": "Crime, Horror, Mystery & Thriller",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-10-17T23:32:02.458966+00:00"
     }
   }
 }
