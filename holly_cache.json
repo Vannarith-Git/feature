@@ -2,8 +2,26 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-17T11:32:33.499383+00:00",
+  "generated_at": "2026-10-18T17:51:19.366648+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Super Scam Me",
+      "url": "https://hollymoviehd.cc/super-scam-me-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/y07DF84TR67NVAevJR6JMydIL5H.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Dutdot",
+      "url": "https://hollymoviehd.cc/dutdot-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/82lWo1MHYGG0mSyBvpBRQCop70n.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -133,15 +151,6 @@
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
-      "title": "Hope",
-      "url": "https://hollymoviehd.cc/hope-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
       "title": "Let’s Have Kids!",
       "url": "https://hollymoviehd.cc/lets-have-kids-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/ciHBHFWAUn9tXNpm5NfDOkcgcMx.jpg",
@@ -190,6 +199,15 @@
       "title": "Practical Magic 2",
       "url": "https://hollymoviehd.cc/practical-magic-2-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Hope",
+      "url": "https://hollymoviehd.cc/hope-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
       "year": "2026",
       "quality": "HD"
     },
@@ -253,24 +271,6 @@
       "title": "Love In The Diary Box",
       "url": "https://hollymoviehd.cc/love-in-the-diary-box-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/jvw1zcIVl4NKeNaWrOX1snaS8Xt.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Unang Pasok",
-      "url": "https://hollymoviehd.cc/unang-pasok-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/daHU4hyjnp0vKO4Hs2n2Jiv8FXS.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Late Fame",
-      "url": "https://hollymoviehd.cc/late-fame-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
       "year": "2026",
       "quality": "HD"
     }
