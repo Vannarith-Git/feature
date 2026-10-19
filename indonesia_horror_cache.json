@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-18T11:41:49.690448+00:00",
+  "generated_at": "2026-10-19T00:23:41.190420+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -87,22 +87,6 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Warung Pocong",
-      "url": "https://www.justwatch.com/id/movie/warung-pocong",
-      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "KlikFilm",
-        "Viu"
-      ],
-      "provider": "KlikFilm, Viu"
     }
   ],
   "candidate_results": {
