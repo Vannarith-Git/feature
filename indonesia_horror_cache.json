@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-19T10:45:38.989429+00:00",
+  "generated_at": "2026-10-19T21:35:55.129956+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -29,6 +29,22 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
+      "title": "Ghosthing",
+      "url": "https://www.justwatch.com/id/movie/ghosthing",
+      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Fantasy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm",
+        "Viu"
+      ],
+      "provider": "KlikFilm, Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
       "title": "Lembayung",
       "url": "https://www.justwatch.com/id/movie/lembayung",
       "poster_url": "https://images.justwatch.com/poster/319662290/s332/lembayung.jpg",
@@ -44,12 +60,12 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Sumpah Darah",
-      "url": "https://www.justwatch.com/id/movie/sumpah-darah",
-      "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
+      "title": "Songko",
+      "url": "https://www.justwatch.com/id/movie/songko",
+      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
       "year": "2026",
       "quality": null,
-      "category": "Horror",
+      "category": "Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
         "KlikFilm",
