@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-19T05:06:12.865882+00:00",
+  "generated_at": "2026-10-20T00:39:16.225051+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "By Any Means",
+      "url": "https://hollymoviehd.cc/by-any-means-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -262,15 +271,6 @@
       "title": "Matchbox the Movie",
       "url": "https://hollymoviehd.cc/matchbox-the-movie-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "500 Miles",
-      "url": "https://hollymoviehd.cc/500-miles-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/FhRosui9MSdxdyD3h0skOFhqED.jpg",
       "year": "2026",
       "quality": "HD"
     }
