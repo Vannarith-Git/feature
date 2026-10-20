@@ -2,8 +2,26 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-20T00:39:16.225051+00:00",
+  "generated_at": "2026-10-20T10:17:33.519048+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Tiny Fugitives",
+      "url": "https://hollymoviehd.cc/tiny-fugitives-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/unJWfg66bFwrGD31nBFoOQfkuba.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "The Musical",
+      "url": "https://hollymoviehd.cc/the-musical-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/paoRPVNta4eYyPO1vsdHTK8dUYa.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -253,24 +271,6 @@
       "title": "Oasis: Don’t Look Back in Anger",
       "url": "https://hollymoviehd.cc/oasis-dont-look-back-in-anger-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Animals",
-      "url": "https://hollymoviehd.cc/animals-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Matchbox the Movie",
-      "url": "https://hollymoviehd.cc/matchbox-the-movie-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
       "year": "2026",
       "quality": "HD"
     }
