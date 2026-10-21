@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-21T19:40:00.023330+00:00",
+  "generated_at": "2026-10-21T22:48:12.004944+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -41,6 +41,21 @@
         "Viu"
       ],
       "provider": "KlikFilm, Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Ku Tak Percaya Kamu Mati",
+      "url": "https://www.justwatch.com/id/movie/ku-tak-percaya-kamu-mati",
+      "poster_url": "https://images.justwatch.com/poster/320272782/s332/ku-tak-percaya-kamu-mati.jpg",
+      "year": "2019",
+      "quality": "HD",
+      "category": "Drama, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Catchplay"
+      ],
+      "provider": "Catchplay"
     },
     {
       "source": "Indonesian Horror",
@@ -866,6 +881,21 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-21T15:39:25.372234+00:00"
+    },
+    "https://www.justwatch.com/id/movie/ku-tak-percaya-kamu-mati": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Ku Tak Percaya Kamu Mati",
+        "url": "https://www.justwatch.com/id/movie/ku-tak-percaya-kamu-mati",
+        "poster_url": "https://images.justwatch.com/poster/320272782/s332/ku-tak-percaya-kamu-mati.jpg",
+        "year": "2019",
+        "quality": "HD",
+        "category": "Drama, Horror",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-10-21T22:48:12.004944+00:00"
     }
   }
 }
