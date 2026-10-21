@@ -2,8 +2,26 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-20T10:17:33.519048+00:00",
+  "generated_at": "2026-10-21T10:38:18.614746+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Steal This Story, Please!",
+      "url": "https://hollymoviehd.cc/steal-this-story-please-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/d7SqbT4URKiw1zmmZBSy0aTzD50.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Capturing Bigfoot",
+      "url": "https://hollymoviehd.cc/capturing-bigfoot-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/5je8ali4g3RUYDnxk706KoPflGi.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -253,24 +271,6 @@
       "title": "Hope",
       "url": "https://hollymoviehd.cc/hope-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "V/H/S/Mixtape",
-      "url": "https://hollymoviehd.cc/v-h-s-mixtape-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Oasis: Don’t Look Back in Anger",
-      "url": "https://hollymoviehd.cc/oasis-dont-look-back-in-anger-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
       "year": "2026",
       "quality": "HD"
     }
