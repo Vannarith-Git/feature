@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-22T06:05:18.839615+00:00",
+  "generated_at": "2026-10-22T11:47:01.680286+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -30,6 +30,21 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
+      "title": "Ku Tak Percaya Kamu Mati",
+      "url": "https://www.justwatch.com/id/movie/ku-tak-percaya-kamu-mati",
+      "poster_url": "https://images.justwatch.com/poster/320272782/s332/ku-tak-percaya-kamu-mati.jpg",
+      "year": "2019",
+      "quality": "HD",
+      "category": "Drama, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Catchplay"
+      ],
+      "provider": "Catchplay"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
       "title": "Lembayung",
       "url": "https://www.justwatch.com/id/movie/lembayung",
       "poster_url": "https://images.justwatch.com/poster/319662290/s332/lembayung.jpg",
@@ -45,12 +60,12 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Sumpah Darah",
-      "url": "https://www.justwatch.com/id/movie/sumpah-darah",
-      "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
+      "title": "Songko",
+      "url": "https://www.justwatch.com/id/movie/songko",
+      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
       "year": "2026",
       "quality": null,
-      "category": "Horror",
+      "category": "Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
         "KlikFilm",
@@ -61,18 +76,17 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Warung Pocong",
-      "url": "https://www.justwatch.com/id/movie/warung-pocong",
-      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
-      "year": "2026",
+      "title": "Tuyul: Part 1",
+      "url": "https://www.justwatch.com/id/movie/tuyul-part-1",
+      "poster_url": "https://images.justwatch.com/poster/142176825/s332/tuyul-part-1.jpg",
+      "year": "2015",
       "quality": null,
-      "category": "Comedy, Horror",
+      "category": "Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm",
-        "Viu"
+        "Catchplay"
       ],
-      "provider": "KlikFilm, Viu"
+      "provider": "Catchplay"
     }
   ],
   "candidate_results": {
@@ -880,6 +894,11 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-22T06:05:18.839615+00:00"
+    },
+    "https://www.justwatch.com/id/movie/captain-fantastic": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-22T11:47:01.680286+00:00"
     }
   }
 }
