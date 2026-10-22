@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-22T20:06:30.084116+00:00",
+  "generated_at": "2026-10-22T23:22:26.004741+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -11,6 +11,21 @@
   ],
   "provider_errors": [],
   "items": [
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Cerita Lila",
+      "url": "https://www.justwatch.com/id/movie/cerita-lila",
+      "poster_url": "https://images.justwatch.com/poster/345959447/s332/cerita-lila.jpg",
+      "year": "2026",
+      "quality": "HD",
+      "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Netflix"
+      ],
+      "provider": "Netflix"
+    },
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
@@ -25,6 +40,21 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Kuyank",
+      "url": "https://www.justwatch.com/id/movie/kuyank",
+      "poster_url": "https://images.justwatch.com/poster/340499965/s332/kuyank.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Drama, Horror, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "Netflix"
+      ],
+      "provider": "Netflix"
     },
     {
       "source": "Indonesian Horror",
@@ -899,6 +929,51 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-22T11:47:01.680286+00:00"
+    },
+    "https://www.justwatch.com/id/movie/cerita-lila": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Cerita Lila",
+        "url": "https://www.justwatch.com/id/movie/cerita-lila",
+        "poster_url": "https://images.justwatch.com/poster/345959447/s332/cerita-lila.jpg",
+        "year": "2026",
+        "quality": "HD",
+        "category": "Horror",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-10-22T23:22:26.004741+00:00"
+    },
+    "https://www.justwatch.com/id/movie/dance-of-the-damned-2026": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-22T23:22:26.004741+00:00"
+    },
+    "https://www.justwatch.com/id/movie/ludo": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-22T23:22:26.004741+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-djinns-curse-2": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-22T23:22:26.004741+00:00"
+    },
+    "https://www.justwatch.com/id/movie/kuyank": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Kuyank",
+        "url": "https://www.justwatch.com/id/movie/kuyank",
+        "poster_url": "https://images.justwatch.com/poster/340499965/s332/kuyank.jpg",
+        "year": "2026",
+        "quality": null,
+        "category": "Drama, Horror, Mystery & Thriller",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-10-22T23:22:26.004741+00:00"
     }
   }
 }
