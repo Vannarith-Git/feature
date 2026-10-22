@@ -2,8 +2,26 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-21T10:38:18.614746+00:00",
+  "generated_at": "2026-10-22T20:05:58.524728+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Storm Rider: Legend of Hammerhead",
+      "url": "https://hollymoviehd.cc/storm-rider-legend-of-hammerhead-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/uTgR40KTd72HEMbjma7JvIfVxUV.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Peaky Blinders: The Real Story",
+      "url": "https://hollymoviehd.cc/peaky-blinders-the-real-story-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/jJTp2pn1etVCViw04f0b3YArkmW.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -253,24 +271,6 @@
       "title": "The Incomer",
       "url": "https://hollymoviehd.cc/the-incomer-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/iccroKK1eUTdCnLfmp7I3YXwAKF.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Practical Magic 2",
-      "url": "https://hollymoviehd.cc/practical-magic-2-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Hope",
-      "url": "https://hollymoviehd.cc/hope-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
       "year": "2026",
       "quality": "HD"
     }

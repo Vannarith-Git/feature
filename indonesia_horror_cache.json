@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-22T16:06:36.685152+00:00",
+  "generated_at": "2026-10-22T20:06:30.084116+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -60,12 +60,12 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Suddenly Satan",
-      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
-      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
+      "title": "Sumpah Darah",
+      "url": "https://www.justwatch.com/id/movie/sumpah-darah",
+      "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
       "year": "2026",
       "quality": null,
-      "category": "Comedy, Horror",
+      "category": "Horror",
       "country": "Indonesia",
       "providers": [
         "KlikFilm",
