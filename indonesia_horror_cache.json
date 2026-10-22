@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-22T01:02:11.316141+00:00",
+  "generated_at": "2026-10-22T06:05:18.839615+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -26,21 +26,6 @@
         "Viu"
       ],
       "provider": "KlikFilm, Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Ku Tak Percaya Kamu Mati",
-      "url": "https://www.justwatch.com/id/movie/ku-tak-percaya-kamu-mati",
-      "poster_url": "https://images.justwatch.com/poster/320272782/s332/ku-tak-percaya-kamu-mati.jpg",
-      "year": "2019",
-      "quality": "HD",
-      "category": "Drama, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Catchplay"
-      ],
-      "provider": "Catchplay"
     },
     {
       "source": "Indonesian Horror",
@@ -76,17 +61,18 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Tuyul: Part 1",
-      "url": "https://www.justwatch.com/id/movie/tuyul-part-1",
-      "poster_url": "https://images.justwatch.com/poster/142176825/s332/tuyul-part-1.jpg",
-      "year": "2015",
+      "title": "Warung Pocong",
+      "url": "https://www.justwatch.com/id/movie/warung-pocong",
+      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
+      "year": "2026",
       "quality": null,
-      "category": "Horror",
+      "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
-        "Catchplay"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "Catchplay"
+      "provider": "KlikFilm, Viu"
     }
   ],
   "candidate_results": {
@@ -854,6 +840,46 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-22T01:02:11.316141+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-pink-panther": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-22T06:05:18.839615+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-big-day-2018": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-22T06:05:18.839615+00:00"
+    },
+    "https://www.justwatch.com/id/movie/storks": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-22T06:05:18.839615+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-pink-panther-2": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-22T06:05:18.839615+00:00"
+    },
+    "https://www.justwatch.com/id/movie/center-stage-turn-it-up": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-22T06:05:18.839615+00:00"
+    },
+    "https://www.justwatch.com/id/movie/practical-magic-2": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-22T06:05:18.839615+00:00"
+    },
+    "https://www.justwatch.com/id/movie/richard-pryor-live-on-the-sunset-strip": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-22T06:05:18.839615+00:00"
+    },
+    "https://www.justwatch.com/id/movie/thomas-and-friends-the-christmas-letter-express": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-22T06:05:18.839615+00:00"
     }
   }
 }
