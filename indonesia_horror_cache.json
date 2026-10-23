@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-23T12:07:32.994833+00:00",
+  "generated_at": "2026-10-23T17:06:52.122272+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -30,6 +30,22 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
+      "title": "Ghosthing",
+      "url": "https://www.justwatch.com/id/movie/ghosthing",
+      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Fantasy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm",
+        "Viu"
+      ],
+      "provider": "KlikFilm, Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
       "title": "Kuyank",
       "url": "https://www.justwatch.com/id/movie/kuyank",
       "poster_url": "https://images.justwatch.com/poster/340499965/s332/kuyank.jpg",
@@ -45,18 +61,17 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Songko",
-      "url": "https://www.justwatch.com/id/movie/songko",
-      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
-      "year": "2026",
+      "title": "Lembayung",
+      "url": "https://www.justwatch.com/id/movie/lembayung",
+      "poster_url": "https://images.justwatch.com/poster/319662290/s332/lembayung.jpg",
+      "year": "2024",
       "quality": null,
-      "category": "Horror, Mystery & Thriller",
+      "category": "Crime, Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm",
-        "Viu"
+        "Netflix"
       ],
-      "provider": "KlikFilm, Viu"
+      "provider": "Netflix"
     },
     {
       "source": "Indonesian Horror",
