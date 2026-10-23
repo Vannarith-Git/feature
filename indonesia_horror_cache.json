@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-23T01:44:50.819528+00:00",
+  "generated_at": "2026-10-23T06:35:46.641609+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -954,6 +954,16 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-23T01:44:50.819528+00:00"
+    },
+    "https://www.justwatch.com/id/movie/curse-of-the-faceless-man": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-23T06:35:46.641609+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-paradise": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-23T06:35:46.641609+00:00"
     }
   }
 }

@@ -1,12 +1,27 @@
 {
   "source": "Anime",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?channel=4&sort=4&type=1425950065128833%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B",
-  "generated_at": "2026-10-12T02:15:37.606301+00:00",
+  "generated_at": "2026-10-23T06:36:01.256517+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "趣味厨房烹饪大挑战",
+      "url": "https://www.iq.com/play/2cjle4a09o5?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic2.iqiyipic.com/image/20261001/5c/10/a_101592503_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Anime",
       "source_type": "series",
@@ -291,24 +306,27 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "真相大揭秘：马里奥被逮捕了？",
-      "url": "https://www.iq.com/play/gpoousksx9?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic3.iqiyipic.com/image/20260903/c5/c3/a_101445802_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/2cjle4a09o5?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "趣味厨房烹饪大挑战",
+        "url": "https://www.iq.com/play/2cjle4a09o5?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic2.iqiyipic.com/image/20261001/5c/10/a_101592503_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/qjgxiwxuyt?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -641,24 +659,6 @@
         "title": "方块实验室：失控的药剂",
         "url": "https://www.iq.com/play/mj6fl4fr71?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic7.iqiyipic.com/image/20260915/36/09/a_101492820_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/gpoousksx9?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "真相大揭秘：马里奥被逮捕了？",
-        "url": "https://www.iq.com/play/gpoousksx9?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic3.iqiyipic.com/image/20260903/c5/c3/a_101445802_m_601_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Anime · iQIYI",
