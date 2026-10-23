@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-23T06:35:46.641609+00:00",
+  "generated_at": "2026-10-23T12:07:32.994833+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -45,27 +45,60 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Lembayung",
-      "url": "https://www.justwatch.com/id/movie/lembayung",
-      "poster_url": "https://images.justwatch.com/poster/319662290/s332/lembayung.jpg",
-      "year": "2024",
-      "quality": null,
-      "category": "Crime, Horror, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "Netflix"
-      ],
-      "provider": "Netflix"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
       "title": "Songko",
       "url": "https://www.justwatch.com/id/movie/songko",
       "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
       "year": "2026",
       "quality": null,
       "category": "Horror, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm",
+        "Viu"
+      ],
+      "provider": "KlikFilm, Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Suddenly Satan",
+      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
+      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm",
+        "Viu"
+      ],
+      "provider": "KlikFilm, Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Sumpah Darah",
+      "url": "https://www.justwatch.com/id/movie/sumpah-darah",
+      "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm",
+        "Viu"
+      ],
+      "provider": "KlikFilm, Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Warung Pocong",
+      "url": "https://www.justwatch.com/id/movie/warung-pocong",
+      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
         "KlikFilm",
@@ -964,6 +997,31 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-23T06:35:46.641609+00:00"
+    },
+    "https://www.justwatch.com/id/movie/under-the-skin": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-23T12:07:32.994833+00:00"
+    },
+    "https://www.justwatch.com/id/movie/jesus-land": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-23T12:07:32.994833+00:00"
+    },
+    "https://www.justwatch.com/id/movie/fresh-meat": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-23T12:07:32.994833+00:00"
+    },
+    "https://www.justwatch.com/id/movie/playing-with-fire-an-ecosexual-emergency": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-23T12:07:32.994833+00:00"
+    },
+    "https://www.justwatch.com/id/movie/anna-comes-home": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-23T12:07:32.994833+00:00"
     }
   }
 }

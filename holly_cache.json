@@ -2,8 +2,35 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-22T20:05:58.524728+00:00",
+  "generated_at": "2026-10-23T12:07:00.183695+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Paralyzed by Hope: The Maria Bamford Story",
+      "url": "https://hollymoviehd.cc/paralyzed-by-hope-the-maria-bamford-story-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/waH2eiMaEW987JUTWyrj4x4d63k.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "The Cycle",
+      "url": "https://hollymoviehd.cc/the-cycle-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "url": "https://hollymoviehd.cc/shaun-the-sheep-the-beast-of-mossy-bottom-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -244,33 +271,6 @@
       "title": "The Sun Never Sets",
       "url": "https://hollymoviehd.cc/the-sun-never-sets-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/hpzzGHyVN4nE0GzqoAu12ko6ER3.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Buddy",
-      "url": "https://hollymoviehd.cc/buddy-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "The Spirit of Halloween",
-      "url": "https://hollymoviehd.cc/the-spirit-of-halloween-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/l2ZtiBj1gzsD0vlnOFcMzKW3Rl2.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "The Incomer",
-      "url": "https://hollymoviehd.cc/the-incomer-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/iccroKK1eUTdCnLfmp7I3YXwAKF.jpg",
       "year": "2026",
       "quality": "HD"
     }
