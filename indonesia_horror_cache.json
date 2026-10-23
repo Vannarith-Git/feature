@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-22T23:22:26.004741+00:00",
+  "generated_at": "2026-10-23T01:44:50.819528+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -22,24 +22,10 @@
       "category": "Horror",
       "country": "Indonesia",
       "providers": [
-        "Netflix"
-      ],
-      "provider": "Netflix"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Ku Tak Percaya Kamu Mati",
-      "url": "https://www.justwatch.com/id/movie/ku-tak-percaya-kamu-mati",
-      "poster_url": "https://images.justwatch.com/poster/320272782/s332/ku-tak-percaya-kamu-mati.jpg",
-      "year": "2019",
-      "quality": "HD",
-      "category": "Drama, Horror",
-      "country": "Indonesia",
-      "providers": [
+        "Netflix",
         "Catchplay"
       ],
-      "provider": "Catchplay"
+      "provider": "Netflix, Catchplay"
     },
     {
       "source": "Indonesian Horror",
@@ -86,37 +72,6 @@
         "Viu"
       ],
       "provider": "KlikFilm, Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Sumpah Darah",
-      "url": "https://www.justwatch.com/id/movie/sumpah-darah",
-      "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Horror",
-      "country": "Indonesia",
-      "providers": [
-        "KlikFilm",
-        "Viu"
-      ],
-      "provider": "KlikFilm, Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Tuyul: Part 1",
-      "url": "https://www.justwatch.com/id/movie/tuyul-part-1",
-      "poster_url": "https://images.justwatch.com/poster/142176825/s332/tuyul-part-1.jpg",
-      "year": "2015",
-      "quality": null,
-      "category": "Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Catchplay"
-      ],
-      "provider": "Catchplay"
     }
   ],
   "candidate_results": {
@@ -974,6 +929,31 @@
         "country": "Indonesia"
       },
       "checked_at": "2026-10-22T23:22:26.004741+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-slaughter-of-the-vampires": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-23T01:44:50.819528+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-phoenix-incident": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-23T01:44:50.819528+00:00"
+    },
+    "https://www.justwatch.com/id/movie/married-alive": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-23T01:44:50.819528+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-man-who-saves-the-world": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-23T01:44:50.819528+00:00"
+    },
+    "https://www.justwatch.com/id/movie/wardriver": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-23T01:44:50.819528+00:00"
     }
   }
 }
