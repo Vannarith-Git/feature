@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-24T15:50:34.127295+00:00",
+  "generated_at": "2026-10-24T18:31:17.034049+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -25,22 +25,6 @@
         "Netflix"
       ],
       "provider": "Netflix"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Ghosthing",
-      "url": "https://www.justwatch.com/id/movie/ghosthing",
-      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Fantasy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "KlikFilm",
-        "Viu"
-      ],
-      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
