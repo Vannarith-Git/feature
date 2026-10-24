@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-23T12:07:00.183695+00:00",
+  "generated_at": "2026-10-24T11:57:58.852420+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Butthole Surfers: The Hole Truth and Nothing Butt",
+      "url": "https://hollymoviehd.cc/butthole-surfers-the-hole-truth-and-nothing-butt-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/uG7aqinXD5EgXtm2MTJma37t7V8.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -262,15 +271,6 @@
       "title": "Let’s Have Kids!",
       "url": "https://hollymoviehd.cc/lets-have-kids-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/ciHBHFWAUn9tXNpm5NfDOkcgcMx.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "The Sun Never Sets",
-      "url": "https://hollymoviehd.cc/the-sun-never-sets-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/hpzzGHyVN4nE0GzqoAu12ko6ER3.jpg",
       "year": "2026",
       "quality": "HD"
     }
