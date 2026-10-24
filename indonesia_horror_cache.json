@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-23T23:25:27.703824+00:00",
+  "generated_at": "2026-10-24T01:54:05.607198+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -1040,6 +1040,16 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-23T23:25:27.703824+00:00"
+    },
+    "https://www.justwatch.com/id/movie/a-sunday-at-105": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-24T01:54:05.607198+00:00"
+    },
+    "https://www.justwatch.com/id/movie/i-hate-found-footage": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-24T01:54:05.607198+00:00"
     }
   }
 }
