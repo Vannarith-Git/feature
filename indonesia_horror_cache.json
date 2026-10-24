@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-24T18:31:17.034049+00:00",
+  "generated_at": "2026-10-24T21:10:16.128517+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -20,6 +20,21 @@
       "year": "2026",
       "quality": "HD",
       "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Netflix"
+      ],
+      "provider": "Netflix"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Ghost Writer 2",
+      "url": "https://www.justwatch.com/id/movie/ghost-writer-2",
+      "poster_url": "https://images.justwatch.com/poster/292707852/s332/ghost-writer-2.jpg",
+      "year": "2022",
+      "quality": "HD",
+      "category": "Comedy, Drama, Horror",
       "country": "Indonesia",
       "providers": [
         "Netflix"
@@ -1110,6 +1125,26 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-24T11:58:32.369936+00:00"
+    },
+    "https://www.justwatch.com/id/movie/ghost-writer-2": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Ghost Writer 2",
+        "url": "https://www.justwatch.com/id/movie/ghost-writer-2",
+        "poster_url": "https://images.justwatch.com/poster/292707852/s332/ghost-writer-2.jpg",
+        "year": "2022",
+        "quality": "HD",
+        "category": "Comedy, Drama, Horror",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-10-24T21:10:16.128517+00:00"
+    },
+    "https://www.justwatch.com/id/movie/it-exists": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-24T21:10:16.128517+00:00"
     }
   }
 }
