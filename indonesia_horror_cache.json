@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-24T21:10:16.128517+00:00",
+  "generated_at": "2026-10-25T06:28:09.936968+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -44,17 +44,18 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Ku Tak Percaya Kamu Mati",
-      "url": "https://www.justwatch.com/id/movie/ku-tak-percaya-kamu-mati",
-      "poster_url": "https://images.justwatch.com/poster/320272782/s332/ku-tak-percaya-kamu-mati.jpg",
-      "year": "2019",
-      "quality": "HD",
-      "category": "Drama, Horror",
+      "title": "Ghosthing",
+      "url": "https://www.justwatch.com/id/movie/ghosthing",
+      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Fantasy, Horror",
       "country": "Indonesia",
       "providers": [
-        "Catchplay"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "Catchplay"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -86,37 +87,6 @@
         "Viu"
       ],
       "provider": "KlikFilm, Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Sumpah Darah",
-      "url": "https://www.justwatch.com/id/movie/sumpah-darah",
-      "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Horror",
-      "country": "Indonesia",
-      "providers": [
-        "KlikFilm",
-        "Viu"
-      ],
-      "provider": "KlikFilm, Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Tuyul: Part 1",
-      "url": "https://www.justwatch.com/id/movie/tuyul-part-1",
-      "poster_url": "https://images.justwatch.com/poster/142176825/s332/tuyul-part-1.jpg",
-      "year": "2015",
-      "quality": null,
-      "category": "Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Catchplay"
-      ],
-      "provider": "Catchplay"
     },
     {
       "source": "Indonesian Horror",
@@ -1145,6 +1115,41 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-24T21:10:16.128517+00:00"
+    },
+    "https://www.justwatch.com/id/movie/haternet": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-25T06:28:09.936968+00:00"
+    },
+    "https://www.justwatch.com/id/movie/money-train": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-25T06:28:09.936968+00:00"
+    },
+    "https://www.justwatch.com/id/movie/chum-2014": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-25T06:28:09.936968+00:00"
+    },
+    "https://www.justwatch.com/id/movie/xianglians-room": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-25T06:28:09.936968+00:00"
+    },
+    "https://www.justwatch.com/id/movie/irene-williams-queen-of-lincoln-road": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-25T06:28:09.936968+00:00"
+    },
+    "https://www.justwatch.com/id/movie/beware-the-box-folk": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-25T06:28:09.936968+00:00"
+    },
+    "https://www.justwatch.com/id/movie/sirwinakuy": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-25T06:28:09.936968+00:00"
     }
   }
 }
