@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-25T06:27:45.844615+00:00",
+  "generated_at": "2026-10-25T21:39:15.801177+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Kill Code",
+      "url": "https://hollymoviehd.cc/kill-code-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/bXvSKLCillha6wxY0yxoRCM2WQl.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -262,15 +271,6 @@
       "title": "Love of Your Life",
       "url": "https://hollymoviehd.cc/love-of-your-life-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Barrio Triste",
-      "url": "https://hollymoviehd.cc/barrio-triste-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/w2zymRakHhwKUnRCLPKrBiL8inL.jpg",
       "year": "2026",
       "quality": "HD"
     }
