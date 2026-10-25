@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-25T06:28:09.936968+00:00",
+  "generated_at": "2026-10-25T11:56:48.468829+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -60,6 +60,21 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
+      "title": "Ku Tak Percaya Kamu Mati",
+      "url": "https://www.justwatch.com/id/movie/ku-tak-percaya-kamu-mati",
+      "poster_url": "https://images.justwatch.com/poster/320272782/s332/ku-tak-percaya-kamu-mati.jpg",
+      "year": "2019",
+      "quality": "HD",
+      "category": "Drama, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Catchplay"
+      ],
+      "provider": "Catchplay"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
       "title": "Kuyank",
       "url": "https://www.justwatch.com/id/movie/kuyank",
       "poster_url": "https://images.justwatch.com/poster/340499965/s332/kuyank.jpg",
@@ -87,6 +102,37 @@
         "Viu"
       ],
       "provider": "KlikFilm, Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Sumpah Darah",
+      "url": "https://www.justwatch.com/id/movie/sumpah-darah",
+      "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm",
+        "Viu"
+      ],
+      "provider": "KlikFilm, Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Tuyul: Part 1",
+      "url": "https://www.justwatch.com/id/movie/tuyul-part-1",
+      "poster_url": "https://images.justwatch.com/poster/142176825/s332/tuyul-part-1.jpg",
+      "year": "2015",
+      "quality": null,
+      "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Catchplay"
+      ],
+      "provider": "Catchplay"
     },
     {
       "source": "Indonesian Horror",
