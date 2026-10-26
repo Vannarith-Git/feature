@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-25T23:35:44.664771+00:00",
+  "generated_at": "2026-10-26T01:43:30.320841+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -1211,6 +1211,11 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-25T16:00:29.790145+00:00"
+    },
+    "https://www.justwatch.com/id/movie/saw-vi": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-26T01:43:30.320841+00:00"
     }
   }
 }
