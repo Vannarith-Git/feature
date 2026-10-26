@@ -1,12 +1,42 @@
 {
   "source": "Anime",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?channel=4&sort=4&type=1425950065128833%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B",
-  "generated_at": "2026-10-23T06:36:01.256517+00:00",
+  "generated_at": "2026-10-26T07:04:11.606330+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "奇妙老屋闯关大冒险",
+      "url": "https://www.iq.com/play/wjlr8ov61l?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic5.iqiyipic.com/image/20261001/d7/bc/a_101592142_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "水豚开局就开吃",
+      "url": "https://www.iq.com/play/1hjhgjzwmfd?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic2.iqiyipic.com/image/20260917/0c/0e/a_101504384_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Anime",
       "source_type": "series",
@@ -276,39 +306,45 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "怪物学园趣事多",
-      "url": "https://www.iq.com/play/x67e1fwctd?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic8.iqiyipic.com/image/20260912/c3/a2/a_101480741_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "方块实验室：失控的药剂",
-      "url": "https://www.iq.com/play/mj6fl4fr71?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic7.iqiyipic.com/image/20260915/36/09/a_101492820_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/wjlr8ov61l?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "奇妙老屋闯关大冒险",
+        "url": "https://www.iq.com/play/wjlr8ov61l?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic5.iqiyipic.com/image/20261001/d7/bc/a_101592142_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
+    "https://www.iq.com/play/1hjhgjzwmfd?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "水豚开局就开吃",
+        "url": "https://www.iq.com/play/1hjhgjzwmfd?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic2.iqiyipic.com/image/20260917/0c/0e/a_101504384_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/2cjle4a09o5?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -623,42 +659,6 @@
         "title": "植物大战僵尸：机枪射手守花园",
         "url": "https://www.iq.com/play/1f93umb6pmh?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic8.iqiyipic.com/image/20260923/8a/56/a_101544311_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/x67e1fwctd?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "怪物学园趣事多",
-        "url": "https://www.iq.com/play/x67e1fwctd?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic8.iqiyipic.com/image/20260912/c3/a2/a_101480741_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/mj6fl4fr71?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "方块实验室：失控的药剂",
-        "url": "https://www.iq.com/play/mj6fl4fr71?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic7.iqiyipic.com/image/20260915/36/09/a_101492820_m_601_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Anime · iQIYI",
