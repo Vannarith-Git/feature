@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-25T21:39:15.801177+00:00",
+  "generated_at": "2026-10-26T14:12:03.725657+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "The Dog Stars",
+      "url": "https://hollymoviehd.cc/the-dog-stars-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/5O616X9vmRzQdB68PHzBewPittd.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -262,15 +271,6 @@
       "title": "Rise of the Footsoldier: Retribution",
       "url": "https://hollymoviehd.cc/rise-of-the-footsoldier-retribution-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/5Czi3k9zc8BhJFaz6XNDKC4AUtm.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Love of Your Life",
-      "url": "https://hollymoviehd.cc/love-of-your-life-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
       "year": "2026",
       "quality": "HD"
     }
