@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-26T14:12:03.725657+00:00",
+  "generated_at": "2026-10-26T23:47:04.196788+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "What If Christmas",
+      "url": "https://hollymoviehd.cc/what-if-christmas-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/bUrjqVO5nCW3OYa7QIt7nMXqs6m.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -262,15 +271,6 @@
       "title": "Don’t Move",
       "url": "https://hollymoviehd.cc/dont-move-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Rise of the Footsoldier: Retribution",
-      "url": "https://hollymoviehd.cc/rise-of-the-footsoldier-retribution-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/5Czi3k9zc8BhJFaz6XNDKC4AUtm.jpg",
       "year": "2026",
       "quality": "HD"
     }
