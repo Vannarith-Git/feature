@@ -2,8 +2,35 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-26T23:47:04.196788+00:00",
+  "generated_at": "2026-10-27T08:20:59.104073+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Verity",
+      "url": "https://hollymoviehd.cc/verity-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Forgotten Island",
+      "url": "https://hollymoviehd.cc/forgotten-island-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "The Stunt Driver",
+      "url": "https://hollymoviehd.cc/the-stunt-driver-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -244,33 +271,6 @@
       "title": "Pantaxa Laiya: Uncut",
       "url": "https://hollymoviehd.cc/pantaxa-laiya-uncut-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/8jA8ZwuqPc73iS6FXSDfzm23HSW.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "The Fin",
-      "url": "https://hollymoviehd.cc/the-fin-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/azofjhgHBLvUkDAcrnBOWoosur2.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Evil Eye",
-      "url": "https://hollymoviehd.cc/evil-eye-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/u4zui9IkRaIuCZwSogAMQSpjWax.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Don’t Move",
-      "url": "https://hollymoviehd.cc/dont-move-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg",
       "year": "2026",
       "quality": "HD"
     }
