@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-26T23:47:51.523105+00:00",
+  "generated_at": "2026-10-27T02:29:38.673858+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -11,21 +11,6 @@
   ],
   "provider_errors": [],
   "items": [
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Cerita Lila",
-      "url": "https://www.justwatch.com/id/movie/cerita-lila",
-      "poster_url": "https://images.justwatch.com/poster/345959447/s332/cerita-lila.jpg",
-      "year": "2026",
-      "quality": "HD",
-      "category": "Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Netflix"
-      ],
-      "provider": "Netflix"
-    },
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
@@ -55,21 +40,6 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Kuyank",
-      "url": "https://www.justwatch.com/id/movie/kuyank",
-      "poster_url": "https://images.justwatch.com/poster/340499965/s332/kuyank.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Drama, Horror, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "Netflix"
-      ],
-      "provider": "Netflix"
     },
     {
       "source": "Indonesian Horror",
@@ -1219,6 +1189,11 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-26T14:12:37.364187+00:00"
+    },
+    "https://www.justwatch.com/id/movie/blade-trinity": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-27T02:29:38.673858+00:00"
     }
   }
 }
