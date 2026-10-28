@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-27T23:16:11.611256+00:00",
+  "generated_at": "2026-10-28T08:55:38.236480+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -11,37 +11,6 @@
   ],
   "provider_errors": [],
   "items": [
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Ghost Writer 2",
-      "url": "https://www.justwatch.com/id/movie/ghost-writer-2",
-      "poster_url": "https://images.justwatch.com/poster/292707852/s332/ghost-writer-2.jpg",
-      "year": "2022",
-      "quality": "HD",
-      "category": "Comedy, Drama, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Netflix"
-      ],
-      "provider": "Netflix"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Ghosthing",
-      "url": "https://www.justwatch.com/id/movie/ghosthing",
-      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Fantasy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "KlikFilm",
-        "Viu"
-      ],
-      "provider": "KlikFilm, Viu"
-    },
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
@@ -56,22 +25,6 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Songko",
-      "url": "https://www.justwatch.com/id/movie/songko",
-      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Horror, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "KlikFilm",
-        "Viu"
-      ],
-      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -1286,6 +1239,31 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-27T23:16:11.611256+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-conjuring": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-28T08:55:38.236480+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-conjuring-2": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-28T08:55:38.236480+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-nun-2018": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-28T08:55:38.236480+00:00"
+    },
+    "https://www.justwatch.com/id/movie/annabelle-creation": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-28T08:55:38.236480+00:00"
+    },
+    "https://www.justwatch.com/id/movie/annabelle-comes-home": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-28T08:55:38.236480+00:00"
     }
   }
 }
