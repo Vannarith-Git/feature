@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-28T15:53:39.727027+00:00",
+  "generated_at": "2026-10-28T20:50:30.844112+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -70,6 +70,21 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Warung Pocong",
+      "url": "https://www.justwatch.com/id/movie/warung-pocong",
+      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm"
+      ],
+      "provider": "KlikFilm"
     }
   ],
   "candidate_results": {
@@ -1282,6 +1297,46 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-28T15:53:39.727027+00:00"
+    },
+    "https://www.justwatch.com/id/movie/10-cloverfield-lane": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-28T20:50:30.844112+00:00"
+    },
+    "https://www.justwatch.com/id/movie/annabelle": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-28T20:50:30.844112+00:00"
+    },
+    "https://www.justwatch.com/id/movie/opus": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-28T20:50:30.844112+00:00"
+    },
+    "https://www.justwatch.com/id/movie/jangan-buang-ibu-2026": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-28T20:50:30.844112+00:00"
+    },
+    "https://www.justwatch.com/id/movie/on-the-waterfront": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-28T20:50:30.844112+00:00"
+    },
+    "https://www.justwatch.com/id/movie/ali-g-who-iz-i": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-28T20:50:30.844112+00:00"
+    },
+    "https://www.justwatch.com/id/movie/harry-potter-and-the-prisoner-of-azkaban": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-28T20:50:30.844112+00:00"
+    },
+    "https://www.justwatch.com/id/movie/harry-potter-and-the-goblet-of-fire": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-28T20:50:30.844112+00:00"
     }
   }
 }
