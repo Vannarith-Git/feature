@@ -2,8 +2,35 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-27T08:20:59.104073+00:00",
+  "generated_at": "2026-10-28T02:24:47.882546+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Never After Dark",
+      "url": "https://hollymoviehd.cc/never-after-dark-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/jguB76QbAx6yExiOLIPvOaxW95b.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Everybody to Kenmure Street",
+      "url": "https://hollymoviehd.cc/everybody-to-kenmure-street-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/m3ZR0dcDwpO7JdAs6sc12ks3Th9.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Sukdulan",
+      "url": "https://hollymoviehd.cc/sukdulan-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/AqeFsDpRQA3HXDWnpNXHOq4WCK6.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -244,33 +271,6 @@
       "title": "Clean Hands",
       "url": "https://hollymoviehd.cc/clean-hands-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/9jQLFnwzOij720AYYqJXQvjyyTp.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Tenzing",
-      "url": "https://hollymoviehd.cc/tenzing-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Masterplan",
-      "url": "https://hollymoviehd.cc/masterplan-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Pantaxa Laiya: Uncut",
-      "url": "https://hollymoviehd.cc/pantaxa-laiya-uncut-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/8jA8ZwuqPc73iS6FXSDfzm23HSW.jpg",
       "year": "2026",
       "quality": "HD"
     }
