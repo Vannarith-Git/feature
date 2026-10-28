@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-28T08:55:38.236480+00:00",
+  "generated_at": "2026-10-28T15:53:39.727027+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -11,6 +11,21 @@
   ],
   "provider_errors": [],
   "items": [
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Ghosthing",
+      "url": "https://www.justwatch.com/id/movie/ghosthing",
+      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Fantasy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm"
+      ],
+      "provider": "KlikFilm"
+    },
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
@@ -29,22 +44,6 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Suddenly Satan",
-      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
-      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "KlikFilm",
-        "Viu"
-      ],
-      "provider": "KlikFilm, Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
       "title": "Sumpah Darah",
       "url": "https://www.justwatch.com/id/movie/sumpah-darah",
       "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
@@ -53,10 +52,9 @@
       "category": "Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm",
-        "Viu"
+        "KlikFilm"
       ],
-      "provider": "KlikFilm, Viu"
+      "provider": "KlikFilm"
     },
     {
       "source": "Indonesian Horror",
@@ -1264,6 +1262,26 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-28T08:55:38.236480+00:00"
+    },
+    "https://www.justwatch.com/id/movie/incomplete-chairs": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-28T15:53:39.727027+00:00"
+    },
+    "https://www.justwatch.com/id/movie/i-dont-like-it-here": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-28T15:53:39.727027+00:00"
+    },
+    "https://www.justwatch.com/id/movie/dead-media": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-28T15:53:39.727027+00:00"
+    },
+    "https://www.justwatch.com/id/movie/kordell-stewart-slash-and-burn": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-28T15:53:39.727027+00:00"
     }
   }
 }

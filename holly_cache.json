@@ -2,8 +2,26 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-28T02:24:47.882546+00:00",
+  "generated_at": "2026-10-28T15:52:54.187301+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Before We Forget",
+      "url": "https://hollymoviehd.cc/before-we-forget-2025/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/1fzJuA0jbQeYYsnpVkIsbQVFRQF.jpg",
+      "year": "2025",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Ali G: Who Iz I?",
+      "url": "https://hollymoviehd.cc/ali-g-who-iz-i-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -253,24 +271,6 @@
       "title": "KATSEYE: Wild Hearts",
       "url": "https://hollymoviehd.cc/katseye-wild-hearts-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/2iMiErHxi3prW3J2ZjFiChfhptt.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Sacrifice",
-      "url": "https://hollymoviehd.cc/sacrifice-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Clean Hands",
-      "url": "https://hollymoviehd.cc/clean-hands-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/9jQLFnwzOij720AYYqJXQvjyyTp.jpg",
       "year": "2026",
       "quality": "HD"
     }
