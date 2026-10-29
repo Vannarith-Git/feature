@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-29T13:37:41.122504+00:00",
+  "generated_at": "2026-10-29T19:14:06.042543+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -22,9 +22,10 @@
       "category": "Comedy, Fantasy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -52,9 +53,10 @@
       "category": "Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -67,9 +69,10 @@
       "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -82,9 +85,10 @@
       "category": "Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -112,9 +116,10 @@
       "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     }
   ],
   "candidate_results": {
@@ -1382,6 +1387,11 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-29T13:37:41.122504+00:00"
+    },
+    "https://www.justwatch.com/id/movie/backrooms": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-29T19:14:06.042543+00:00"
     }
   }
 }
