@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-30T09:09:12.209483+00:00",
+  "generated_at": "2026-10-30T20:40:44.410681+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "SCTV: The Greatest Show You’ve Never Heard Of",
+      "url": "https://hollymoviehd.cc/sctv-the-greatest-show-youve-never-heard-of-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/vBqVyTpzv5RzHSsQdu8ECxAqSvd.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -262,15 +271,6 @@
       "title": "Deathgasm 2: Goremageddon",
       "url": "https://hollymoviehd.cc/deathgasm-2-goremageddon-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/e4iLDxqe8fcIG42YORNlh3t1ZJb.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Norm: The Tale of Norm Macdonald",
-      "url": "https://hollymoviehd.cc/norm-the-tale-of-norm-macdonald-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
       "year": "2026",
       "quality": "HD"
     }

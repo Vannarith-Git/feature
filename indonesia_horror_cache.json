@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-30T15:58:00.090601+00:00",
+  "generated_at": "2026-10-30T20:41:16.802955+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -11,6 +11,21 @@
   ],
   "provider_errors": [],
   "items": [
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Ghosthing",
+      "url": "https://www.justwatch.com/id/movie/ghosthing",
+      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Fantasy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm"
+      ],
+      "provider": "KlikFilm"
+    },
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
@@ -37,10 +52,9 @@
       "category": "Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm",
-        "Viu"
+        "KlikFilm"
       ],
-      "provider": "KlikFilm, Viu"
+      "provider": "KlikFilm"
     },
     {
       "source": "Indonesian Horror",
@@ -53,10 +67,9 @@
       "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm",
-        "Viu"
+        "KlikFilm"
       ],
-      "provider": "KlikFilm, Viu"
+      "provider": "KlikFilm"
     },
     {
       "source": "Indonesian Horror",
@@ -69,10 +82,9 @@
       "category": "Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm",
-        "Viu"
+        "KlikFilm"
       ],
-      "provider": "KlikFilm, Viu"
+      "provider": "KlikFilm"
     },
     {
       "source": "Indonesian Horror",
@@ -88,22 +100,6 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Warung Pocong",
-      "url": "https://www.justwatch.com/id/movie/warung-pocong",
-      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "KlikFilm",
-        "Viu"
-      ],
-      "provider": "KlikFilm, Viu"
     }
   ],
   "candidate_results": {
@@ -1446,6 +1442,21 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-30T09:09:52.580536+00:00"
+    },
+    "https://www.justwatch.com/id/movie/ashley-bones-the-bimbo-cannibal": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-30T20:41:16.802955+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-third": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-30T20:41:16.802955+00:00"
+    },
+    "https://www.justwatch.com/id/movie/verena": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-30T20:41:16.802955+00:00"
     }
   }
 }
