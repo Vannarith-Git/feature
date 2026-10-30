@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-29T23:23:23.536937+00:00",
+  "generated_at": "2026-10-30T02:48:24.617112+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -1412,6 +1412,26 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-29T23:23:23.536937+00:00"
+    },
+    "https://www.justwatch.com/id/movie/satans-slaves": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-30T02:48:24.617112+00:00"
+    },
+    "https://www.justwatch.com/id/movie/baththa": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-30T02:48:24.617112+00:00"
+    },
+    "https://www.justwatch.com/id/movie/teenage-mutant-ninja-turtles": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-30T02:48:24.617112+00:00"
+    },
+    "https://www.justwatch.com/id/movie/teenage-mutant-ninja-turtles-out-of-the-shadows": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-30T02:48:24.617112+00:00"
     }
   }
 }
