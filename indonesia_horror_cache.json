@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-31T11:17:09.527839+00:00",
+  "generated_at": "2026-10-31T16:12:27.706896+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -22,11 +22,9 @@
       "category": "Horror",
       "country": "Indonesia",
       "providers": [
-        "Netflix",
-        "Prime Video",
-        "Viu"
+        "Netflix"
       ],
-      "provider": "Netflix, Prime Video, Viu"
+      "provider": "Netflix"
     },
     {
       "source": "Indonesian Horror",
@@ -39,9 +37,10 @@
       "category": "Comedy, Fantasy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -54,9 +53,10 @@
       "category": "Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -69,9 +69,10 @@
       "category": "Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -99,42 +100,13 @@
       "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     }
   ],
   "candidate_results": {
-    "https://www.justwatch.com/id/movie/the-possession-of-hannah-grace": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/american-psycho": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/28-years-later": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/sengkolo-petaka-satu-suro-2026": {
-      "match": true,
-      "item": {
-        "source": "Indonesian Horror",
-        "source_type": "movie",
-        "title": "Sengkolo: Petaka Satu Suro",
-        "url": "https://www.justwatch.com/id/movie/sengkolo-petaka-satu-suro-2026",
-        "poster_url": "https://images.justwatch.com/poster/340349668/s332/sengkolo-petaka-satu-suro-2026.jpg",
-        "year": "2026",
-        "quality": "HD",
-        "category": "Horror",
-        "country": "Indonesia"
-      },
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
     "https://www.justwatch.com/id/movie/idle-hands": {
       "match": false,
       "item": null,
@@ -1519,6 +1491,31 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-31T11:17:09.527839+00:00"
+    },
+    "https://www.justwatch.com/id/movie/species-the-awakening": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T16:12:27.706896+00:00"
+    },
+    "https://www.justwatch.com/id/movie/species-iii": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T16:12:27.706896+00:00"
+    },
+    "https://www.justwatch.com/id/movie/species": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T16:12:27.706896+00:00"
+    },
+    "https://www.justwatch.com/id/movie/species-ii": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T16:12:27.706896+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-wolf-of-snow-hollow": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T16:12:27.706896+00:00"
     }
   }
 }
