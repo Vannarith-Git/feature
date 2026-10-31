@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-30T20:41:16.802955+00:00",
+  "generated_at": "2026-10-31T00:09:53.107898+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -14,6 +14,21 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
+      "title": "Bloodstained Painting",
+      "url": "https://www.justwatch.com/id/movie/lukisan-berlumur-darah",
+      "poster_url": "https://images.justwatch.com/poster/320551390/s332/lukisan-berlumur-darah.jpg",
+      "year": "1988",
+      "quality": "HD",
+      "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Netflix"
+      ],
+      "provider": "Netflix"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
       "title": "Ghosthing",
       "url": "https://www.justwatch.com/id/movie/ghosthing",
       "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
@@ -22,9 +37,10 @@
       "category": "Comedy, Fantasy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -52,9 +68,10 @@
       "category": "Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -67,9 +84,10 @@
       "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -82,9 +100,10 @@
       "category": "Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -100,6 +119,22 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Warung Pocong",
+      "url": "https://www.justwatch.com/id/movie/warung-pocong",
+      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm",
+        "Viu"
+      ],
+      "provider": "KlikFilm, Viu"
     }
   ],
   "candidate_results": {
@@ -1457,6 +1492,31 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-30T20:41:16.802955+00:00"
+    },
+    "https://www.justwatch.com/id/movie/lukisan-berlumur-darah": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Bloodstained Painting",
+        "url": "https://www.justwatch.com/id/movie/lukisan-berlumur-darah",
+        "poster_url": "https://images.justwatch.com/poster/320551390/s332/lukisan-berlumur-darah.jpg",
+        "year": "1988",
+        "quality": "HD",
+        "category": "Horror",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-10-31T00:09:53.107898+00:00"
+    },
+    "https://www.justwatch.com/id/movie/bring-her-back": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T00:09:53.107898+00:00"
+    },
+    "https://www.justwatch.com/id/movie/i-know-what-you-did-last-summer-2025": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T00:09:53.107898+00:00"
     }
   }
 }
