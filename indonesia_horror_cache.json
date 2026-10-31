@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-31T16:12:27.706896+00:00",
+  "generated_at": "2026-10-31T23:20:11.433101+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -107,46 +107,6 @@
     }
   ],
   "candidate_results": {
-    "https://www.justwatch.com/id/movie/idle-hands": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/a-quiet-place-day-one": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/cuckoo": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/scream-2022": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/smile-2022": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/scream-6": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/dressed-to-kill": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/invaders-from-mars": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
     "https://www.justwatch.com/id/movie/poltergeist-ii-the-other-side": {
       "match": false,
       "item": null,
@@ -1516,6 +1476,46 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-31T16:12:27.706896+00:00"
+    },
+    "https://www.justwatch.com/id/movie/final-destination-bloodlines": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T23:20:11.433101+00:00"
+    },
+    "https://www.justwatch.com/id/movie/quarantine": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T23:20:11.433101+00:00"
+    },
+    "https://www.justwatch.com/id/movie/anaconda": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T23:20:11.433101+00:00"
+    },
+    "https://www.justwatch.com/id/movie/anacondas-the-hunt-for-the-blood-orchid": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T23:20:11.433101+00:00"
+    },
+    "https://www.justwatch.com/id/movie/hostel-part-ii": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T23:20:11.433101+00:00"
+    },
+    "https://www.justwatch.com/id/movie/hostel-part-iii": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T23:20:11.433101+00:00"
+    },
+    "https://www.justwatch.com/id/movie/slender-man": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T23:20:11.433101+00:00"
+    },
+    "https://www.justwatch.com/id/movie/meet-the-blacks": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T23:20:11.433101+00:00"
     }
   }
 }
