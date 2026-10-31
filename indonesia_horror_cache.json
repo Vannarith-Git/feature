@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-10-31T05:46:14.221286+00:00",
+  "generated_at": "2026-10-31T11:17:09.527839+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -22,9 +22,11 @@
       "category": "Horror",
       "country": "Indonesia",
       "providers": [
-        "Netflix"
+        "Netflix",
+        "Prime Video",
+        "Viu"
       ],
-      "provider": "Netflix"
+      "provider": "Netflix, Prime Video, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -37,25 +39,9 @@
       "category": "Comedy, Fantasy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm",
-        "Viu"
+        "KlikFilm"
       ],
-      "provider": "KlikFilm, Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Ku Tak Percaya Kamu Mati",
-      "url": "https://www.justwatch.com/id/movie/ku-tak-percaya-kamu-mati",
-      "poster_url": "https://images.justwatch.com/poster/320272782/s332/ku-tak-percaya-kamu-mati.jpg",
-      "year": "2019",
-      "quality": "HD",
-      "category": "Drama, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Catchplay"
-      ],
-      "provider": "Catchplay"
+      "provider": "KlikFilm"
     },
     {
       "source": "Indonesian Horror",
@@ -68,10 +54,24 @@
       "category": "Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm",
-        "Viu"
+        "KlikFilm"
       ],
-      "provider": "KlikFilm, Viu"
+      "provider": "KlikFilm"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Sumpah Darah",
+      "url": "https://www.justwatch.com/id/movie/sumpah-darah",
+      "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm"
+      ],
+      "provider": "KlikFilm"
     },
     {
       "source": "Indonesian Horror",
@@ -99,10 +99,9 @@
       "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm",
-        "Viu"
+        "KlikFilm"
       ],
-      "provider": "KlikFilm, Viu"
+      "provider": "KlikFilm"
     }
   ],
   "candidate_results": {
@@ -1485,6 +1484,41 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-31T00:09:53.107898+00:00"
+    },
+    "https://www.justwatch.com/id/movie/vanilla-sky": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T11:17:09.527839+00:00"
+    },
+    "https://www.justwatch.com/id/movie/oh-yaara-ainvayi-ainvayi-lut-gaya": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T11:17:09.527839+00:00"
+    },
+    "https://www.justwatch.com/id/movie/collision-course-2026": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T11:17:09.527839+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-birthday-gift": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T11:17:09.527839+00:00"
+    },
+    "https://www.justwatch.com/id/movie/count-draculas-great-love": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T11:17:09.527839+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-strawberries": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T11:17:09.527839+00:00"
+    },
+    "https://www.justwatch.com/id/movie/runaway-jury": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-10-31T11:17:09.527839+00:00"
     }
   }
 }
