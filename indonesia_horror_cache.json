@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-01T16:22:57.719784+00:00",
+  "generated_at": "2026-11-01T20:42:39.287688+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -25,6 +25,21 @@
         "Netflix"
       ],
       "provider": "Netflix"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Dosa: Penebusan atau Pengampunan",
+      "url": "https://www.justwatch.com/id/movie/dosa-penebusan-atau-pengampunan",
+      "poster_url": "https://images.justwatch.com/poster/345524325/s332/dosa-penebusan-atau-pengampunan.jpg",
+      "year": "2026",
+      "quality": "HD",
+      "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Catchplay"
+      ],
+      "provider": "Catchplay"
     },
     {
       "source": "Indonesian Horror",
@@ -88,35 +103,9 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Warung Pocong",
-      "url": "https://www.justwatch.com/id/movie/warung-pocong",
-      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "KlikFilm",
-        "Viu"
-      ],
-      "provider": "KlikFilm, Viu"
     }
   ],
   "candidate_results": {
-    "https://www.justwatch.com/id/movie/poltergeist-ii-the-other-side": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/carrie-2002": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
     "https://www.justwatch.com/id/movie/teen-wolf-the-movie": {
       "match": false,
       "item": null,
@@ -1516,6 +1505,26 @@
       "match": false,
       "item": null,
       "checked_at": "2026-10-31T23:20:11.433101+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-rite": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-01T20:42:39.287688+00:00"
+    },
+    "https://www.justwatch.com/id/movie/dosa-penebusan-atau-pengampunan": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Dosa: Penebusan atau Pengampunan",
+        "url": "https://www.justwatch.com/id/movie/dosa-penebusan-atau-pengampunan",
+        "poster_url": "https://images.justwatch.com/poster/345524325/s332/dosa-penebusan-atau-pengampunan.jpg",
+        "year": "2026",
+        "quality": "HD",
+        "category": "Horror",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-11-01T20:42:39.287688+00:00"
     }
   }
 }
