@@ -1,12 +1,42 @@
 {
   "source": "Anime",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?channel=4&sort=4&type=1425950065128833%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B",
-  "generated_at": "2026-10-29T06:26:49.392499+00:00",
+  "generated_at": "2026-11-02T13:54:52.517083+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "恐龙大营救",
+      "url": "https://www.iq.com/play/1h6m4acdkqx?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic3.iqiyipic.com/image/20261012/86/cc/a_101655603_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "方块伙伴奇妙旅程",
+      "url": "https://www.iq.com/play/1hsqld0gwud?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic9.iqiyipic.com/image/20261012/e2/1d/a_101655067_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Anime",
       "source_type": "series",
@@ -276,39 +306,45 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "方块世界：时钟人大冒险",
-      "url": "https://www.iq.com/play/1paxj2inojl?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic9.iqiyipic.com/image/20260927/51/92/a_101567443_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "我的世界：沙域争锋",
-      "url": "https://www.iq.com/play/1dblf5hl9qd?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic1.iqiyipic.com/image/20260928/fd/0b/a_101571767_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/1h6m4acdkqx?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "恐龙大营救",
+        "url": "https://www.iq.com/play/1h6m4acdkqx?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic3.iqiyipic.com/image/20261012/86/cc/a_101655603_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
+    "https://www.iq.com/play/1hsqld0gwud?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "方块伙伴奇妙旅程",
+        "url": "https://www.iq.com/play/1hsqld0gwud?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic9.iqiyipic.com/image/20261012/e2/1d/a_101655067_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/24jks2rzn01?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -623,42 +659,6 @@
         "title": "我的世界：海岛冒险",
         "url": "https://www.iq.com/play/ljwliqr089?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic6.iqiyipic.com/image/20260917/1c/41/a_101504227_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/1paxj2inojl?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "方块世界：时钟人大冒险",
-        "url": "https://www.iq.com/play/1paxj2inojl?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic9.iqiyipic.com/image/20260927/51/92/a_101567443_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/1dblf5hl9qd?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "我的世界：沙域争锋",
-        "url": "https://www.iq.com/play/1dblf5hl9qd?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic1.iqiyipic.com/image/20260928/fd/0b/a_101571767_m_601_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Anime · iQIYI",
