@@ -2,8 +2,35 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-02T05:46:25.205676+00:00",
+  "generated_at": "2026-11-02T22:38:24.860382+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "My Best Friend, His Girlfriend and Me",
+      "url": "https://hollymoviehd.cc/my-best-friend-his-girlfriend-and-me-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Beware Boiúna",
+      "url": "https://hollymoviehd.cc/beware-boiuna-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Resident Evil",
+      "url": "https://hollymoviehd.cc/resident-evil-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -244,33 +271,6 @@
       "title": "By Any Means",
       "url": "https://hollymoviehd.cc/by-any-means-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Street Fighter",
-      "url": "https://hollymoviehd.cc/street-fighter-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
-      "year": "2026",
-      "quality": "HDTS"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Bad Apples",
-      "url": "https://hollymoviehd.cc/bad-apples-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/5nBdSASVFRkujhH98p39myBSEIC.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Super Scam Me",
-      "url": "https://hollymoviehd.cc/super-scam-me-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/y07DF84TR67NVAevJR6JMydIL5H.jpg",
       "year": "2026",
       "quality": "HD"
     }

@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-02T13:54:05.524021+00:00",
+  "generated_at": "2026-11-02T22:38:49.032445+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -44,6 +44,22 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
+      "title": "Gak Masuk Akal",
+      "url": "https://www.justwatch.com/id/movie/gak-masuk-akal",
+      "poster_url": "https://images.justwatch.com/poster/356448073/s332/gak-masuk-akal.jpg",
+      "year": "2027",
+      "quality": null,
+      "category": "Comedy, Drama, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm",
+        "Viu"
+      ],
+      "provider": "KlikFilm, Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
       "title": "Ghosthing",
       "url": "https://www.justwatch.com/id/movie/ghosthing",
       "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
@@ -52,9 +68,10 @@
       "category": "Comedy, Fantasy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -67,24 +84,10 @@
       "category": "Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Suddenly Satan",
-      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
-      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "KlikFilm"
-      ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -97,9 +100,10 @@
       "category": "Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -127,9 +131,10 @@
       "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     }
   ],
   "candidate_results": {
@@ -141,21 +146,6 @@
     "https://www.justwatch.com/id/movie/wolf-creek-3": {
       "match": false,
       "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026": {
-      "match": true,
-      "item": {
-        "source": "Indonesian Horror",
-        "source_type": "movie",
-        "title": "Suddenly Satan",
-        "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
-        "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
-        "year": "2026",
-        "quality": null,
-        "category": "Comedy, Horror",
-        "country": "Indonesia"
-      },
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
     },
     "https://www.justwatch.com/id/movie/ghost-board": {
@@ -1542,6 +1532,21 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-02T13:54:05.524021+00:00"
+    },
+    "https://www.justwatch.com/id/movie/gak-masuk-akal": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Gak Masuk Akal",
+        "url": "https://www.justwatch.com/id/movie/gak-masuk-akal",
+        "poster_url": "https://images.justwatch.com/poster/356448073/s332/gak-masuk-akal.jpg",
+        "year": "2027",
+        "quality": null,
+        "category": "Comedy, Drama, Horror",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-11-02T22:38:49.032445+00:00"
     }
   }
 }
