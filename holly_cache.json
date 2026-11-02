@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-10-31T23:19:48.862354+00:00",
+  "generated_at": "2026-11-02T05:46:25.205676+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Who’s Coming for Christmas?",
+      "url": "https://hollymoviehd.cc/whos-coming-for-christmas-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/1KIkID5p5smDoR07BjI7mgaV2QQ.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -262,15 +271,6 @@
       "title": "Super Scam Me",
       "url": "https://hollymoviehd.cc/super-scam-me-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/y07DF84TR67NVAevJR6JMydIL5H.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Dutdot",
-      "url": "https://hollymoviehd.cc/dutdot-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/82lWo1MHYGG0mSyBvpBRQCop70n.jpg",
       "year": "2026",
       "quality": "HD"
     }
