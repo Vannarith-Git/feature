@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-02T22:38:49.032445+00:00",
+  "generated_at": "2026-11-03T03:43:41.476339+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -52,10 +52,9 @@
       "category": "Comedy, Drama, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm",
-        "Viu"
+        "KlikFilm"
       ],
-      "provider": "KlikFilm, Viu"
+      "provider": "KlikFilm"
     },
     {
       "source": "Indonesian Horror",
@@ -68,10 +67,25 @@
       "category": "Comedy, Fantasy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm",
+        "KlikFilm"
+      ],
+      "provider": "KlikFilm"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Rest In Pink",
+      "url": "https://www.justwatch.com/id/movie/rest-in-pink",
+      "poster_url": "https://images.justwatch.com/poster/355689729/s332/rest-in-pink.jpg",
+      "year": "2025",
+      "quality": "HD",
+      "category": "Comedy, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "Prime Video",
         "Viu"
       ],
-      "provider": "KlikFilm, Viu"
+      "provider": "Prime Video, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -84,10 +98,9 @@
       "category": "Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm",
-        "Viu"
+        "KlikFilm"
       ],
-      "provider": "KlikFilm, Viu"
+      "provider": "KlikFilm"
     },
     {
       "source": "Indonesian Horror",
@@ -100,10 +113,9 @@
       "category": "Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm",
-        "Viu"
+        "KlikFilm"
       ],
-      "provider": "KlikFilm, Viu"
+      "provider": "KlikFilm"
     },
     {
       "source": "Indonesian Horror",
@@ -131,10 +143,9 @@
       "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm",
-        "Viu"
+        "KlikFilm"
       ],
-      "provider": "KlikFilm, Viu"
+      "provider": "KlikFilm"
     }
   ],
   "candidate_results": {
@@ -144,11 +155,6 @@
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
     },
     "https://www.justwatch.com/id/movie/wolf-creek-3": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/ghost-board": {
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
@@ -168,17 +174,7 @@
       },
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
     },
-    "https://www.justwatch.com/id/movie/kuasa-gelap-perjanjian-darah": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
     "https://www.justwatch.com/id/movie/bolong-309-hari-sebelum-tragedi-berdarah": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-four-gates-of-death": {
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
@@ -198,11 +194,6 @@
       },
       "checked_at": "2026-09-27T09:57:33.013986+00:00"
     },
-    "https://www.justwatch.com/id/movie/perfect-soul": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T09:57:33.013986+00:00"
-    },
     "https://www.justwatch.com/id/movie/songko": {
       "match": true,
       "item": {
@@ -218,25 +209,10 @@
       },
       "checked_at": "2026-09-27T09:57:33.013986+00:00"
     },
-    "https://www.justwatch.com/id/movie/ghost-in-the-cell-2026": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T09:57:33.013986+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-dark-half": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T15:06:15.423343+00:00"
-    },
     "https://www.justwatch.com/id/movie/bisikan-desa-gringsing": {
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T15:06:15.423343+00:00"
-    },
-    "https://www.justwatch.com/id/movie/granny": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T18:59:02.116883+00:00"
     },
     "https://www.justwatch.com/id/movie/the-mummy-2017": {
       "match": false,
@@ -1547,6 +1523,51 @@
         "country": "Indonesia"
       },
       "checked_at": "2026-11-02T22:38:49.032445+00:00"
+    },
+    "https://www.justwatch.com/id/movie/our-hero-balthazar": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-03T03:43:41.476339+00:00"
+    },
+    "https://www.justwatch.com/id/movie/checkered-ninja-3": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-03T03:43:41.476339+00:00"
+    },
+    "https://www.justwatch.com/id/movie/apocalypse-mart": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-03T03:43:41.476339+00:00"
+    },
+    "https://www.justwatch.com/id/movie/rest-in-pink": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Rest In Pink",
+        "url": "https://www.justwatch.com/id/movie/rest-in-pink",
+        "poster_url": "https://images.justwatch.com/poster/355689729/s332/rest-in-pink.jpg",
+        "year": "2025",
+        "quality": "HD",
+        "category": "Comedy, Mystery & Thriller",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-11-03T03:43:41.476339+00:00"
+    },
+    "https://www.justwatch.com/id/movie/afternoons-feel-like-goodbyes": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-03T03:43:41.476339+00:00"
+    },
+    "https://www.justwatch.com/id/movie/leleng": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-03T03:43:41.476339+00:00"
+    },
+    "https://www.justwatch.com/id/movie/minha-melhor-amiga": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-03T03:43:41.476339+00:00"
     }
   }
 }
