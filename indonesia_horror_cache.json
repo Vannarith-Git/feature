@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-03T11:24:52.281532+00:00",
+  "generated_at": "2026-11-03T18:37:49.638091+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -52,9 +52,10 @@
       "category": "Comedy, Drama, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -67,40 +68,26 @@
       "category": "Comedy, Fantasy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
-      ],
-      "provider": "KlikFilm"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Rest In Pink",
-      "url": "https://www.justwatch.com/id/movie/rest-in-pink",
-      "poster_url": "https://images.justwatch.com/poster/355689729/s332/rest-in-pink.jpg",
-      "year": "2025",
-      "quality": "HD",
-      "category": "Comedy, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "Prime Video",
+        "KlikFilm",
         "Viu"
       ],
-      "provider": "Prime Video, Viu"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Sumpah Darah",
-      "url": "https://www.justwatch.com/id/movie/sumpah-darah",
-      "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
+      "title": "Songko",
+      "url": "https://www.justwatch.com/id/movie/songko",
+      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
       "year": "2026",
       "quality": null,
-      "category": "Horror",
+      "category": "Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -128,9 +115,10 @@
       "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "KlikFilm",
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "KlikFilm, Viu"
     }
   ],
   "candidate_results": {
@@ -183,11 +171,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T15:06:15.423343+00:00"
-    },
-    "https://www.justwatch.com/id/movie/mononoke-the-movie-chapter-iii-the-curse-of-the-serpent": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-29T22:29:35.915367+00:00"
     },
     "https://www.justwatch.com/id/movie/the-third-blade": {
       "match": false,
@@ -1543,6 +1526,21 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-03T11:24:52.281532+00:00"
+    },
+    "https://www.justwatch.com/id/movie/songko": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Songko",
+        "url": "https://www.justwatch.com/id/movie/songko",
+        "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
+        "year": "2026",
+        "quality": null,
+        "category": "Horror, Mystery & Thriller",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-11-03T18:37:49.638091+00:00"
     }
   }
 }
