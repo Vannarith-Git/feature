@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-03T18:37:49.638091+00:00",
+  "generated_at": "2026-11-03T23:42:23.738210+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -52,10 +52,9 @@
       "category": "Comedy, Drama, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm",
-        "Viu"
+        "KlikFilm"
       ],
-      "provider": "KlikFilm, Viu"
+      "provider": "KlikFilm"
     },
     {
       "source": "Indonesian Horror",
@@ -68,10 +67,9 @@
       "category": "Comedy, Fantasy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm",
-        "Viu"
+        "KlikFilm"
       ],
-      "provider": "KlikFilm, Viu"
+      "provider": "KlikFilm"
     },
     {
       "source": "Indonesian Horror",
@@ -84,10 +82,24 @@
       "category": "Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm",
-        "Viu"
+        "KlikFilm"
       ],
-      "provider": "KlikFilm, Viu"
+      "provider": "KlikFilm"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Sumpah Darah",
+      "url": "https://www.justwatch.com/id/movie/sumpah-darah",
+      "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm"
+      ],
+      "provider": "KlikFilm"
     },
     {
       "source": "Indonesian Horror",
@@ -115,10 +127,9 @@
       "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm",
-        "Viu"
+        "KlikFilm"
       ],
-      "provider": "KlikFilm, Viu"
+      "provider": "KlikFilm"
     }
   ],
   "candidate_results": {
@@ -171,31 +182,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T15:06:15.423343+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-third-blade": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-30T01:30:19.854393+00:00"
-    },
-    "https://www.justwatch.com/id/movie/v-c-r-01": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-30T01:30:19.854393+00:00"
-    },
-    "https://www.justwatch.com/id/movie/anaconda-blood-coil": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-30T07:21:49.159006+00:00"
-    },
-    "https://www.justwatch.com/id/movie/us": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-30T19:15:01.022896+00:00"
-    },
-    "https://www.justwatch.com/id/movie/killer-klowns-from-outer-space": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-30T19:15:01.022896+00:00"
     },
     "https://www.justwatch.com/id/movie/the-poughkeepsie-tapes": {
       "match": false,
@@ -1541,6 +1527,31 @@
         "country": "Indonesia"
       },
       "checked_at": "2026-11-03T18:37:49.638091+00:00"
+    },
+    "https://www.justwatch.com/id/movie/eat-eat-eat": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-03T23:42:23.738210+00:00"
+    },
+    "https://www.justwatch.com/id/movie/ting-ting-dance-with-breathes-hope": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-03T23:42:23.738210+00:00"
+    },
+    "https://www.justwatch.com/id/movie/happy-meals": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-03T23:42:23.738210+00:00"
+    },
+    "https://www.justwatch.com/id/movie/18-holes-to-paradise": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-03T23:42:23.738210+00:00"
+    },
+    "https://www.justwatch.com/id/movie/autosave": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-03T23:42:23.738210+00:00"
     }
   }
 }
