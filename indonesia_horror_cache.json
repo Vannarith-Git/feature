@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-03T03:43:41.476339+00:00",
+  "generated_at": "2026-11-03T11:24:52.281532+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -86,21 +86,6 @@
         "Viu"
       ],
       "provider": "Prime Video, Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Songko",
-      "url": "https://www.justwatch.com/id/movie/songko",
-      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Horror, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "KlikFilm"
-      ],
-      "provider": "KlikFilm"
     },
     {
       "source": "Indonesian Horror",
@@ -194,55 +179,10 @@
       },
       "checked_at": "2026-09-27T09:57:33.013986+00:00"
     },
-    "https://www.justwatch.com/id/movie/songko": {
-      "match": true,
-      "item": {
-        "source": "Indonesian Horror",
-        "source_type": "movie",
-        "title": "Songko",
-        "url": "https://www.justwatch.com/id/movie/songko",
-        "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
-        "year": "2026",
-        "quality": null,
-        "category": "Horror, Mystery & Thriller",
-        "country": "Indonesia"
-      },
-      "checked_at": "2026-09-27T09:57:33.013986+00:00"
-    },
     "https://www.justwatch.com/id/movie/bisikan-desa-gringsing": {
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T15:06:15.423343+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-mummy-2017": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-28T05:55:32.569324+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-mummy-tomb-of-the-dragon-emperor": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-28T05:55:32.569324+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-sanguine": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-28T05:55:32.569324+00:00"
-    },
-    "https://www.justwatch.com/id/movie/phi-phong-the-blood-demon": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-29T12:46:35.356993+00:00"
-    },
-    "https://www.justwatch.com/id/movie/maxxxine": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-29T18:20:48.658258+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-hunt": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-29T22:29:35.915367+00:00"
     },
     "https://www.justwatch.com/id/movie/mononoke-the-movie-chapter-iii-the-curse-of-the-serpent": {
       "match": false,
@@ -1568,6 +1508,41 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-03T03:43:41.476339+00:00"
+    },
+    "https://www.justwatch.com/id/movie/spider-man-homecoming": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-03T11:24:52.281532+00:00"
+    },
+    "https://www.justwatch.com/id/movie/rush-hour": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-03T11:24:52.281532+00:00"
+    },
+    "https://www.justwatch.com/id/movie/spider-man-far-from-home": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-03T11:24:52.281532+00:00"
+    },
+    "https://www.justwatch.com/id/movie/rush-hour-2": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-03T11:24:52.281532+00:00"
+    },
+    "https://www.justwatch.com/id/movie/rush-hour-3": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-03T11:24:52.281532+00:00"
+    },
+    "https://www.justwatch.com/id/movie/kuasa-gelap-perjanjian-darah": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-03T11:24:52.281532+00:00"
+    },
+    "https://www.justwatch.com/id/movie/ghost-board": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-03T11:24:52.281532+00:00"
     }
   }
 }

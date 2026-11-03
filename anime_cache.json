@@ -1,12 +1,27 @@
 {
   "source": "Anime",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?channel=4&sort=4&type=1425950065128833%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B",
-  "generated_at": "2026-11-03T03:44:26.267434+00:00",
+  "generated_at": "2026-11-03T11:25:42.549229+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "植物大战僵尸：冰雪节日保卫战",
+      "url": "https://www.iq.com/play/24carad4exx?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic9.iqiyipic.com/image/20261017/7d/d9/a_101676277_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Anime",
       "source_type": "series",
@@ -291,24 +306,27 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "植物大战僵尸：僵王趣味对决",
-      "url": "https://www.iq.com/play/2faha89q6f5?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic8.iqiyipic.com/image/20260928/27/34/a_101572723_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/24carad4exx?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "植物大战僵尸：冰雪节日保卫战",
+        "url": "https://www.iq.com/play/24carad4exx?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic9.iqiyipic.com/image/20261017/7d/d9/a_101676277_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/1xee4q4letd?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -641,24 +659,6 @@
         "title": "猎魔女团沙滩大作战",
         "url": "https://www.iq.com/play/z6f84suqlt?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic8.iqiyipic.com/image/20260730/c4/9e/a_101293666_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/2faha89q6f5?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "植物大战僵尸：僵王趣味对决",
-        "url": "https://www.iq.com/play/2faha89q6f5?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic8.iqiyipic.com/image/20260928/27/34/a_101572723_m_601_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Anime · iQIYI",
