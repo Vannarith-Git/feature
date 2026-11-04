@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-04T03:22:16.245487+00:00",
+  "generated_at": "2026-11-04T11:23:39.425866+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -52,9 +52,9 @@
       "category": "Comedy, Drama, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -67,24 +67,24 @@
       "category": "Comedy, Fantasy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "Viu"
     },
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Songko",
-      "url": "https://www.justwatch.com/id/movie/songko",
-      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
+      "title": "Sumpah Darah",
+      "url": "https://www.justwatch.com/id/movie/sumpah-darah",
+      "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
       "year": "2026",
       "quality": null,
-      "category": "Horror, Mystery & Thriller",
+      "category": "Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -112,9 +112,9 @@
       "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "Viu"
     }
   ],
   "candidate_results": {
@@ -167,26 +167,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T15:06:15.423343+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-amityville-horror-1979": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-30T19:15:01.022896+00:00"
-    },
-    "https://www.justwatch.com/id/movie/livestream-from-hell": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-30T23:05:56.516690+00:00"
-    },
-    "https://www.justwatch.com/id/movie/beneath-the-storm": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-01T08:58:20.083317+00:00"
-    },
-    "https://www.justwatch.com/id/movie/iron-lung": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-01T08:58:20.083317+00:00"
     },
     "https://www.justwatch.com/id/movie/the-last-house-2026": {
       "match": false,
@@ -1537,6 +1517,26 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-04T03:22:16.245487+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-meg": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-04T11:23:39.425866+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-strangers-chapter-3": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-04T11:23:39.425866+00:00"
+    },
+    "https://www.justwatch.com/id/movie/hapus": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-04T11:23:39.425866+00:00"
+    },
+    "https://www.justwatch.com/id/movie/v-c-r-01": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-04T11:23:39.425866+00:00"
     }
   }
 }

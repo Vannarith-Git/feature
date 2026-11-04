@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-03T23:41:48.247713+00:00",
+  "generated_at": "2026-11-04T11:22:58.031393+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "A Dog’s Perfect Christmas",
+      "url": "https://hollymoviehd.cc/a-dogs-perfect-christmas-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/TSsdfaD0gGlVqBuy2xYxr3RTaL.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -262,15 +271,6 @@
       "title": "Paralyzed by Hope: The Maria Bamford Story",
       "url": "https://hollymoviehd.cc/paralyzed-by-hope-the-maria-bamford-story-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/waH2eiMaEW987JUTWyrj4x4d63k.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "The Cycle",
-      "url": "https://hollymoviehd.cc/the-cycle-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
       "year": "2026",
       "quality": "HD"
     }
