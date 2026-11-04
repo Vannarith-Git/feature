@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-03T23:42:23.738210+00:00",
+  "generated_at": "2026-11-04T03:22:16.245487+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -89,21 +89,6 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Sumpah Darah",
-      "url": "https://www.justwatch.com/id/movie/sumpah-darah",
-      "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Horror",
-      "country": "Indonesia",
-      "providers": [
-        "KlikFilm"
-      ],
-      "provider": "KlikFilm"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
       "title": "Tuyul: Part 1",
       "url": "https://www.justwatch.com/id/movie/tuyul-part-1",
       "poster_url": "https://images.justwatch.com/poster/142176825/s332/tuyul-part-1.jpg",
@@ -182,21 +167,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T15:06:15.423343+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-poughkeepsie-tapes": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-30T19:15:01.022896+00:00"
-    },
-    "https://www.justwatch.com/id/movie/childs-play-1988": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-30T19:15:01.022896+00:00"
-    },
-    "https://www.justwatch.com/id/movie/lifeforce": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-30T19:15:01.022896+00:00"
     },
     "https://www.justwatch.com/id/movie/the-amityville-horror-1979": {
       "match": false,
@@ -1552,6 +1522,21 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-03T23:42:23.738210+00:00"
+    },
+    "https://www.justwatch.com/id/movie/habit-1997": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-04T03:22:16.245487+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-sanguine": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-04T03:22:16.245487+00:00"
+    },
+    "https://www.justwatch.com/id/movie/granny": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-04T03:22:16.245487+00:00"
     }
   }
 }
