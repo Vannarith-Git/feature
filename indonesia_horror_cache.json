@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-04T11:23:39.425866+00:00",
+  "generated_at": "2026-11-04T18:46:28.506682+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -74,6 +74,21 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
+      "title": "Suddenly Satan",
+      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
+      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
+      "year": "2026",
+      "quality": "4K",
+      "category": "Comedy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
       "title": "Sumpah Darah",
       "url": "https://www.justwatch.com/id/movie/sumpah-darah",
       "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
@@ -100,21 +115,6 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Warung Pocong",
-      "url": "https://www.justwatch.com/id/movie/warung-pocong",
-      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
     }
   ],
   "candidate_results": {
@@ -126,21 +126,6 @@
     "https://www.justwatch.com/id/movie/wolf-creek-3": {
       "match": false,
       "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/warung-pocong": {
-      "match": true,
-      "item": {
-        "source": "Indonesian Horror",
-        "source_type": "movie",
-        "title": "Warung Pocong",
-        "url": "https://www.justwatch.com/id/movie/warung-pocong",
-        "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
-        "year": "2026",
-        "quality": null,
-        "category": "Comedy, Horror",
-        "country": "Indonesia"
-      },
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
     },
     "https://www.justwatch.com/id/movie/bolong-309-hari-sebelum-tragedi-berdarah": {
@@ -1537,6 +1522,21 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-04T11:23:39.425866+00:00"
+    },
+    "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Suddenly Satan",
+        "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
+        "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
+        "year": "2026",
+        "quality": "4K",
+        "category": "Comedy, Horror",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-11-04T18:46:28.506682+00:00"
     }
   }
 }
