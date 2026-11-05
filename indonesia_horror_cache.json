@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-04T18:46:28.506682+00:00",
+  "generated_at": "2026-11-05T06:29:55.005716+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -59,47 +59,32 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Ghosthing",
-      "url": "https://www.justwatch.com/id/movie/ghosthing",
-      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
+      "title": "Haunting of Mount Welirang",
+      "url": "https://www.justwatch.com/id/movie/haunting-of-mount-welirang",
+      "poster_url": "https://images.justwatch.com/poster/346926886/s332/haunting-of-mount-welirang.jpg",
       "year": "2026",
-      "quality": null,
-      "category": "Comedy, Fantasy, Horror",
+      "quality": "HD",
+      "category": "Action & Adventure, Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
-        "Viu"
+        "Netflix"
       ],
-      "provider": "Viu"
+      "provider": "Netflix"
     },
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Suddenly Satan",
-      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
-      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
-      "year": "2026",
+      "title": "The Damnation",
+      "url": "https://www.justwatch.com/id/movie/the-damnation-2025",
+      "poster_url": "https://images.justwatch.com/poster/321977713/s332/the-damnation-2025.jpg",
+      "year": "2025",
       "quality": "4K",
-      "category": "Comedy, Horror",
+      "category": "Action & Adventure, Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
-        "Viu"
+        "Netflix"
       ],
-      "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Sumpah Darah",
-      "url": "https://www.justwatch.com/id/movie/sumpah-darah",
-      "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
+      "provider": "Netflix"
     },
     {
       "source": "Indonesian Horror",
@@ -127,41 +112,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/bolong-309-hari-sebelum-tragedi-berdarah": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/ghosthing": {
-      "match": true,
-      "item": {
-        "source": "Indonesian Horror",
-        "source_type": "movie",
-        "title": "Ghosthing",
-        "url": "https://www.justwatch.com/id/movie/ghosthing",
-        "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
-        "year": "2026",
-        "quality": null,
-        "category": "Comedy, Fantasy, Horror",
-        "country": "Indonesia"
-      },
-      "checked_at": "2026-09-27T09:57:33.013986+00:00"
-    },
-    "https://www.justwatch.com/id/movie/bisikan-desa-gringsing": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T15:06:15.423343+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-last-house-2026": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-01T08:58:20.083317+00:00"
-    },
-    "https://www.justwatch.com/id/movie/ed-gein-the-house-of-horrors": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-01T08:58:20.083317+00:00"
     },
     "https://www.justwatch.com/id/movie/kraken-2025": {
       "match": false,
@@ -1537,6 +1487,51 @@
         "country": "Indonesia"
       },
       "checked_at": "2026-11-04T18:46:28.506682+00:00"
+    },
+    "https://www.justwatch.com/id/movie/haunting-of-mount-welirang": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Haunting of Mount Welirang",
+        "url": "https://www.justwatch.com/id/movie/haunting-of-mount-welirang",
+        "poster_url": "https://images.justwatch.com/poster/346926886/s332/haunting-of-mount-welirang.jpg",
+        "year": "2026",
+        "quality": "HD",
+        "category": "Action & Adventure, Horror, Mystery & Thriller",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-11-05T06:29:55.005716+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-damnation-2025": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "The Damnation",
+        "url": "https://www.justwatch.com/id/movie/the-damnation-2025",
+        "poster_url": "https://images.justwatch.com/poster/321977713/s332/the-damnation-2025.jpg",
+        "year": "2025",
+        "quality": "4K",
+        "category": "Action & Adventure, Horror, Mystery & Thriller",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-11-05T06:29:55.005716+00:00"
+    },
+    "https://www.justwatch.com/id/movie/beneath-the-storm": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-05T06:29:55.005716+00:00"
+    },
+    "https://www.justwatch.com/id/movie/iron-lung": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-05T06:29:55.005716+00:00"
+    },
+    "https://www.justwatch.com/id/movie/perfect-soul": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-05T06:29:55.005716+00:00"
     }
   }
 }
