@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-05T14:56:23.252125+00:00",
+  "generated_at": "2026-11-06T01:46:02.629802+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -89,21 +89,6 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Suddenly Satan",
-      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
-      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
-      "year": "2026",
-      "quality": "4K",
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
       "title": "The Damnation",
       "url": "https://www.justwatch.com/id/movie/the-damnation-2025",
       "poster_url": "https://images.justwatch.com/poster/321977713/s332/the-damnation-2025.jpg",
@@ -130,21 +115,6 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Warung Pocong",
-      "url": "https://www.justwatch.com/id/movie/warung-pocong",
-      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
     }
   ],
   "candidate_results": {
@@ -157,21 +127,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/kuntilanak-3": {
-      "match": true,
-      "item": {
-        "source": "Indonesian Horror",
-        "source_type": "movie",
-        "title": "The Chanting 3",
-        "url": "https://www.justwatch.com/id/movie/kuntilanak-3",
-        "poster_url": "https://images.justwatch.com/poster/340868516/s332/kuntilanak-3.jpg",
-        "year": "2008",
-        "quality": "HD",
-        "category": "Fantasy, Horror",
-        "country": "Indonesia"
-      },
-      "checked_at": "2026-10-01T21:09:54.590043+00:00"
     },
     "https://www.justwatch.com/id/movie/haunted-universities-4": {
       "match": false,
@@ -1587,6 +1542,11 @@
         "country": "Indonesia"
       },
       "checked_at": "2026-11-05T14:56:23.252125+00:00"
+    },
+    "https://www.justwatch.com/id/movie/bisikan-desa-gringsing": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-06T01:46:02.629802+00:00"
     }
   }
 }
