@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-06T16:18:59.413856+00:00",
+  "generated_at": "2026-11-06T21:40:41.380710+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -11,21 +11,6 @@
   ],
   "provider_errors": [],
   "items": [
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Bloodstained Painting",
-      "url": "https://www.justwatch.com/id/movie/lukisan-berlumur-darah",
-      "poster_url": "https://images.justwatch.com/poster/320551390/s332/lukisan-berlumur-darah.jpg",
-      "year": "1988",
-      "quality": "HD",
-      "category": "Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Netflix"
-      ],
-      "provider": "Netflix"
-    },
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
@@ -104,6 +89,21 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
+      "title": "Satu Untuk Selamanya",
+      "url": "https://www.justwatch.com/id/movie/satu-untuk-selamanya",
+      "poster_url": "https://images.justwatch.com/poster/321104096/s332/satu-untuk-selamanya.jpg",
+      "year": "2022",
+      "quality": "HD",
+      "category": "Drama, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Netflix"
+      ],
+      "provider": "Netflix"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
       "title": "Suddenly Satan",
       "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
       "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
@@ -172,11 +172,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/five-friends-2-mount-klawih": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-04T01:48:10.201995+00:00"
     },
     "https://www.justwatch.com/id/movie/sinners": {
       "match": false,
@@ -1602,6 +1597,21 @@
         "country": "Indonesia"
       },
       "checked_at": "2026-11-06T16:18:59.413856+00:00"
+    },
+    "https://www.justwatch.com/id/movie/satu-untuk-selamanya": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Satu Untuk Selamanya",
+        "url": "https://www.justwatch.com/id/movie/satu-untuk-selamanya",
+        "poster_url": "https://images.justwatch.com/poster/321104096/s332/satu-untuk-selamanya.jpg",
+        "year": "2022",
+        "quality": "HD",
+        "category": "Drama, Horror",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-11-06T21:40:41.380710+00:00"
     }
   }
 }
