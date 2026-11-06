@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-06T08:35:45.463078+00:00",
+  "generated_at": "2026-11-06T16:18:59.413856+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -11,6 +11,21 @@
   ],
   "provider_errors": [],
   "items": [
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Bloodstained Painting",
+      "url": "https://www.justwatch.com/id/movie/lukisan-berlumur-darah",
+      "poster_url": "https://images.justwatch.com/poster/320551390/s332/lukisan-berlumur-darah.jpg",
+      "year": "1988",
+      "quality": "HD",
+      "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Netflix"
+      ],
+      "provider": "Netflix"
+    },
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
@@ -44,6 +59,21 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
+      "title": "Ghosthing",
+      "url": "https://www.justwatch.com/id/movie/ghosthing",
+      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
+      "year": "2026",
+      "quality": "4K",
+      "category": "Comedy, Fantasy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
       "title": "Haunting of Mount Welirang",
       "url": "https://www.justwatch.com/id/movie/haunting-of-mount-welirang",
       "poster_url": "https://images.justwatch.com/poster/346926886/s332/haunting-of-mount-welirang.jpg",
@@ -55,6 +85,36 @@
         "Netflix"
       ],
       "provider": "Netflix"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Rest In Pink",
+      "url": "https://www.justwatch.com/id/movie/rest-in-pink",
+      "poster_url": "https://images.justwatch.com/poster/355689729/s332/rest-in-pink.jpg",
+      "year": "2025",
+      "quality": "HD",
+      "category": "Comedy, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm"
+      ],
+      "provider": "KlikFilm"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Suddenly Satan",
+      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
+      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
+      "year": "2026",
+      "quality": "4K",
+      "category": "Comedy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -85,6 +145,21 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Warung Pocong",
+      "url": "https://www.justwatch.com/id/movie/warung-pocong",
+      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
     }
   ],
   "candidate_results": {
@@ -97,11 +172,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/boy-of-your-dreams-2": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-01T21:09:54.590043+00:00"
     },
     "https://www.justwatch.com/id/movie/five-friends-2-mount-klawih": {
       "match": false,
@@ -1517,6 +1587,21 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-06T08:35:45.463078+00:00"
+    },
+    "https://www.justwatch.com/id/movie/ghosthing": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Ghosthing",
+        "url": "https://www.justwatch.com/id/movie/ghosthing",
+        "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
+        "year": "2026",
+        "quality": "4K",
+        "category": "Comedy, Fantasy, Horror",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-11-06T16:18:59.413856+00:00"
     }
   }
 }
