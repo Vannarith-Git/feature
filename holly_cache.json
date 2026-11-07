@@ -2,8 +2,26 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-04T23:58:01.984676+00:00",
+  "generated_at": "2026-11-07T14:15:58.734405+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Heart of the Beast",
+      "url": "https://hollymoviehd.cc/heart-of-the-beast-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Evil Has Always Had a Name",
+      "url": "https://hollymoviehd.cc/evil-has-always-had-a-name-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mHVG5EwbTJ75zroneK9KZ6p7oVH.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -253,24 +271,6 @@
       "title": "Kill Code",
       "url": "https://hollymoviehd.cc/kill-code-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/bXvSKLCillha6wxY0yxoRCM2WQl.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "If I Go Will They Miss Me",
-      "url": "https://hollymoviehd.cc/if-i-go-will-they-miss-me-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Butthole Surfers: The Hole Truth and Nothing Butt",
-      "url": "https://hollymoviehd.cc/butthole-surfers-the-hole-truth-and-nothing-butt-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/uG7aqinXD5EgXtm2MTJma37t7V8.jpg",
       "year": "2026",
       "quality": "HD"
     }
