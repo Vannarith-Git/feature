@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-07T14:16:39.880648+00:00",
+  "generated_at": "2026-11-07T22:31:57.192699+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -44,21 +44,6 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Haunting of Mount Welirang",
-      "url": "https://www.justwatch.com/id/movie/haunting-of-mount-welirang",
-      "poster_url": "https://images.justwatch.com/poster/346926886/s332/haunting-of-mount-welirang.jpg",
-      "year": "2026",
-      "quality": "HD",
-      "category": "Action & Adventure, Horror, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "Netflix"
-      ],
-      "provider": "Netflix"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
       "title": "Rest In Pink",
       "url": "https://www.justwatch.com/id/movie/rest-in-pink",
       "poster_url": "https://images.justwatch.com/poster/355689729/s332/rest-in-pink.jpg",
@@ -70,21 +55,6 @@
         "KlikFilm"
       ],
       "provider": "KlikFilm"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Satu Untuk Selamanya",
-      "url": "https://www.justwatch.com/id/movie/satu-untuk-selamanya",
-      "poster_url": "https://images.justwatch.com/poster/321104096/s332/satu-untuk-selamanya.jpg",
-      "year": "2022",
-      "quality": "HD",
-      "category": "Drama, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Netflix"
-      ],
-      "provider": "Netflix"
     },
     {
       "source": "Indonesian Horror",
@@ -115,21 +85,6 @@
         "Viu"
       ],
       "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "The Damnation",
-      "url": "https://www.justwatch.com/id/movie/the-damnation-2025",
-      "poster_url": "https://images.justwatch.com/poster/321977713/s332/the-damnation-2025.jpg",
-      "year": "2025",
-      "quality": "4K",
-      "category": "Action & Adventure, Horror, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "Netflix"
-      ],
-      "provider": "Netflix"
     },
     {
       "source": "Indonesian Horror",
