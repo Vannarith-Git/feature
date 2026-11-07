@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-07T01:17:19.223428+00:00",
+  "generated_at": "2026-11-07T07:21:28.510394+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -25,21 +25,6 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Ghosthing",
-      "url": "https://www.justwatch.com/id/movie/ghosthing",
-      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
-      "year": "2026",
-      "quality": "4K",
-      "category": "Comedy, Fantasy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -157,16 +142,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/sinners": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-05T09:31:15.702083+00:00"
-    },
-    "https://www.justwatch.com/id/movie/exhuma": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-05T09:31:15.702083+00:00"
     },
     "https://www.justwatch.com/id/movie/spiral-from-the-book-of-saw": {
       "match": false,
@@ -1597,6 +1572,16 @@
         "country": "Indonesia"
       },
       "checked_at": "2026-11-06T21:40:41.380710+00:00"
+    },
+    "https://www.justwatch.com/id/movie/train-to-busan": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-07T07:21:28.510394+00:00"
+    },
+    "https://www.justwatch.com/id/movie/phi-phong-the-blood-demon": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-07T07:21:28.510394+00:00"
     }
   }
 }
