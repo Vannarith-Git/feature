@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-06T21:40:41.380710+00:00",
+  "generated_at": "2026-11-07T01:17:19.223428+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -25,21 +25,6 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Gak Masuk Akal",
-      "url": "https://www.justwatch.com/id/movie/gak-masuk-akal",
-      "poster_url": "https://images.justwatch.com/poster/356448073/s332/gak-masuk-akal.jpg",
-      "year": "2027",
-      "quality": null,
-      "category": "Comedy, Drama, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
     },
     {
       "source": "Indonesian Horror",
