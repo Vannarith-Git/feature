@@ -2,8 +2,26 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-07T22:31:27.114271+00:00",
+  "generated_at": "2026-11-08T08:05:37.214483+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Skin of Youth",
+      "url": "https://hollymoviehd.cc/skin-of-youth-2025/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/4LQBRkAH3wE87JzWRTUCt3OE9nJ.jpg",
+      "year": "2025",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Merry Memories",
+      "url": "https://hollymoviehd.cc/merry-memories-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/wQU38W3O614P6QABFAPRvz5SmRv.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -253,24 +271,6 @@
       "title": "Never After Dark",
       "url": "https://hollymoviehd.cc/never-after-dark-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/jguB76QbAx6yExiOLIPvOaxW95b.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Everybody to Kenmure Street",
-      "url": "https://hollymoviehd.cc/everybody-to-kenmure-street-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/m3ZR0dcDwpO7JdAs6sc12ks3Th9.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Sukdulan",
-      "url": "https://hollymoviehd.cc/sukdulan-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/AqeFsDpRQA3HXDWnpNXHOq4WCK6.jpg",
       "year": "2026",
       "quality": "HD"
     }
