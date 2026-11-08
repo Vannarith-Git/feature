@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-08T08:06:07.087221+00:00",
+  "generated_at": "2026-11-08T15:10:21.437703+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -74,12 +74,12 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Songko",
-      "url": "https://www.justwatch.com/id/movie/songko",
-      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
+      "title": "Suddenly Satan",
+      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
+      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
       "year": "2026",
-      "quality": null,
-      "category": "Horror, Mystery & Thriller",
+      "quality": "4K",
+      "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
         "Viu"
@@ -115,6 +115,21 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Warung Pocong",
+      "url": "https://www.justwatch.com/id/movie/warung-pocong",
+      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
     }
   ],
   "candidate_results": {
@@ -127,16 +142,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-purge-anarchy": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-06T06:48:54.934323+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-first-purge": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-06T06:48:54.934323+00:00"
     },
     "https://www.justwatch.com/id/movie/the-vvaan-force-of-the-forrest": {
       "match": false,
@@ -1567,6 +1572,16 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-08T08:06:07.087221+00:00"
+    },
+    "https://www.justwatch.com/id/movie/boy-of-your-dreams-2": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-08T15:10:21.437703+00:00"
+    },
+    "https://www.justwatch.com/id/movie/urgent-care": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-08T15:10:21.437703+00:00"
     }
   }
 }
