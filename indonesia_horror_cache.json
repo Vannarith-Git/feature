@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-09T10:26:37.776710+00:00",
+  "generated_at": "2026-11-09T21:00:22.541384+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -25,21 +25,6 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Ghosthing",
-      "url": "https://www.justwatch.com/id/movie/ghosthing",
-      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
-      "year": "2026",
-      "quality": "4K",
-      "category": "Comedy, Fantasy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -89,12 +74,12 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Suddenly Satan",
-      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
-      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
+      "title": "Sumpah Darah",
+      "url": "https://www.justwatch.com/id/movie/sumpah-darah",
+      "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
       "year": "2026",
-      "quality": "4K",
-      "category": "Comedy, Horror",
+      "quality": null,
+      "category": "Horror",
       "country": "Indonesia",
       "providers": [
         "Viu"
@@ -142,11 +127,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/insidious-out-of-the-further": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-08T01:16:21.716172+00:00"
     },
     "https://www.justwatch.com/id/movie/lights-out": {
       "match": false,
@@ -1582,6 +1562,11 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-09T10:26:37.776710+00:00"
+    },
+    "https://www.justwatch.com/id/movie/anthropoid": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-09T21:00:22.541384+00:00"
     }
   }
 }
