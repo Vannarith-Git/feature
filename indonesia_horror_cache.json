@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-08T15:10:21.437703+00:00",
+  "generated_at": "2026-11-09T10:26:37.776710+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -25,6 +25,21 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Ghosthing",
+      "url": "https://www.justwatch.com/id/movie/ghosthing",
+      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
+      "year": "2026",
+      "quality": "4K",
+      "category": "Comedy, Fantasy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -115,21 +130,6 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Warung Pocong",
-      "url": "https://www.justwatch.com/id/movie/warung-pocong",
-      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
     }
   ],
   "candidate_results": {
@@ -142,11 +142,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-vvaan-force-of-the-forrest": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-07T09:02:09.119765+00:00"
     },
     "https://www.justwatch.com/id/movie/insidious-out-of-the-further": {
       "match": false,
@@ -1582,6 +1577,11 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-08T15:10:21.437703+00:00"
+    },
+    "https://www.justwatch.com/id/movie/zona-merah": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-09T10:26:37.776710+00:00"
     }
   }
 }
