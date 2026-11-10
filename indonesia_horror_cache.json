@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-09T21:00:22.541384+00:00",
+  "generated_at": "2026-11-10T11:40:56.903474+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -29,17 +29,17 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Haunting of Mount Welirang",
-      "url": "https://www.justwatch.com/id/movie/haunting-of-mount-welirang",
-      "poster_url": "https://images.justwatch.com/poster/346926886/s332/haunting-of-mount-welirang.jpg",
-      "year": "2026",
-      "quality": "HD",
-      "category": "Action & Adventure, Horror, Mystery & Thriller",
+      "title": "Gak Masuk Akal",
+      "url": "https://www.justwatch.com/id/movie/gak-masuk-akal",
+      "poster_url": "https://images.justwatch.com/poster/356448073/s332/gak-masuk-akal.jpg",
+      "year": "2027",
+      "quality": null,
+      "category": "Comedy, Drama, Horror",
       "country": "Indonesia",
       "providers": [
-        "Netflix"
+        "Viu"
       ],
-      "provider": "Netflix"
+      "provider": "Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -74,36 +74,6 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Sumpah Darah",
-      "url": "https://www.justwatch.com/id/movie/sumpah-darah",
-      "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "The Damnation",
-      "url": "https://www.justwatch.com/id/movie/the-damnation-2025",
-      "poster_url": "https://images.justwatch.com/poster/321977713/s332/the-damnation-2025.jpg",
-      "year": "2025",
-      "quality": "4K",
-      "category": "Action & Adventure, Horror, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "Netflix"
-      ],
-      "provider": "Netflix"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
       "title": "Tuyul: Part 1",
       "url": "https://www.justwatch.com/id/movie/tuyul-part-1",
       "poster_url": "https://images.justwatch.com/poster/142176825/s332/tuyul-part-1.jpg",
@@ -127,11 +97,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/lights-out": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-08T20:39:25.834486+00:00"
     },
     "https://www.justwatch.com/id/movie/sleep-no-more-2026": {
       "match": false,
@@ -1567,6 +1532,11 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-09T21:00:22.541384+00:00"
+    },
+    "https://www.justwatch.com/id/movie/two": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-10T11:40:56.903474+00:00"
     }
   }
 }
