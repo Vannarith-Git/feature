@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-10T03:27:47.961531+00:00",
+  "generated_at": "2026-11-10T18:52:34.657948+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Other Mommy",
+      "url": "https://hollymoviehd.cc/other-mommy-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -262,15 +271,6 @@
       "title": "Resident Evil",
       "url": "https://hollymoviehd.cc/resident-evil-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Who’s Coming for Christmas?",
-      "url": "https://hollymoviehd.cc/whos-coming-for-christmas-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/1KIkID5p5smDoR07BjI7mgaV2QQ.jpg",
       "year": "2026",
       "quality": "HD"
     }
