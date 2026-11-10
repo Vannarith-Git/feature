@@ -2,8 +2,62 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-08T08:05:37.214483+00:00",
+  "generated_at": "2026-11-10T03:27:47.961531+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "A Season of Promises",
+      "url": "https://hollymoviehd.cc/a-season-of-promises-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/yiazMVDZ5Y5OTC1ouO6bbSRhNLn.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Sleepwalker",
+      "url": "https://hollymoviehd.cc/sleepwalker-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/760SP4VsZagpyB9WLfeZykE3DFg.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Holiday Unplugged",
+      "url": "https://hollymoviehd.cc/holiday-unplugged-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/vFiym2U35GDreIiNpmHpvhKW17A.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Misty Green",
+      "url": "https://hollymoviehd.cc/misty-green-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "The 12 Dates of Christmas",
+      "url": "https://hollymoviehd.cc/the-12-dates-of-christmas-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/w82vKEoYNZ9SxYxvccxO85CnZKE.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Concessions",
+      "url": "https://hollymoviehd.cc/concessions-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ooH1RBIh9tSp8XmEuIstc0h6cyF.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -217,60 +271,6 @@
       "title": "Who’s Coming for Christmas?",
       "url": "https://hollymoviehd.cc/whos-coming-for-christmas-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/1KIkID5p5smDoR07BjI7mgaV2QQ.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Hunting Matthew Nichols",
-      "url": "https://hollymoviehd.cc/hunting-matthew-nichols-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/d6I1mvnGUaU57kSFeXxNWlQB934.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "SCTV: The Greatest Show You’ve Never Heard Of",
-      "url": "https://hollymoviehd.cc/sctv-the-greatest-show-youve-never-heard-of-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/vBqVyTpzv5RzHSsQdu8ECxAqSvd.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Ghost in the Cell",
-      "url": "https://hollymoviehd.cc/ghost-in-the-cell-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/zxcMdx0w5Zmg8yZuuiS7CJ8vOea.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Before We Forget",
-      "url": "https://hollymoviehd.cc/before-we-forget-2025/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/1fzJuA0jbQeYYsnpVkIsbQVFRQF.jpg",
-      "year": "2025",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Ali G: Who Iz I?",
-      "url": "https://hollymoviehd.cc/ali-g-who-iz-i-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Never After Dark",
-      "url": "https://hollymoviehd.cc/never-after-dark-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/jguB76QbAx6yExiOLIPvOaxW95b.jpg",
       "year": "2026",
       "quality": "HD"
     }
