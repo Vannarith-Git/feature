@@ -2,8 +2,26 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-10T18:52:34.657948+00:00",
+  "generated_at": "2026-11-11T20:10:06.571008+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Feed",
+      "url": "https://hollymoviehd.cc/feed-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8AI6GBlESvZ4RWhreSWHfqg03HA.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "The Gospel of Christmas",
+      "url": "https://hollymoviehd.cc/the-gospel-of-christmas-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -253,24 +271,6 @@
       "title": "My Best Friend, His Girlfriend and Me",
       "url": "https://hollymoviehd.cc/my-best-friend-his-girlfriend-and-me-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Beware Boiúna",
-      "url": "https://hollymoviehd.cc/beware-boiuna-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Resident Evil",
-      "url": "https://hollymoviehd.cc/resident-evil-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
       "year": "2026",
       "quality": "HD"
     }
