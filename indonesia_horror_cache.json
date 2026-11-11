@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-10T11:40:56.903474+00:00",
+  "generated_at": "2026-11-11T05:48:26.536711+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -97,16 +97,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/sleep-no-more-2026": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-08T20:39:25.834486+00:00"
-    },
-    "https://www.justwatch.com/id/movie/lake-placid-vs-anaconda": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-08T20:39:25.834486+00:00"
     },
     "https://www.justwatch.com/id/movie/jennifers-body": {
       "match": false,
@@ -1537,6 +1527,16 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-10T11:40:56.903474+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-town-that-takes": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-11T05:48:26.536711+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-last-house-2026": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-11T05:48:26.536711+00:00"
     }
   }
 }
