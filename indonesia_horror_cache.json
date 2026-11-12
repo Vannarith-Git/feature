@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-11T20:10:38.042224+00:00",
+  "generated_at": "2026-11-12T09:40:45.609522+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -44,6 +44,21 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
+      "title": "Korean Haunted Hospital",
+      "url": "https://www.justwatch.com/id/movie/402-korean-haunted-hospital",
+      "poster_url": "https://images.justwatch.com/poster/345671588/s332/402-korean-haunted-hospital.jpg",
+      "year": "2026",
+      "quality": "HD",
+      "category": "Horror, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "Netflix"
+      ],
+      "provider": "Netflix"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
       "title": "Rest In Pink",
       "url": "https://www.justwatch.com/id/movie/rest-in-pink",
       "poster_url": "https://images.justwatch.com/poster/355689729/s332/rest-in-pink.jpg",
@@ -59,27 +74,12 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Satu Untuk Selamanya",
-      "url": "https://www.justwatch.com/id/movie/satu-untuk-selamanya",
-      "poster_url": "https://images.justwatch.com/poster/321104096/s332/satu-untuk-selamanya.jpg",
-      "year": "2022",
-      "quality": "HD",
-      "category": "Drama, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Netflix"
-      ],
-      "provider": "Netflix"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Songko",
-      "url": "https://www.justwatch.com/id/movie/songko",
-      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
+      "title": "Suddenly Satan",
+      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
+      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
       "year": "2026",
-      "quality": null,
-      "category": "Horror, Mystery & Thriller",
+      "quality": "4K",
+      "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
         "Viu"
@@ -100,6 +100,21 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Warung Pocong",
+      "url": "https://www.justwatch.com/id/movie/warung-pocong",
+      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
     }
   ],
   "candidate_results": {
@@ -112,26 +127,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/jennifers-body": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-09T00:41:36.972945+00:00"
-    },
-    "https://www.justwatch.com/id/movie/matchbox": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-09T00:41:36.972945+00:00"
-    },
-    "https://www.justwatch.com/id/movie/brothers-under-fire": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-09T00:41:36.972945+00:00"
-    },
-    "https://www.justwatch.com/id/movie/robota-sweden": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-09T00:41:36.972945+00:00"
     },
     "https://www.justwatch.com/id/movie/awarapan-2": {
       "match": false,
@@ -1552,6 +1547,36 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-11T05:48:26.536711+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-love-witch": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-12T09:40:45.609522+00:00"
+    },
+    "https://www.justwatch.com/id/movie/heart-eyes": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-12T09:40:45.609522+00:00"
+    },
+    "https://www.justwatch.com/id/movie/kijsada-paradise": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-12T09:40:45.609522+00:00"
+    },
+    "https://www.justwatch.com/id/movie/402-korean-haunted-hospital": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Korean Haunted Hospital",
+        "url": "https://www.justwatch.com/id/movie/402-korean-haunted-hospital",
+        "poster_url": "https://images.justwatch.com/poster/345671588/s332/402-korean-haunted-hospital.jpg",
+        "year": "2026",
+        "quality": "HD",
+        "category": "Horror, Mystery & Thriller",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-11-12T09:40:45.609522+00:00"
     }
   }
 }
