@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-13T11:16:56.789412+00:00",
+  "generated_at": "2026-11-13T18:36:46.980376+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -115,21 +115,6 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Warung Pocong",
-      "url": "https://www.justwatch.com/id/movie/warung-pocong",
-      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
     }
   ],
   "candidate_results": {
@@ -142,11 +127,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/awarapan-2": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-09T00:41:36.972945+00:00"
     },
     "https://www.justwatch.com/id/movie/symbiopsychotaxiplasm-take-one": {
       "match": false,
@@ -1592,6 +1572,11 @@
         "country": "Indonesia"
       },
       "checked_at": "2026-11-12T09:40:45.609522+00:00"
+    },
+    "https://www.justwatch.com/id/movie/fatima-2026": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-13T18:36:46.980376+00:00"
     }
   }
 }
