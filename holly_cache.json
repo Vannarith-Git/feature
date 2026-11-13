@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-13T11:16:25.348120+00:00",
+  "generated_at": "2026-11-13T23:53:04.090498+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Snoopy Presents: 12 Days of Snoopy",
+      "url": "https://hollymoviehd.cc/snoopy-presents-12-days-of-snoopy-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/9wZAvvAZgwp2Lxbhjkp9N6HHJBm.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -262,15 +271,6 @@
       "title": "After Impact",
       "url": "https://hollymoviehd.cc/after-impact-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Apocalypse Z: New World",
-      "url": "https://hollymoviehd.cc/apocalypse-z-new-world-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
       "year": "2026",
       "quality": "HD"
     }
