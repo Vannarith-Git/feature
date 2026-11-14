@@ -2,8 +2,35 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-13T23:53:04.090498+00:00",
+  "generated_at": "2026-11-14T22:41:32.151668+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Korean Haunted Hospital",
+      "url": "https://hollymoviehd.cc/korean-haunted-hospital-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/hDNUlUbOCqXK4a7o66rrbJti0eM.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Assassin Within",
+      "url": "https://hollymoviehd.cc/assassin-within-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/dCl86bNZt4ww1xLj7T4CwQBVdBY.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "My Christmas Cowboy",
+      "url": "https://hollymoviehd.cc/my-christmas-cowboy-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/9WHyLhAvjbnW2c2srR6SZGyBssm.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -244,33 +271,6 @@
       "title": "Oscar Shaw",
       "url": "https://hollymoviehd.cc/oscar-shaw-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "A Dog’s Perfect Christmas",
-      "url": "https://hollymoviehd.cc/a-dogs-perfect-christmas-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/TSsdfaD0gGlVqBuy2xYxr3RTaL.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "A Story of Derry",
-      "url": "https://hollymoviehd.cc/a-story-of-derry-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "After Impact",
-      "url": "https://hollymoviehd.cc/after-impact-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
       "year": "2026",
       "quality": "HD"
     }

@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-14T18:27:06.767265+00:00",
+  "generated_at": "2026-11-14T22:42:03.295250+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -89,6 +89,36 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
+      "title": "Satan's Slaves 2: Communion",
+      "url": "https://www.justwatch.com/id/movie/pengabdi-setan-2-communion",
+      "poster_url": "https://images.justwatch.com/poster/318569862/s332/pengabdi-setan-2-communion.jpg",
+      "year": "2022",
+      "quality": "HD",
+      "category": "Drama, Horror, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "Netflix"
+      ],
+      "provider": "Netflix"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Suddenly Satan",
+      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
+      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
+      "year": "2026",
+      "quality": "4K",
+      "category": "Comedy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
       "title": "Tuyul: Part 1",
       "url": "https://www.justwatch.com/id/movie/tuyul-part-1",
       "poster_url": "https://images.justwatch.com/poster/142176825/s332/tuyul-part-1.jpg",
@@ -100,21 +130,6 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Warung Pocong",
-      "url": "https://www.justwatch.com/id/movie/warung-pocong",
-      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
     }
   ],
   "candidate_results": {
@@ -127,11 +142,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/symbiopsychotaxiplasm-take-one": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-09T00:41:36.972945+00:00"
     },
     "https://www.justwatch.com/id/movie/scream": {
       "match": false,
@@ -1577,6 +1587,21 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-13T18:36:46.980376+00:00"
+    },
+    "https://www.justwatch.com/id/movie/pengabdi-setan-2-communion": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Satan's Slaves 2: Communion",
+        "url": "https://www.justwatch.com/id/movie/pengabdi-setan-2-communion",
+        "poster_url": "https://images.justwatch.com/poster/318569862/s332/pengabdi-setan-2-communion.jpg",
+        "year": "2022",
+        "quality": "HD",
+        "category": "Drama, Horror, Mystery & Thriller",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-11-14T22:42:03.295250+00:00"
     }
   }
 }
