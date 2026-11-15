@@ -2,8 +2,71 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-14T22:41:32.151668+00:00",
+  "generated_at": "2026-11-15T16:33:52.339737+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "The Nights Before Christmas",
+      "url": "https://hollymoviehd.cc/the-nights-before-christmas-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/313RVYAdotWQQRuUSrZj9CIoEdk.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "One Last Shot",
+      "url": "https://hollymoviehd.cc/one-last-shot-2026/",
+      "poster_url": "https://hollymoviehd.cc/wp-content/themes/Hollymoviehd/assets/css/img/noimg.png",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "The Beast",
+      "url": "https://hollymoviehd.cc/the-beast-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Russell Brand: Open Secret",
+      "url": "https://hollymoviehd.cc/russell-brand-open-secret-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Labas Pasok",
+      "url": "https://hollymoviehd.cc/labas-pasok-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/koQQbzS1AXq5utjK3N7dKshZFKp.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Bida Max",
+      "url": "https://hollymoviehd.cc/bida-max-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mKvuwi2ttmzBxjW4QA5b3JlYz9K.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "The Intern",
+      "url": "https://hollymoviehd.cc/the-intern-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/pDJEuLTnzYMOPsvpyg3VRWilalp.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -208,69 +271,6 @@
       "title": "Best Pancakes in the County",
       "url": "https://hollymoviehd.cc/best-pancakes-in-the-county-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Possible Love",
-      "url": "https://hollymoviehd.cc/possible-love-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Musk",
-      "url": "https://hollymoviehd.cc/musk-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/kTOeFV92c3QHJ3bEkT660P7BcWN.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Threesome",
-      "url": "https://hollymoviehd.cc/threesome-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/wpQ1Nr2G8deAdBp6JZ0Onc2qUIL.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "The Odyssey",
-      "url": "https://hollymoviehd.cc/the-odyssey-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "year": "2026",
-      "quality": "BluRay"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Heart of the Beast",
-      "url": "https://hollymoviehd.cc/heart-of-the-beast-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Evil Has Always Had a Name",
-      "url": "https://hollymoviehd.cc/evil-has-always-had-a-name-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/mHVG5EwbTJ75zroneK9KZ6p7oVH.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Oscar Shaw",
-      "url": "https://hollymoviehd.cc/oscar-shaw-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
       "year": "2026",
       "quality": "HD"
     }
