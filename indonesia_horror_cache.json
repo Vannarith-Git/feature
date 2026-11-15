@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-15T02:10:42.926147+00:00",
+  "generated_at": "2026-11-15T09:32:27.224226+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -9,14 +9,129 @@
     "KlikFilm",
     "Viu"
   ],
-  "provider_errors": [
-    "Netflix: HTTPError",
-    "Prime Video: HTTPError",
-    "Catchplay: HTTPError",
-    "KlikFilm: HTTPError",
-    "Viu: HTTPError"
+  "provider_errors": [],
+  "items": [
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Dosa: Penebusan atau Pengampunan",
+      "url": "https://www.justwatch.com/id/movie/dosa-penebusan-atau-pengampunan",
+      "poster_url": "https://images.justwatch.com/poster/345524325/s332/dosa-penebusan-atau-pengampunan.jpg",
+      "year": "2026",
+      "quality": "HD",
+      "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Catchplay"
+      ],
+      "provider": "Catchplay"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Gak Masuk Akal",
+      "url": "https://www.justwatch.com/id/movie/gak-masuk-akal",
+      "poster_url": "https://images.justwatch.com/poster/356448073/s332/gak-masuk-akal.jpg",
+      "year": "2027",
+      "quality": null,
+      "category": "Comedy, Drama, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Korean Haunted Hospital",
+      "url": "https://www.justwatch.com/id/movie/402-korean-haunted-hospital",
+      "poster_url": "https://images.justwatch.com/poster/345671588/s332/402-korean-haunted-hospital.jpg",
+      "year": "2026",
+      "quality": "HD",
+      "category": "Horror, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "Netflix"
+      ],
+      "provider": "Netflix"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Rest In Pink",
+      "url": "https://www.justwatch.com/id/movie/rest-in-pink",
+      "poster_url": "https://images.justwatch.com/poster/355689729/s332/rest-in-pink.jpg",
+      "year": "2025",
+      "quality": "HD",
+      "category": "Comedy, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm"
+      ],
+      "provider": "KlikFilm"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Satan's Slaves 2: Communion",
+      "url": "https://www.justwatch.com/id/movie/pengabdi-setan-2-communion",
+      "poster_url": "https://images.justwatch.com/poster/318569862/s332/pengabdi-setan-2-communion.jpg",
+      "year": "2022",
+      "quality": "HD",
+      "category": "Drama, Horror, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "Netflix"
+      ],
+      "provider": "Netflix"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Songko",
+      "url": "https://www.justwatch.com/id/movie/songko",
+      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Horror, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "The Queen of Black Magic",
+      "url": "https://www.justwatch.com/id/movie/the-queen-of-black-magic-2019",
+      "poster_url": "https://images.justwatch.com/poster/241251537/s332/the-queen-of-black-magic-2019.jpg",
+      "year": "2019",
+      "quality": "HD",
+      "category": "Drama, Horror, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "Netflix"
+      ],
+      "provider": "Netflix"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Tuyul: Part 1",
+      "url": "https://www.justwatch.com/id/movie/tuyul-part-1",
+      "poster_url": "https://images.justwatch.com/poster/142176825/s332/tuyul-part-1.jpg",
+      "year": "2015",
+      "quality": null,
+      "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Catchplay"
+      ],
+      "provider": "Catchplay"
+    }
   ],
-  "items": [],
   "candidate_results": {
     "https://www.justwatch.com/id/movie/orphan-3": {
       "match": false,
@@ -27,11 +142,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/scream": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-09T23:27:05.693566+00:00"
     },
     "https://www.justwatch.com/id/movie/the-curse-of-la-llorona": {
       "match": false,
@@ -1487,6 +1597,21 @@
         "country": "Indonesia"
       },
       "checked_at": "2026-11-14T22:42:03.295250+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-queen-of-black-magic-2019": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "The Queen of Black Magic",
+        "url": "https://www.justwatch.com/id/movie/the-queen-of-black-magic-2019",
+        "poster_url": "https://images.justwatch.com/poster/241251537/s332/the-queen-of-black-magic-2019.jpg",
+        "year": "2019",
+        "quality": "HD",
+        "category": "Drama, Horror, Mystery & Thriller",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-11-15T09:32:27.224226+00:00"
     }
   }
 }
