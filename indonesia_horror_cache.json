@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-15T16:34:22.817495+00:00",
+  "generated_at": "2026-11-15T21:16:44.467722+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -59,6 +59,21 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
+      "title": "Mangkujiwo",
+      "url": "https://www.justwatch.com/id/movie/mangkujiwo",
+      "poster_url": "https://images.justwatch.com/poster/321337576/s332/mangkujiwo.jpg",
+      "year": "2020",
+      "quality": "4K",
+      "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Netflix"
+      ],
+      "provider": "Netflix"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
       "title": "Rest In Pink",
       "url": "https://www.justwatch.com/id/movie/rest-in-pink",
       "poster_url": "https://images.justwatch.com/poster/355689729/s332/rest-in-pink.jpg",
@@ -85,36 +100,6 @@
         "Netflix"
       ],
       "provider": "Netflix"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Songko",
-      "url": "https://www.justwatch.com/id/movie/songko",
-      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Horror, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Suddenly Satan",
-      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
-      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
-      "year": "2026",
-      "quality": "4K",
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -172,11 +157,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-curse-of-la-llorona": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-09T23:27:05.693566+00:00"
     },
     "https://www.justwatch.com/id/movie/scream-3": {
       "match": false,
@@ -1642,6 +1622,21 @@
         "country": "Indonesia"
       },
       "checked_at": "2026-11-15T09:32:27.224226+00:00"
+    },
+    "https://www.justwatch.com/id/movie/mangkujiwo": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Mangkujiwo",
+        "url": "https://www.justwatch.com/id/movie/mangkujiwo",
+        "poster_url": "https://images.justwatch.com/poster/321337576/s332/mangkujiwo.jpg",
+        "year": "2020",
+        "quality": "4K",
+        "category": "Horror",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-11-15T21:16:44.467722+00:00"
     }
   }
 }
