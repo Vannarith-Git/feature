@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-16T01:10:13.055475+00:00",
+  "generated_at": "2026-11-16T08:01:41.238070+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -145,21 +145,6 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Warung Pocong",
-      "url": "https://www.justwatch.com/id/movie/warung-pocong",
-      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
     }
   ],
   "candidate_results": {
@@ -172,11 +157,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/scream-3": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-09T23:27:05.693566+00:00"
     },
     "https://www.justwatch.com/id/movie/ghosts-of-mars": {
       "match": false,
@@ -1652,6 +1632,11 @@
         "country": "Indonesia"
       },
       "checked_at": "2026-11-15T21:16:44.467722+00:00"
+    },
+    "https://www.justwatch.com/id/movie/thien-than-ho-menh": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-16T08:01:41.238070+00:00"
     }
   }
 }
