@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-17T01:59:04.527848+00:00",
+  "generated_at": "2026-11-17T10:34:40.128201+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -44,21 +44,6 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Ghosthing",
-      "url": "https://www.justwatch.com/id/movie/ghosthing",
-      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
-      "year": "2026",
-      "quality": "4K",
-      "category": "Comedy, Fantasy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
       "title": "Korean Haunted Hospital",
       "url": "https://www.justwatch.com/id/movie/402-korean-haunted-hospital",
       "poster_url": "https://images.justwatch.com/poster/345671588/s332/402-korean-haunted-hospital.jpg",
@@ -89,21 +74,6 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Rest In Pink",
-      "url": "https://www.justwatch.com/id/movie/rest-in-pink",
-      "poster_url": "https://images.justwatch.com/poster/355689729/s332/rest-in-pink.jpg",
-      "year": "2025",
-      "quality": "HD",
-      "category": "Comedy, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "KlikFilm"
-      ],
-      "provider": "KlikFilm"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
       "title": "Satan's Slaves 2: Communion",
       "url": "https://www.justwatch.com/id/movie/pengabdi-setan-2-communion",
       "poster_url": "https://images.justwatch.com/poster/318569862/s332/pengabdi-setan-2-communion.jpg",
@@ -115,6 +85,21 @@
         "Netflix"
       ],
       "provider": "Netflix"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Suddenly Satan",
+      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
+      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
+      "year": "2026",
+      "quality": "4K",
+      "category": "Comedy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -157,61 +142,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/pretty-lethal": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-10T09:04:51.325683+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-devils-mouth-2026": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-10T09:04:51.325683+00:00"
-    },
-    "https://www.justwatch.com/id/movie/hokum-2026": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-10T09:04:51.325683+00:00"
-    },
-    "https://www.justwatch.com/id/movie/be-our-guests-2": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-11T07:49:02.842959+00:00"
-    },
-    "https://www.justwatch.com/id/movie/i-am-legend": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-15T05:39:54.037672+00:00"
-    },
-    "https://www.justwatch.com/id/movie/into-the-storm": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-15T05:39:54.037672+00:00"
-    },
-    "https://www.justwatch.com/id/movie/sumpah-darah": {
-      "match": true,
-      "item": {
-        "source": "Indonesian Horror",
-        "source_type": "movie",
-        "title": "Sumpah Darah",
-        "url": "https://www.justwatch.com/id/movie/sumpah-darah",
-        "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
-        "year": "2026",
-        "quality": null,
-        "category": "Horror",
-        "country": "Indonesia"
-      },
-      "checked_at": "2026-10-15T10:21:35.856358+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-fifth-generation": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-15T22:27:32.409282+00:00"
-    },
-    "https://www.justwatch.com/id/movie/glampire": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-15T22:27:32.409282+00:00"
     },
     "https://www.justwatch.com/id/movie/ben-10-destroy-all-aliens": {
       "match": false,
@@ -1637,6 +1567,51 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-16T18:24:47.801889+00:00"
+    },
+    "https://www.justwatch.com/id/movie/bank-job": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-17T10:34:40.128201+00:00"
+    },
+    "https://www.justwatch.com/id/movie/insidious-out-of-the-further": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-17T10:34:40.128201+00:00"
+    },
+    "https://www.justwatch.com/id/movie/oblivion": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-17T10:34:40.128201+00:00"
+    },
+    "https://www.justwatch.com/id/movie/robin-hood-prince-of-thieves": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-17T10:34:40.128201+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-last-taxi-driver": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-17T10:34:40.128201+00:00"
+    },
+    "https://www.justwatch.com/id/movie/phd-pyar-hai-drama": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-17T10:34:40.128201+00:00"
+    },
+    "https://www.justwatch.com/id/movie/premada-oorali": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-17T10:34:40.128201+00:00"
+    },
+    "https://www.justwatch.com/id/movie/scarlet-2025": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-17T10:34:40.128201+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-grinch": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-17T10:34:40.128201+00:00"
     }
   }
 }

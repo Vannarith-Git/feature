@@ -2,8 +2,26 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-15T16:33:52.339737+00:00",
+  "generated_at": "2026-11-17T10:34:00.756616+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "A Talent for Murder",
+      "url": "https://hollymoviehd.cc/a-talent-for-murder-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Queen at Sea",
+      "url": "https://hollymoviehd.cc/queen-at-sea-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -18,7 +36,7 @@
       "source_type": "movie",
       "title": "One Last Shot",
       "url": "https://hollymoviehd.cc/one-last-shot-2026/",
-      "poster_url": "https://hollymoviehd.cc/wp-content/themes/Hollymoviehd/assets/css/img/noimg.png",
+      "poster_url": "https://image.tmdb.org/t/p/w342/2SivpAp7xeJEFjrMWlSGB5DBGRQ.jpg",
       "year": "2026",
       "quality": "HD"
     },
@@ -253,24 +271,6 @@
       "title": "Merry Memories",
       "url": "https://hollymoviehd.cc/merry-memories-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/wQU38W3O614P6QABFAPRvz5SmRv.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Filipiñana",
-      "url": "https://hollymoviehd.cc/filipinana-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/64hnrTmeJEvUYoJyuOM7taE3CqT.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Best Pancakes in the County",
-      "url": "https://hollymoviehd.cc/best-pancakes-in-the-county-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg",
       "year": "2026",
       "quality": "HD"
     }
