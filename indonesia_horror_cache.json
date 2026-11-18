@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-18T09:18:11.178024+00:00",
+  "generated_at": "2026-11-18T18:14:48.179487+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -29,6 +29,21 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
+      "title": "Fatima",
+      "url": "https://www.justwatch.com/id/movie/fatima-2027",
+      "poster_url": "https://images.justwatch.com/poster/356885218/s332/fatima-2027.jpg",
+      "year": "2027",
+      "quality": null,
+      "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
       "title": "Gak Masuk Akal",
       "url": "https://www.justwatch.com/id/movie/gak-masuk-akal",
       "poster_url": "https://images.justwatch.com/poster/356448073/s332/gak-masuk-akal.jpg",
@@ -40,36 +55,6 @@
         "Viu"
       ],
       "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Ghosthing",
-      "url": "https://www.justwatch.com/id/movie/ghosthing",
-      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
-      "year": "2026",
-      "quality": "4K",
-      "category": "Comedy, Fantasy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Korean Haunted Hospital",
-      "url": "https://www.justwatch.com/id/movie/402-korean-haunted-hospital",
-      "poster_url": "https://images.justwatch.com/poster/345671588/s332/402-korean-haunted-hospital.jpg",
-      "year": "2026",
-      "quality": "HD",
-      "category": "Horror, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "Netflix"
-      ],
-      "provider": "Netflix"
     },
     {
       "source": "Indonesian Horror",
@@ -119,6 +104,21 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
+      "title": "Suddenly Satan",
+      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
+      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
+      "year": "2026",
+      "quality": "4K",
+      "category": "Comedy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
       "title": "The Queen of Black Magic",
       "url": "https://www.justwatch.com/id/movie/the-queen-of-black-magic-2019",
       "poster_url": "https://images.justwatch.com/poster/241251537/s332/the-queen-of-black-magic-2019.jpg",
@@ -145,21 +145,6 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Warung Pocong",
-      "url": "https://www.justwatch.com/id/movie/warung-pocong",
-      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
     }
   ],
   "candidate_results": {
@@ -172,16 +157,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/revealed-surviving-malka-leifer": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-15T22:27:32.409282+00:00"
-    },
-    "https://www.justwatch.com/id/movie/masterplan": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-15T22:27:32.409282+00:00"
     },
     "https://www.justwatch.com/id/movie/11-11": {
       "match": false,
@@ -1642,6 +1617,26 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-18T09:18:11.178024+00:00"
+    },
+    "https://www.justwatch.com/id/movie/world-war-z": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-18T18:14:48.179487+00:00"
+    },
+    "https://www.justwatch.com/id/movie/fatima-2027": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Fatima",
+        "url": "https://www.justwatch.com/id/movie/fatima-2027",
+        "poster_url": "https://images.justwatch.com/poster/356885218/s332/fatima-2027.jpg",
+        "year": "2027",
+        "quality": null,
+        "category": "Horror",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-11-18T18:14:48.179487+00:00"
     }
   }
 }
