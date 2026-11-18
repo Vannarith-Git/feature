@@ -1,12 +1,27 @@
 {
   "source": "Anime",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?channel=4&sort=4&type=1425950065128833%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B",
-  "generated_at": "2026-11-17T10:35:48.221823+00:00",
+  "generated_at": "2026-11-18T09:18:20.846372+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "便利店美食欢乐品尝记",
+      "url": "https://www.iq.com/play/29p9ij2w4td?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic3.iqiyipic.com/image/20261012/84/8e/a_101655681_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Anime",
       "source_type": "series",
@@ -291,24 +306,27 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "像素方块伙伴闯关",
-      "url": "https://www.iq.com/play/20g8xhvu145?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic1.iqiyipic.com/image/20260922/b4/02/a_101534782_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/29p9ij2w4td?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "便利店美食欢乐品尝记",
+        "url": "https://www.iq.com/play/29p9ij2w4td?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic3.iqiyipic.com/image/20261012/84/8e/a_101655681_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/28j7kjwnr5p?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -641,24 +659,6 @@
         "title": "小白伙伴爆笑记",
         "url": "https://www.iq.com/play/259gao68brd?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic4.iqiyipic.com/image/20260913/68/3c/a_101483687_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/20g8xhvu145?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "像素方块伙伴闯关",
-        "url": "https://www.iq.com/play/20g8xhvu145?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic1.iqiyipic.com/image/20260922/b4/02/a_101534782_m_601_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Anime · iQIYI",
