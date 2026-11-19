@@ -1,12 +1,27 @@
 {
   "source": "Anime",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?channel=4&sort=4&type=1425950065128833%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B",
-  "generated_at": "2026-11-18T09:18:20.846372+00:00",
+  "generated_at": "2026-11-19T17:12:31.473141+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "马里奥索尼克冷热大闯关",
+      "url": "https://www.iq.com/play/1mb3m08m8o1?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic7.iqiyipic.com/image/20261030/01/ed/a_101736362_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Anime",
       "source_type": "series",
@@ -291,24 +306,27 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "小白伙伴爆笑记",
-      "url": "https://www.iq.com/play/259gao68brd?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic4.iqiyipic.com/image/20260913/68/3c/a_101483687_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/1mb3m08m8o1?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "马里奥索尼克冷热大闯关",
+        "url": "https://www.iq.com/play/1mb3m08m8o1?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic7.iqiyipic.com/image/20261030/01/ed/a_101736362_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/29p9ij2w4td?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -641,24 +659,6 @@
         "title": "海绵宝宝奇趣生活记",
         "url": "https://www.iq.com/play/n8oogl9ro5?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic6.iqiyipic.com/image/20260912/f3/8b/a_101478816_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/259gao68brd?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "小白伙伴爆笑记",
-        "url": "https://www.iq.com/play/259gao68brd?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic4.iqiyipic.com/image/20260913/68/3c/a_101483687_m_601_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Anime · iQIYI",

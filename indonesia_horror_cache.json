@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-19T07:54:15.551313+00:00",
+  "generated_at": "2026-11-19T17:11:33.493650+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -74,21 +74,6 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Rest In Pink",
-      "url": "https://www.justwatch.com/id/movie/rest-in-pink",
-      "poster_url": "https://images.justwatch.com/poster/355689729/s332/rest-in-pink.jpg",
-      "year": "2025",
-      "quality": "HD",
-      "category": "Comedy, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "KlikFilm"
-      ],
-      "provider": "KlikFilm"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
       "title": "Satan's Slaves 2: Communion",
       "url": "https://www.justwatch.com/id/movie/pengabdi-setan-2-communion",
       "poster_url": "https://images.justwatch.com/poster/318569862/s332/pengabdi-setan-2-communion.jpg",
@@ -157,61 +142,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/it": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-16T00:40:43.540066+00:00"
-    },
-    "https://www.justwatch.com/id/movie/a-quiet-place": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-16T00:40:43.540066+00:00"
-    },
-    "https://www.justwatch.com/id/movie/a-quiet-place-part-ii": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-16T00:40:43.540066+00:00"
-    },
-    "https://www.justwatch.com/id/movie/it-chapter-two": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-16T00:40:43.540066+00:00"
-    },
-    "https://www.justwatch.com/id/movie/malignant": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-16T00:40:43.540066+00:00"
-    },
-    "https://www.justwatch.com/id/movie/orphan": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-16T00:40:43.540066+00:00"
-    },
-    "https://www.justwatch.com/id/movie/house-of-wax": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-16T00:40:43.540066+00:00"
-    },
-    "https://www.justwatch.com/id/movie/ghost-ship": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-16T00:40:43.540066+00:00"
-    },
-    "https://www.justwatch.com/id/movie/mumun": {
-      "match": true,
-      "item": {
-        "source": "Indonesian Horror",
-        "source_type": "movie",
-        "title": "Mumun",
-        "url": "https://www.justwatch.com/id/movie/mumun",
-        "poster_url": "https://images.justwatch.com/poster/291261623/s332/mumun.jpg",
-        "year": "2022",
-        "quality": null,
-        "category": "Comedy, Drama, Horror",
-        "country": "Indonesia"
-      },
-      "checked_at": "2026-10-16T00:40:43.540066+00:00"
     },
     "https://www.justwatch.com/id/movie/ain": {
       "match": true,
@@ -1647,6 +1577,51 @@
         "country": "Indonesia"
       },
       "checked_at": "2026-11-19T07:54:15.551313+00:00"
+    },
+    "https://www.justwatch.com/id/movie/sara-bareilles-good-grief": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-19T17:11:33.493650+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-odyssey-2026": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-19T17:11:33.493650+00:00"
+    },
+    "https://www.justwatch.com/id/movie/drink-coffee-talk-fast": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-19T17:11:33.493650+00:00"
+    },
+    "https://www.justwatch.com/id/movie/forgotten-island": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-19T17:11:33.493650+00:00"
+    },
+    "https://www.justwatch.com/id/movie/pursued-2004": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-19T17:11:33.493650+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-darkside-of-society": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-19T17:11:33.493650+00:00"
+    },
+    "https://www.justwatch.com/id/movie/she-rises": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-19T17:11:33.493650+00:00"
+    },
+    "https://www.justwatch.com/id/movie/on-healing-land-birds-perch": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-19T17:11:33.493650+00:00"
+    },
+    "https://www.justwatch.com/id/movie/guarding-stars": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-19T17:11:33.493650+00:00"
     }
   }
 }
