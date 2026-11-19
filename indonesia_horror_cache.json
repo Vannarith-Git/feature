@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-18T18:14:48.179487+00:00",
+  "generated_at": "2026-11-19T00:32:26.262525+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -104,21 +104,6 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Suddenly Satan",
-      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
-      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
-      "year": "2026",
-      "quality": "4K",
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
       "title": "The Queen of Black Magic",
       "url": "https://www.justwatch.com/id/movie/the-queen-of-black-magic-2019",
       "poster_url": "https://images.justwatch.com/poster/241251537/s332/the-queen-of-black-magic-2019.jpg",
@@ -157,16 +142,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/11-11": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-15T22:27:32.409282+00:00"
-    },
-    "https://www.justwatch.com/id/movie/american-sniper": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-15T22:27:32.409282+00:00"
     },
     "https://www.justwatch.com/id/movie/argo": {
       "match": false,
@@ -1637,6 +1612,16 @@
         "country": "Indonesia"
       },
       "checked_at": "2026-11-18T18:14:48.179487+00:00"
+    },
+    "https://www.justwatch.com/id/movie/cult-2026": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-19T00:32:26.262525+00:00"
+    },
+    "https://www.justwatch.com/id/movie/be-our-guests-2": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-19T00:32:26.262525+00:00"
     }
   }
 }

@@ -2,8 +2,35 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-18T09:17:30.779809+00:00",
+  "generated_at": "2026-11-19T00:31:55.938941+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Guarding Stars",
+      "url": "https://hollymoviehd.cc/guarding-stars-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Fresh Meat",
+      "url": "https://hollymoviehd.cc/fresh-meat-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/cbDWLVV7b3RAHvQBMd7eSvR5gBy.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Madden",
+      "url": "https://hollymoviehd.cc/madden-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -244,33 +271,6 @@
       "title": "Being Heumann",
       "url": "https://hollymoviehd.cc/being-heumann-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "The Million Dollar Bet",
-      "url": "https://hollymoviehd.cc/the-million-dollar-bet-2024/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/gafgExtSPTClmy705U9qoSiIqtd.jpg",
-      "year": "2024",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Allen",
-      "url": "https://hollymoviehd.cc/allen-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Vampire Carnival",
-      "url": "https://hollymoviehd.cc/vampire-carnival-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/ihxByv2GHUxz7g82mhVlYp9pCj3.jpg",
       "year": "2026",
       "quality": "HD"
     }
