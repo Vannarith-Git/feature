@@ -1,12 +1,27 @@
 {
   "source": "Anime",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?channel=4&sort=4&type=1425950065128833%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B",
-  "generated_at": "2026-11-20T04:18:55.122276+00:00",
+  "generated_at": "2026-11-20T13:19:33.739350+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "梨子的夜间冒险",
+      "url": "https://www.iq.com/play/1gmpch3lmxh?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic9.iqiyipic.com/image/20261102/de/1e/a_101746712_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Anime",
       "source_type": "series",
@@ -291,24 +306,27 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "花园保卫队：狠狠赶走坏僵尸",
-      "url": "https://www.iq.com/play/i4ta39vfx1?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic8.iqiyipic.com/image/20261007/b8/e1/a_101620486_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/1gmpch3lmxh?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "梨子的夜间冒险",
+        "url": "https://www.iq.com/play/1gmpch3lmxh?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic9.iqiyipic.com/image/20261102/de/1e/a_101746712_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/1z60gfysbt1?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -641,24 +659,6 @@
         "title": "植物大战僵尸：欢乐赛场谁称王",
         "url": "https://www.iq.com/play/l10pqz5r79?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic9.iqiyipic.com/image/20261008/a0/35/a_101627024_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/i4ta39vfx1?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "花园保卫队：狠狠赶走坏僵尸",
-        "url": "https://www.iq.com/play/i4ta39vfx1?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic8.iqiyipic.com/image/20261007/b8/e1/a_101620486_m_601_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Anime · iQIYI",
