@@ -2,8 +2,35 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-19T00:31:55.938941+00:00",
+  "generated_at": "2026-11-20T21:22:19.401852+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Drink Coffee, Talk Fast",
+      "url": "https://hollymoviehd.cc/drink-coffee-talk-fast-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/fIuc0YcNxWr3FKaPtfqMHUmKPD.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Steps",
+      "url": "https://hollymoviehd.cc/steps-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/rZmdm70Li2znSd9N4ZyrMkoKWkw.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Dead Howling",
+      "url": "https://hollymoviehd.cc/dead-howling-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/i1vpLPnHVAZq1CyJlpVS8YI7a93.jpg",
+      "year": "2026",
+      "quality": "BluRay"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -244,33 +271,6 @@
       "title": "My Christmas Cowboy",
       "url": "https://hollymoviehd.cc/my-christmas-cowboy-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/9WHyLhAvjbnW2c2srR6SZGyBssm.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Snoopy Presents: 12 Days of Snoopy",
-      "url": "https://hollymoviehd.cc/snoopy-presents-12-days-of-snoopy-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/9wZAvvAZgwp2Lxbhjkp9N6HHJBm.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Heartland",
-      "url": "https://hollymoviehd.cc/heartland-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Being Heumann",
-      "url": "https://hollymoviehd.cc/being-heumann-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
       "year": "2026",
       "quality": "HD"
     }
