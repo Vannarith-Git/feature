@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-20T21:22:19.401852+00:00",
+  "generated_at": "2026-11-21T10:15:48.746447+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Unbearable Christmas",
+      "url": "https://hollymoviehd.cc/unbearable-christmas-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8GFwwkwj4X7a5ejPlsRGuWSZ6PU.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -262,15 +271,6 @@
       "title": "Assassin Within",
       "url": "https://hollymoviehd.cc/assassin-within-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/dCl86bNZt4ww1xLj7T4CwQBVdBY.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "My Christmas Cowboy",
-      "url": "https://hollymoviehd.cc/my-christmas-cowboy-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/9WHyLhAvjbnW2c2srR6SZGyBssm.jpg",
       "year": "2026",
       "quality": "HD"
     }
