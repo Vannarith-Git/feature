@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-20T21:22:56.468787+00:00",
+  "generated_at": "2026-11-21T02:41:22.798976+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -74,42 +74,12 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Rest In Pink",
-      "url": "https://www.justwatch.com/id/movie/rest-in-pink",
-      "poster_url": "https://images.justwatch.com/poster/355689729/s332/rest-in-pink.jpg",
-      "year": "2025",
-      "quality": "HD",
-      "category": "Comedy, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "KlikFilm"
-      ],
-      "provider": "KlikFilm"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
       "title": "Suddenly Satan",
       "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
       "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
       "year": "2026",
       "quality": "4K",
       "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Sumpah Darah",
-      "url": "https://www.justwatch.com/id/movie/sumpah-darah",
-      "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
         "Viu"
@@ -187,61 +157,6 @@
         "country": "Indonesia"
       },
       "checked_at": "2026-10-16T09:49:55.571672+00:00"
-    },
-    "https://www.justwatch.com/id/movie/scream-7": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-17T06:58:07.916064+00:00"
-    },
-    "https://www.justwatch.com/id/movie/ouija-origin-of-evil": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-17T23:32:02.458966+00:00"
-    },
-    "https://www.justwatch.com/id/movie/ouija": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-17T23:32:02.458966+00:00"
-    },
-    "https://www.justwatch.com/id/movie/lembayung": {
-      "match": true,
-      "item": {
-        "source": "Indonesian Horror",
-        "source_type": "movie",
-        "title": "Lembayung",
-        "url": "https://www.justwatch.com/id/movie/lembayung",
-        "poster_url": "https://images.justwatch.com/poster/319662290/s332/lembayung.jpg",
-        "year": "2024",
-        "quality": null,
-        "category": "Crime, Horror, Mystery & Thriller",
-        "country": "Indonesia"
-      },
-      "checked_at": "2026-10-17T23:32:02.458966+00:00"
-    },
-    "https://www.justwatch.com/id/movie/a-ghost-at-gilmore-house": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-20T10:18:10.788814+00:00"
-    },
-    "https://www.justwatch.com/id/movie/halloween": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-21T05:45:26.436249+00:00"
-    },
-    "https://www.justwatch.com/id/movie/halloween-kills": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-21T05:45:26.436249+00:00"
-    },
-    "https://www.justwatch.com/id/movie/a-different-man": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-21T10:38:49.980327+00:00"
-    },
-    "https://www.justwatch.com/id/movie/aftersun": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-21T10:38:49.980327+00:00"
     },
     "https://www.justwatch.com/id/movie/dust-bunny": {
       "match": false,
@@ -1642,6 +1557,51 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-20T13:19:25.638234+00:00"
+    },
+    "https://www.justwatch.com/id/movie/13-hours-the-secret-soldiers-of-benghazi": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-21T02:41:22.798976+00:00"
+    },
+    "https://www.justwatch.com/id/movie/steps": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-21T02:41:22.798976+00:00"
+    },
+    "https://www.justwatch.com/id/movie/children-of-heaven-2026-1": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-21T02:41:22.798976+00:00"
+    },
+    "https://www.justwatch.com/id/movie/planet-of-dinosaurs": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-21T02:41:22.798976+00:00"
+    },
+    "https://www.justwatch.com/id/movie/robert-shields-my-life-as-a-robot": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-21T02:41:22.798976+00:00"
+    },
+    "https://www.justwatch.com/id/movie/chiram": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-21T02:41:22.798976+00:00"
+    },
+    "https://www.justwatch.com/id/movie/only-with-married-men": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-21T02:41:22.798976+00:00"
+    },
+    "https://www.justwatch.com/id/movie/ho-javey-je-pyaar": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-21T02:41:22.798976+00:00"
+    },
+    "https://www.justwatch.com/id/movie/wolves": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-21T02:41:22.798976+00:00"
     }
   }
 }
