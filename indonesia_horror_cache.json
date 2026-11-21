@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-21T17:39:16.665216+00:00",
+  "generated_at": "2026-11-21T22:27:01.915622+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -9,14 +9,99 @@
     "KlikFilm",
     "Viu"
   ],
-  "provider_errors": [
-    "Netflix: HTTPError",
-    "Prime Video: HTTPError",
-    "Catchplay: HTTPError",
-    "KlikFilm: HTTPError",
-    "Viu: HTTPError"
+  "provider_errors": [],
+  "items": [
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Dosa: Penebusan atau Pengampunan",
+      "url": "https://www.justwatch.com/id/movie/dosa-penebusan-atau-pengampunan",
+      "poster_url": "https://images.justwatch.com/poster/345524325/s332/dosa-penebusan-atau-pengampunan.jpg",
+      "year": "2026",
+      "quality": "HD",
+      "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Catchplay"
+      ],
+      "provider": "Catchplay"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Fatima",
+      "url": "https://www.justwatch.com/id/movie/fatima-2027",
+      "poster_url": "https://images.justwatch.com/poster/356885218/s332/fatima-2027.jpg",
+      "year": "2027",
+      "quality": null,
+      "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Gak Masuk Akal",
+      "url": "https://www.justwatch.com/id/movie/gak-masuk-akal",
+      "poster_url": "https://images.justwatch.com/poster/356448073/s332/gak-masuk-akal.jpg",
+      "year": "2027",
+      "quality": null,
+      "category": "Comedy, Drama, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Rest In Pink",
+      "url": "https://www.justwatch.com/id/movie/rest-in-pink",
+      "poster_url": "https://images.justwatch.com/poster/355689729/s332/rest-in-pink.jpg",
+      "year": "2025",
+      "quality": "HD",
+      "category": "Comedy, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm"
+      ],
+      "provider": "KlikFilm"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Tuyul: Part 1",
+      "url": "https://www.justwatch.com/id/movie/tuyul-part-1",
+      "poster_url": "https://images.justwatch.com/poster/142176825/s332/tuyul-part-1.jpg",
+      "year": "2015",
+      "quality": null,
+      "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Catchplay"
+      ],
+      "provider": "Catchplay"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Warung Pocong",
+      "url": "https://www.justwatch.com/id/movie/warung-pocong",
+      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
+      "year": "2026",
+      "quality": null,
+      "category": "Comedy, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
+    }
   ],
-  "items": [],
   "candidate_results": {
     "https://www.justwatch.com/id/movie/orphan-3": {
       "match": false,
