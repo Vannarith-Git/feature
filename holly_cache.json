@@ -2,8 +2,53 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-21T10:15:48.746447+00:00",
+  "generated_at": "2026-11-22T17:56:13.871358+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Appofeniacs",
+      "url": "https://hollymoviehd.cc/appofeniacs-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/6uKZM73i8HnR3wmrGWzxHtjmvYb.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Sacrifice",
+      "url": "https://hollymoviehd.cc/sacrifice-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
+      "year": "2026",
+      "quality": "BluRay"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Primetime Preacher$",
+      "url": "https://hollymoviehd.cc/primetime-preacher-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ilFRKYUhsYyW0mpSifpFZmpR9yo.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Our Holiday Playbook",
+      "url": "https://hollymoviehd.cc/our-holiday-playbook-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/sSgjBkHCdhyPj0l9YWwVwxeXV6D.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "The Last Temptation of Becky",
+      "url": "https://hollymoviehd.cc/the-last-temptation-of-becky-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/nzSx9jiInWGWumMV1n1qyRqrpbq.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -226,51 +271,6 @@
       "title": "Russell Brand: Open Secret",
       "url": "https://hollymoviehd.cc/russell-brand-open-secret-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Labas Pasok",
-      "url": "https://hollymoviehd.cc/labas-pasok-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/koQQbzS1AXq5utjK3N7dKshZFKp.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Bida Max",
-      "url": "https://hollymoviehd.cc/bida-max-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/mKvuwi2ttmzBxjW4QA5b3JlYz9K.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "The Intern",
-      "url": "https://hollymoviehd.cc/the-intern-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/pDJEuLTnzYMOPsvpyg3VRWilalp.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Korean Haunted Hospital",
-      "url": "https://hollymoviehd.cc/korean-haunted-hospital-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/hDNUlUbOCqXK4a7o66rrbJti0eM.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Assassin Within",
-      "url": "https://hollymoviehd.cc/assassin-within-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/dCl86bNZt4ww1xLj7T4CwQBVdBY.jpg",
       "year": "2026",
       "quality": "HD"
     }
