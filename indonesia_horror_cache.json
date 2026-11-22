@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-21T22:27:01.915622+00:00",
+  "generated_at": "2026-11-22T02:36:30.298485+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -59,17 +59,17 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Rest In Pink",
-      "url": "https://www.justwatch.com/id/movie/rest-in-pink",
-      "poster_url": "https://images.justwatch.com/poster/355689729/s332/rest-in-pink.jpg",
-      "year": "2025",
-      "quality": "HD",
-      "category": "Comedy, Mystery & Thriller",
+      "title": "Suddenly Satan",
+      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
+      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
+      "year": "2026",
+      "quality": "4K",
+      "category": "Comedy, Horror",
       "country": "Indonesia",
       "providers": [
-        "KlikFilm"
+        "Viu"
       ],
-      "provider": "KlikFilm"
+      "provider": "Viu"
     },
     {
       "source": "Indonesian Horror",
@@ -127,16 +127,6 @@
         "country": "Indonesia"
       },
       "checked_at": "2026-10-16T09:49:55.571672+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-big-day-2018": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-22T06:05:18.839615+00:00"
-    },
-    "https://www.justwatch.com/id/movie/storks": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-22T06:05:18.839615+00:00"
     },
     "https://www.justwatch.com/id/movie/the-pink-panther-2": {
       "match": false,
@@ -1562,6 +1552,16 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-21T10:16:21.559427+00:00"
+    },
+    "https://www.justwatch.com/id/movie/white-flowers-and-fruits": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-22T02:36:30.298485+00:00"
+    },
+    "https://www.justwatch.com/id/movie/preternatural": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-22T02:36:30.298485+00:00"
     }
   }
 }
