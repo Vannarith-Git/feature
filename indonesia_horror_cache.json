@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-22T02:36:30.298485+00:00",
+  "generated_at": "2026-11-22T10:18:42.034435+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -59,12 +59,27 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Suddenly Satan",
-      "url": "https://www.justwatch.com/id/movie/tiba-tiba-setan-2026",
-      "poster_url": "https://images.justwatch.com/poster/341551769/s332/tiba-tiba-setan-2026.jpg",
+      "title": "Rest In Pink",
+      "url": "https://www.justwatch.com/id/movie/rest-in-pink",
+      "poster_url": "https://images.justwatch.com/poster/355689729/s332/rest-in-pink.jpg",
+      "year": "2025",
+      "quality": "HD",
+      "category": "Comedy, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm"
+      ],
+      "provider": "KlikFilm"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Sumpah Darah",
+      "url": "https://www.justwatch.com/id/movie/sumpah-darah",
+      "poster_url": "https://images.justwatch.com/poster/355219852/s332/sumpah-darah.jpg",
       "year": "2026",
-      "quality": "4K",
-      "category": "Comedy, Horror",
+      "quality": null,
+      "category": "Horror, Mystery & Thriller",
       "country": "Indonesia",
       "providers": [
         "Viu"
@@ -85,21 +100,6 @@
         "Catchplay"
       ],
       "provider": "Catchplay"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Warung Pocong",
-      "url": "https://www.justwatch.com/id/movie/warung-pocong",
-      "poster_url": "https://images.justwatch.com/poster/342633520/s332/warung-pocong.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Comedy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
     }
   ],
   "candidate_results": {
