@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-22T17:56:41.090921+00:00",
+  "generated_at": "2026-11-22T23:31:47.060348+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -50,6 +50,21 @@
       "year": "2027",
       "quality": null,
       "category": "Comedy, Drama, Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Viu"
+      ],
+      "provider": "Viu"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Ghosthing",
+      "url": "https://www.justwatch.com/id/movie/ghosthing",
+      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
+      "year": "2026",
+      "quality": "4K",
+      "category": "Comedy, Fantasy, Horror",
       "country": "Indonesia",
       "providers": [
         "Viu"
@@ -127,11 +142,6 @@
         "country": "Indonesia"
       },
       "checked_at": "2026-10-16T09:49:55.571672+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-pink-panther-2": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-22T06:05:18.839615+00:00"
     },
     "https://www.justwatch.com/id/movie/center-stage-turn-it-up": {
       "match": false,
@@ -1562,6 +1572,11 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-22T02:36:30.298485+00:00"
+    },
+    "https://www.justwatch.com/id/movie/black-christmas-2019": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-22T23:31:47.060348+00:00"
     }
   }
 }
