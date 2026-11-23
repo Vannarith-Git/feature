@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-22T23:31:47.060348+00:00",
+  "generated_at": "2026-11-23T03:59:20.365301+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -74,21 +74,6 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Rest In Pink",
-      "url": "https://www.justwatch.com/id/movie/rest-in-pink",
-      "poster_url": "https://images.justwatch.com/poster/355689729/s332/rest-in-pink.jpg",
-      "year": "2025",
-      "quality": "HD",
-      "category": "Comedy, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "KlikFilm"
-      ],
-      "provider": "KlikFilm"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
       "title": "Songko",
       "url": "https://www.justwatch.com/id/movie/songko",
       "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
@@ -100,21 +85,6 @@
         "Viu"
       ],
       "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Tuyul: Part 1",
-      "url": "https://www.justwatch.com/id/movie/tuyul-part-1",
-      "poster_url": "https://images.justwatch.com/poster/142176825/s332/tuyul-part-1.jpg",
-      "year": "2015",
-      "quality": null,
-      "category": "Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Catchplay"
-      ],
-      "provider": "Catchplay"
     }
   ],
   "candidate_results": {
@@ -127,61 +97,6 @@
       "match": false,
       "item": null,
       "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/tuyul-part-1": {
-      "match": true,
-      "item": {
-        "source": "Indonesian Horror",
-        "source_type": "movie",
-        "title": "Tuyul: Part 1",
-        "url": "https://www.justwatch.com/id/movie/tuyul-part-1",
-        "poster_url": "https://images.justwatch.com/poster/142176825/s332/tuyul-part-1.jpg",
-        "year": "2015",
-        "quality": null,
-        "category": "Horror",
-        "country": "Indonesia"
-      },
-      "checked_at": "2026-10-16T09:49:55.571672+00:00"
-    },
-    "https://www.justwatch.com/id/movie/center-stage-turn-it-up": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-22T06:05:18.839615+00:00"
-    },
-    "https://www.justwatch.com/id/movie/practical-magic-2": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-22T06:05:18.839615+00:00"
-    },
-    "https://www.justwatch.com/id/movie/richard-pryor-live-on-the-sunset-strip": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-22T06:05:18.839615+00:00"
-    },
-    "https://www.justwatch.com/id/movie/thomas-and-friends-the-christmas-letter-express": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-22T06:05:18.839615+00:00"
-    },
-    "https://www.justwatch.com/id/movie/captain-fantastic": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-22T11:47:01.680286+00:00"
-    },
-    "https://www.justwatch.com/id/movie/cerita-lila": {
-      "match": true,
-      "item": {
-        "source": "Indonesian Horror",
-        "source_type": "movie",
-        "title": "Cerita Lila",
-        "url": "https://www.justwatch.com/id/movie/cerita-lila",
-        "poster_url": "https://images.justwatch.com/poster/345959447/s332/cerita-lila.jpg",
-        "year": "2026",
-        "quality": "HD",
-        "category": "Horror",
-        "country": "Indonesia"
-      },
-      "checked_at": "2026-10-22T23:22:26.004741+00:00"
     },
     "https://www.justwatch.com/id/movie/dance-of-the-damned-2026": {
       "match": false,
@@ -1577,6 +1492,41 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-22T23:31:47.060348+00:00"
+    },
+    "https://www.justwatch.com/id/movie/teenage-cave-man": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-23T03:59:20.365301+00:00"
+    },
+    "https://www.justwatch.com/id/movie/yoddha-the-warrior": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-23T03:59:20.365301+00:00"
+    },
+    "https://www.justwatch.com/id/movie/other-mommy": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-23T03:59:20.365301+00:00"
+    },
+    "https://www.justwatch.com/id/movie/neglected": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-23T03:59:20.365301+00:00"
+    },
+    "https://www.justwatch.com/id/movie/the-dangerous-seduction": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-23T03:59:20.365301+00:00"
+    },
+    "https://www.justwatch.com/id/movie/ride-for-the-living": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-23T03:59:20.365301+00:00"
+    },
+    "https://www.justwatch.com/id/movie/three-days-of-hamlet": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-23T03:59:20.365301+00:00"
     }
   }
 }

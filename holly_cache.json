@@ -2,8 +2,17 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-22T17:56:13.871358+00:00",
+  "generated_at": "2026-11-23T03:58:35.263340+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Christmas in Blue Dog Valley",
+      "url": "https://hollymoviehd.cc/christmas-in-blue-dog-valley-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/zlS8mSS7oXDBdfICfOI3bTavvjw.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -262,15 +271,6 @@
       "title": "The Beast",
       "url": "https://hollymoviehd.cc/the-beast-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Russell Brand: Open Secret",
-      "url": "https://hollymoviehd.cc/russell-brand-open-secret-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
       "year": "2026",
       "quality": "HD"
     }
