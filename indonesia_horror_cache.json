@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-23T03:59:20.365301+00:00",
+  "generated_at": "2026-11-23T14:26:49.465631+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -29,75 +29,35 @@
     {
       "source": "Indonesian Horror",
       "source_type": "movie",
-      "title": "Fatima",
-      "url": "https://www.justwatch.com/id/movie/fatima-2027",
-      "poster_url": "https://images.justwatch.com/poster/356885218/s332/fatima-2027.jpg",
-      "year": "2027",
-      "quality": null,
+      "title": "Rest In Pink",
+      "url": "https://www.justwatch.com/id/movie/rest-in-pink",
+      "poster_url": "https://images.justwatch.com/poster/355689729/s332/rest-in-pink.jpg",
+      "year": "2025",
+      "quality": "HD",
+      "category": "Comedy, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm"
+      ],
+      "provider": "KlikFilm"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Tuyul: Part 1",
+      "url": "https://www.justwatch.com/id/movie/tuyul-part-1",
+      "poster_url": "https://images.justwatch.com/poster/142176825/s332/tuyul-part-1.jpg",
+      "year": "2015",
+      "quality": "HD",
       "category": "Horror",
       "country": "Indonesia",
       "providers": [
-        "Viu"
+        "Catchplay"
       ],
-      "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Gak Masuk Akal",
-      "url": "https://www.justwatch.com/id/movie/gak-masuk-akal",
-      "poster_url": "https://images.justwatch.com/poster/356448073/s332/gak-masuk-akal.jpg",
-      "year": "2027",
-      "quality": null,
-      "category": "Comedy, Drama, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Ghosthing",
-      "url": "https://www.justwatch.com/id/movie/ghosthing",
-      "poster_url": "https://images.justwatch.com/poster/354598609/s332/ghosthing.jpg",
-      "year": "2026",
-      "quality": "4K",
-      "category": "Comedy, Fantasy, Horror",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
-    },
-    {
-      "source": "Indonesian Horror",
-      "source_type": "movie",
-      "title": "Songko",
-      "url": "https://www.justwatch.com/id/movie/songko",
-      "poster_url": "https://images.justwatch.com/poster/344350344/s332/songko.jpg",
-      "year": "2026",
-      "quality": null,
-      "category": "Horror, Mystery & Thriller",
-      "country": "Indonesia",
-      "providers": [
-        "Viu"
-      ],
-      "provider": "Viu"
+      "provider": "Catchplay"
     }
   ],
   "candidate_results": {
-    "https://www.justwatch.com/id/movie/orphan-3": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
-    "https://www.justwatch.com/id/movie/wolf-creek-3": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-09-27T04:24:05.857881+00:00"
-    },
     "https://www.justwatch.com/id/movie/dance-of-the-damned-2026": {
       "match": false,
       "item": null,
@@ -1527,6 +1487,26 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-23T03:59:20.365301+00:00"
+    },
+    "https://www.justwatch.com/id/movie/tuyul-part-1": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Tuyul: Part 1",
+        "url": "https://www.justwatch.com/id/movie/tuyul-part-1",
+        "poster_url": "https://images.justwatch.com/poster/142176825/s332/tuyul-part-1.jpg",
+        "year": "2015",
+        "quality": "HD",
+        "category": "Horror",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-11-23T14:26:49.465631+00:00"
+    },
+    "https://www.justwatch.com/id/movie/exhuma": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-23T14:26:49.465631+00:00"
     }
   }
 }
