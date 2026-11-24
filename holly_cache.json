@@ -2,8 +2,53 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-24T01:51:04.334651+00:00",
+  "generated_at": "2026-11-24T22:17:22.561416+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Nate Bargatze: Good for Nathan",
+      "url": "https://hollymoviehd.cc/nate-bargatze-good-for-nathan-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/fho1KwBlnQZjnup5LYNLxEGkGpn.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Breeder",
+      "url": "https://hollymoviehd.cc/breeder-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "You Can See Everything",
+      "url": "https://hollymoviehd.cc/you-can-see-everything-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Wicker",
+      "url": "https://hollymoviehd.cc/wicker-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Fjord",
+      "url": "https://hollymoviehd.cc/fjord-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/bD6ynFDUP3PZvdIBjPi9VGhyi5a.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -227,51 +272,6 @@
       "url": "https://hollymoviehd.cc/ari-and-janna-2025/",
       "poster_url": "https://image.tmdb.org/t/p/w342/zcKrASLdgOcXvUCz2pKQegkFSIQ.jpg",
       "year": "2025",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "MILF",
-      "url": "https://hollymoviehd.cc/milf-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/cTJIn8yvYc1jjrPEDnqy0V0641i.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "OK! Madam: Bon Voyage",
-      "url": "https://hollymoviehd.cc/ok-madam-bon-voyage-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/dq812w78I0UnE7ELLiiDZJ8mawX.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "The Eyes",
-      "url": "https://hollymoviehd.cc/the-eyes-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/lURzEaGQFQM7bHyDnsiB1zDgvOG.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "A Talent for Murder",
-      "url": "https://hollymoviehd.cc/a-talent-for-murder-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Queen at Sea",
-      "url": "https://hollymoviehd.cc/queen-at-sea-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
-      "year": "2026",
       "quality": "HD"
     }
   ]
