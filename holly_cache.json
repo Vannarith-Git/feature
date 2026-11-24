@@ -2,8 +2,35 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-23T03:58:35.263340+00:00",
+  "generated_at": "2026-11-24T01:51:04.334651+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Double Booked for the Holidays",
+      "url": "https://hollymoviehd.cc/double-booked-for-the-holidays-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/wbPUMupk9mmFcjDsdbFR4dszY6J.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "The Social Reckoning",
+      "url": "https://hollymoviehd.cc/the-social-reckoning-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Clashing Through the Snow",
+      "url": "https://hollymoviehd.cc/clashing-through-the-snow-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -244,33 +271,6 @@
       "title": "Queen at Sea",
       "url": "https://hollymoviehd.cc/queen-at-sea-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "The Nights Before Christmas",
-      "url": "https://hollymoviehd.cc/the-nights-before-christmas-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/313RVYAdotWQQRuUSrZj9CIoEdk.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "One Last Shot",
-      "url": "https://hollymoviehd.cc/one-last-shot-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/2SivpAp7xeJEFjrMWlSGB5DBGRQ.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "The Beast",
-      "url": "https://hollymoviehd.cc/the-beast-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
       "year": "2026",
       "quality": "HD"
     }
