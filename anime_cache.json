@@ -1,12 +1,57 @@
 {
   "source": "Anime",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?channel=4&sort=4&type=1425950065128833%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B",
-  "generated_at": "2026-11-23T04:00:06.036658+00:00",
+  "generated_at": "2026-11-25T23:46:17.892908+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "我的世界：JJ 麦奇方块奇遇记",
+      "url": "https://www.iq.com/play/1ncnozc9rl1?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic6.iqiyipic.com/image/20261102/cf/be/a_101749460_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "积木方块欢乐旅",
+      "url": "https://www.iq.com/play/m7qtiogg19?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic2.iqiyipic.com/image/20261017/96/43/a_101674904_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "植物大战僵尸：异变花园",
+      "url": "https://www.iq.com/play/27dbg8v9pnx?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic0.iqiyipic.com/image/20261002/0f/27/a_101596385_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Anime",
       "source_type": "series",
@@ -72,7 +117,7 @@
       "source_type": "series",
       "title": "便利店美食欢乐品尝记",
       "url": "https://www.iq.com/play/29p9ij2w4td?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic3.iqiyipic.com/image/20261012/84/8e/a_101655681_m_601_390_540.jpg",
+      "poster_url": "https://pic3.iqiyipic.com/image/20261124/84/8e/a_101655681_m_601_m1_390_540.jpg",
       "year": null,
       "quality": null,
       "category": "Anime · iQIYI",
@@ -261,54 +306,63 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "方块伙伴欢乐局",
-      "url": "https://www.iq.com/play/qjgxiwxuyt?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic9.iqiyipic.com/image/20261008/33/01/a_101626595_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "我的世界：百变方块城市奇遇.",
-      "url": "https://www.iq.com/play/rmtxgbyugd?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic3.iqiyipic.com/image/20260922/f6/a3/a_101534605_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "植物大战僵尸：星际启航",
-      "url": "https://www.iq.com/play/1vi7odvxw9p?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic5.iqiyipic.com/image/20261008/5c/e4/a_101626519_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/1ncnozc9rl1?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "我的世界：JJ 麦奇方块奇遇记",
+        "url": "https://www.iq.com/play/1ncnozc9rl1?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic6.iqiyipic.com/image/20261102/cf/be/a_101749460_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
+    "https://www.iq.com/play/m7qtiogg19?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "积木方块欢乐旅",
+        "url": "https://www.iq.com/play/m7qtiogg19?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic2.iqiyipic.com/image/20261017/96/43/a_101674904_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
+    "https://www.iq.com/play/27dbg8v9pnx?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "植物大战僵尸：异变花园",
+        "url": "https://www.iq.com/play/27dbg8v9pnx?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic0.iqiyipic.com/image/20261002/0f/27/a_101596385_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/faoant9cah?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -388,7 +442,7 @@
         "source_type": "series",
         "title": "便利店美食欢乐品尝记",
         "url": "https://www.iq.com/play/29p9ij2w4td?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic3.iqiyipic.com/image/20261012/84/8e/a_101655681_m_601_390_540.jpg",
+        "poster_url": "https://pic3.iqiyipic.com/image/20261124/84/8e/a_101655681_m_601_m1_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Anime · iQIYI",
@@ -605,60 +659,6 @@
         "title": "趣味厨房烹饪大挑战",
         "url": "https://www.iq.com/play/2cjle4a09o5?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic2.iqiyipic.com/image/20261001/5c/10/a_101592503_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/qjgxiwxuyt?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "方块伙伴欢乐局",
-        "url": "https://www.iq.com/play/qjgxiwxuyt?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic9.iqiyipic.com/image/20261008/33/01/a_101626595_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/rmtxgbyugd?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "我的世界：百变方块城市奇遇.",
-        "url": "https://www.iq.com/play/rmtxgbyugd?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic3.iqiyipic.com/image/20260922/f6/a3/a_101534605_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/1vi7odvxw9p?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "植物大战僵尸：星际启航",
-        "url": "https://www.iq.com/play/1vi7odvxw9p?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic5.iqiyipic.com/image/20261008/5c/e4/a_101626519_m_601_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Anime · iQIYI",

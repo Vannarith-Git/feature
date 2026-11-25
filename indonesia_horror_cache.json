@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-25T04:56:38.140104+00:00",
+  "generated_at": "2026-11-25T23:45:47.796005+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -9,45 +9,55 @@
     "KlikFilm",
     "Viu"
   ],
-  "provider_errors": [
-    "Netflix: HTTPError",
-    "Prime Video: HTTPError",
-    "Catchplay: HTTPError",
-    "KlikFilm: HTTPError",
-    "Viu: HTTPError"
+  "provider_errors": [],
+  "items": [
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Dosa: Penebusan atau Pengampunan",
+      "url": "https://www.justwatch.com/id/movie/dosa-penebusan-atau-pengampunan",
+      "poster_url": "https://images.justwatch.com/poster/345524325/s332/dosa-penebusan-atau-pengampunan.jpg",
+      "year": "2026",
+      "quality": "HD",
+      "category": "Horror",
+      "country": "Indonesia",
+      "providers": [
+        "Catchplay"
+      ],
+      "provider": "Catchplay"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Rest In Pink",
+      "url": "https://www.justwatch.com/id/movie/rest-in-pink",
+      "poster_url": "https://images.justwatch.com/poster/355689729/s332/rest-in-pink.jpg",
+      "year": "2025",
+      "quality": "HD",
+      "category": "Comedy, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "KlikFilm"
+      ],
+      "provider": "KlikFilm"
+    },
+    {
+      "source": "Indonesian Horror",
+      "source_type": "movie",
+      "title": "Sihir Tanah Kubur",
+      "url": "https://www.justwatch.com/id/movie/sihir-tanah-kubur",
+      "poster_url": "https://images.justwatch.com/poster/346771993/s332/sihir-tanah-kubur.jpg",
+      "year": "2026",
+      "quality": "HD",
+      "category": "Horror, Mystery & Thriller",
+      "country": "Indonesia",
+      "providers": [
+        "Netflix"
+      ],
+      "provider": "Netflix"
+    }
   ],
-  "items": [],
   "candidate_results": {
-    "https://www.justwatch.com/id/movie/dance-of-the-damned-2026": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-22T23:22:26.004741+00:00"
-    },
-    "https://www.justwatch.com/id/movie/ludo": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-22T23:22:26.004741+00:00"
-    },
-    "https://www.justwatch.com/id/movie/the-djinns-curse-2": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-22T23:22:26.004741+00:00"
-    },
-    "https://www.justwatch.com/id/movie/kuyank": {
-      "match": true,
-      "item": {
-        "source": "Indonesian Horror",
-        "source_type": "movie",
-        "title": "Kuyank",
-        "url": "https://www.justwatch.com/id/movie/kuyank",
-        "poster_url": "https://images.justwatch.com/poster/340499965/s332/kuyank.jpg",
-        "year": "2026",
-        "quality": null,
-        "category": "Drama, Horror, Mystery & Thriller",
-        "country": "Indonesia"
-      },
-      "checked_at": "2026-10-22T23:22:26.004741+00:00"
-    },
     "https://www.justwatch.com/id/movie/the-slaughter-of-the-vampires": {
       "match": false,
       "item": null,
@@ -1467,6 +1477,36 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-23T14:26:49.465631+00:00"
+    },
+    "https://www.justwatch.com/id/movie/sihir-tanah-kubur": {
+      "match": true,
+      "item": {
+        "source": "Indonesian Horror",
+        "source_type": "movie",
+        "title": "Sihir Tanah Kubur",
+        "url": "https://www.justwatch.com/id/movie/sihir-tanah-kubur",
+        "poster_url": "https://images.justwatch.com/poster/346771993/s332/sihir-tanah-kubur.jpg",
+        "year": "2026",
+        "quality": "HD",
+        "category": "Horror, Mystery & Thriller",
+        "country": "Indonesia"
+      },
+      "checked_at": "2026-11-25T23:45:47.796005+00:00"
+    },
+    "https://www.justwatch.com/id/movie/project-almanac": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-25T23:45:47.796005+00:00"
+    },
+    "https://www.justwatch.com/id/movie/burning": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-25T23:45:47.796005+00:00"
+    },
+    "https://www.justwatch.com/id/movie/dark-nuns-2025": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-25T23:45:47.796005+00:00"
     }
   }
 }
