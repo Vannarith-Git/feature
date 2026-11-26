@@ -1,7 +1,7 @@
 {
   "source": "Indonesian Horror",
   "source_url": "https://www.justwatch.com/id/movies",
-  "generated_at": "2026-11-25T23:45:47.796005+00:00",
+  "generated_at": "2026-11-26T15:44:11.150359+00:00",
   "providers": [
     "Netflix",
     "Prime Video",
@@ -58,11 +58,6 @@
     }
   ],
   "candidate_results": {
-    "https://www.justwatch.com/id/movie/the-slaughter-of-the-vampires": {
-      "match": false,
-      "item": null,
-      "checked_at": "2026-10-23T01:44:50.819528+00:00"
-    },
     "https://www.justwatch.com/id/movie/the-phoenix-incident": {
       "match": false,
       "item": null,
@@ -1507,6 +1502,11 @@
       "match": false,
       "item": null,
       "checked_at": "2026-11-25T23:45:47.796005+00:00"
+    },
+    "https://www.justwatch.com/id/movie/salmokji-whispering-water": {
+      "match": false,
+      "item": null,
+      "checked_at": "2026-11-26T15:44:11.150359+00:00"
     }
   }
 }
