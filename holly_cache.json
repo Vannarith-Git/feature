@@ -2,8 +2,53 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-24T22:17:22.561416+00:00",
+  "generated_at": "2026-11-26T05:31:16.862177+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Ghosts: The Possession of Button House",
+      "url": "https://hollymoviehd.cc/ghosts-the-possession-of-button-house-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/vdRbC8masrQDyhFHLOGECEMllPV.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "The Copycat Killer",
+      "url": "https://hollymoviehd.cc/the-copycat-killer-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/5voyefy7shN88ULTxnhHJ9Y8oBA.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "The Mosquito Bowl",
+      "url": "https://hollymoviehd.cc/the-mosquito-bowl-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Perfect Liars",
+      "url": "https://hollymoviehd.cc/perfect-liars-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Way of the Warrior Kid",
+      "url": "https://hollymoviehd.cc/way-of-the-warrior-kid-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -227,51 +272,6 @@
       "url": "https://hollymoviehd.cc/alindog-ni-aiko-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/rHEKcBvvr5xiS2qilYsoPfdL1T.jpg",
       "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "My Hentai Girlfriend",
-      "url": "https://hollymoviehd.cc/my-hentai-girlfriend-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/ufYZ46Lr5xzKxVUL4EJmkrQzGQO.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Pinoy Sexy Classics: Mga Pelikulang Nagpalaki Sa’yo",
-      "url": "https://hollymoviehd.cc/pinoy-sexy-classics-mga-pelikulang-nagpalaki-sayo-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/dX23tySct9QoWQIgqlgsT8nuN6F.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Spit Or Swallow",
-      "url": "https://hollymoviehd.cc/spit-or-swallow-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/f0eDELsN9HFPb0uiQnnhvWRxa6u.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Triple Threat",
-      "url": "https://hollymoviehd.cc/triple-threat-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/vqyStKolzLmk8r23YrBkRgM9j1M.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Ari and Janna",
-      "url": "https://hollymoviehd.cc/ari-and-janna-2025/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/zcKrASLdgOcXvUCz2pKQegkFSIQ.jpg",
-      "year": "2025",
       "quality": "HD"
     }
   ]

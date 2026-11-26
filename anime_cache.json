@@ -1,12 +1,27 @@
 {
   "source": "Anime",
   "source_url": "https://www.iq.com/wiki/id_id/ranking?channel=4&sort=4&type=1425950065128833%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B",
-  "generated_at": "2026-11-25T23:46:17.892908+00:00",
+  "generated_at": "2026-11-26T05:31:48.171988+00:00",
   "providers": [
     "iQIYI"
   ],
   "feed_errors": [],
   "items": [
+    {
+      "source": "Anime",
+      "source_type": "series",
+      "title": "方块生存：心动名场面",
+      "url": "https://www.iq.com/play/22e55c20m6x?lang=id_id&utm_source=iq_ranking",
+      "poster_url": "https://pic4.iqiyipic.com/image/20260907/bc/54/a_101461159_m_601_390_540.jpg",
+      "year": null,
+      "quality": null,
+      "category": "Anime · iQIYI",
+      "country": "Japan / China",
+      "provider": "iQIYI",
+      "providers": [
+        "iQIYI"
+      ]
+    },
     {
       "source": "Anime",
       "source_type": "series",
@@ -291,24 +306,27 @@
       "providers": [
         "iQIYI"
       ]
-    },
-    {
-      "source": "Anime",
-      "source_type": "series",
-      "title": "趣味厨房烹饪大挑战",
-      "url": "https://www.iq.com/play/2cjle4a09o5?lang=id_id&utm_source=iq_ranking",
-      "poster_url": "https://pic2.iqiyipic.com/image/20261001/5c/10/a_101592503_m_601_390_540.jpg",
-      "year": null,
-      "quality": null,
-      "category": "Anime · iQIYI",
-      "country": "Japan / China",
-      "provider": "iQIYI",
-      "providers": [
-        "iQIYI"
-      ]
     }
   ],
   "candidate_results": {
+    "https://www.iq.com/play/22e55c20m6x?lang=id_id&utm_source=iq_ranking": {
+      "match": true,
+      "item": {
+        "source": "Anime",
+        "source_type": "series",
+        "title": "方块生存：心动名场面",
+        "url": "https://www.iq.com/play/22e55c20m6x?lang=id_id&utm_source=iq_ranking",
+        "poster_url": "https://pic4.iqiyipic.com/image/20260907/bc/54/a_101461159_m_601_390_540.jpg",
+        "year": null,
+        "quality": null,
+        "category": "Anime · iQIYI",
+        "country": "Japan / China",
+        "provider": "iQIYI",
+        "providers": [
+          "iQIYI"
+        ]
+      }
+    },
     "https://www.iq.com/play/1ncnozc9rl1?lang=id_id&utm_source=iq_ranking": {
       "match": true,
       "item": {
@@ -641,24 +659,6 @@
         "title": "水豚开局就开吃",
         "url": "https://www.iq.com/play/1hjhgjzwmfd?lang=id_id&utm_source=iq_ranking",
         "poster_url": "https://pic2.iqiyipic.com/image/20260917/0c/0e/a_101504384_m_601_390_540.jpg",
-        "year": null,
-        "quality": null,
-        "category": "Anime · iQIYI",
-        "country": "Japan / China",
-        "provider": "iQIYI",
-        "providers": [
-          "iQIYI"
-        ]
-      }
-    },
-    "https://www.iq.com/play/2cjle4a09o5?lang=id_id&utm_source=iq_ranking": {
-      "match": true,
-      "item": {
-        "source": "Anime",
-        "source_type": "series",
-        "title": "趣味厨房烹饪大挑战",
-        "url": "https://www.iq.com/play/2cjle4a09o5?lang=id_id&utm_source=iq_ranking",
-        "poster_url": "https://pic2.iqiyipic.com/image/20261001/5c/10/a_101592503_m_601_390_540.jpg",
         "year": null,
         "quality": null,
         "category": "Anime · iQIYI",
