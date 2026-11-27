@@ -2,8 +2,35 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-26T05:31:16.862177+00:00",
+  "generated_at": "2026-11-27T00:05:00.466896+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Model Citizen",
+      "url": "https://hollymoviehd.cc/model-citizen-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Street Fighter",
+      "url": "https://hollymoviehd.cc/street-fighter-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "The Slightest Touch",
+      "url": "https://hollymoviehd.cc/the-slightest-touch-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/dKdzTcCrILy0cCrjUSRiLQeaWLJ.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -244,33 +271,6 @@
       "title": "Rolling Loud: The Movie",
       "url": "https://hollymoviehd.cc/rolling-loud-the-movie-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Love Language",
-      "url": "https://hollymoviehd.cc/love-language-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/sCQde3BSMpDgA1qpE0zzboFdwl0.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Good Boy",
-      "url": "https://hollymoviehd.cc/good-boy-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/eWb841fMkSNly5gfL9J1N0xzVYI.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Alindog Ni Aiko",
-      "url": "https://hollymoviehd.cc/alindog-ni-aiko-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/rHEKcBvvr5xiS2qilYsoPfdL1T.jpg",
       "year": "2026",
       "quality": "HD"
     }
