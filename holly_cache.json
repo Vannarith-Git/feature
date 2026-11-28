@@ -2,8 +2,26 @@
   "source": "HollyMovieHD",
   "metadata_source": "Jina public reader",
   "source_url": "https://hollymoviehd.cc/movies/",
-  "generated_at": "2026-11-27T00:05:00.466896+00:00",
+  "generated_at": "2026-11-28T09:25:59.171669+00:00",
   "items": [
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Gamitan 2",
+      "url": "https://hollymoviehd.cc/gamitan-2-2026/",
+      "poster_url": "https://hollymoviehd.cc/wp-content/themes/Hollymoviehd/assets/css/img/noimg.png",
+      "year": "2026",
+      "quality": "HD"
+    },
+    {
+      "source": "HollyMovieHD",
+      "source_type": "movie",
+      "title": "Chinita",
+      "url": "https://hollymoviehd.cc/chinita-2026/",
+      "poster_url": "https://image.tmdb.org/t/p/w342/qY65DesGRbGxNgrxkK55sf8LPi6.jpg",
+      "year": "2026",
+      "quality": "HD"
+    },
     {
       "source": "HollyMovieHD",
       "source_type": "movie",
@@ -253,24 +271,6 @@
       "title": "Fresh Meat",
       "url": "https://hollymoviehd.cc/fresh-meat-2026/",
       "poster_url": "https://image.tmdb.org/t/p/w342/cbDWLVV7b3RAHvQBMd7eSvR5gBy.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Madden",
-      "url": "https://hollymoviehd.cc/madden-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-      "year": "2026",
-      "quality": "HD"
-    },
-    {
-      "source": "HollyMovieHD",
-      "source_type": "movie",
-      "title": "Rolling Loud: The Movie",
-      "url": "https://hollymoviehd.cc/rolling-loud-the-movie-2026/",
-      "poster_url": "https://image.tmdb.org/t/p/w342/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
       "year": "2026",
       "quality": "HD"
     }
